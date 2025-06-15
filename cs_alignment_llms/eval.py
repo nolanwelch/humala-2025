@@ -54,8 +54,11 @@ def main():
         api_key=os.environ.get("OPENROUTER_API_KEY"),
     )
 
-    all_models = []
-    all_utterances = []
+    all_models = [
+        "openai/o3-pro",
+    ]
+    with open("cs-utterances.txt", "r") as f:
+        all_utterances = [line.strip() for line in f if line.strip()]
 
     prev_data = (
         pd.read_csv(RESULTS_FILE) if os.path.exists(RESULTS_FILE) else pd.DataFrame()
