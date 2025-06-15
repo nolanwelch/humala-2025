@@ -57,10 +57,9 @@ def main():
     all_models = []
     all_utterances = []
 
-    if os.path.exists(RESULTS_FILE):
-        prev_data = pd.read_csv(RESULTS_FILE)
-    else:
-        prev_data = pd.DataFrame()
+    prev_data = (
+        pd.read_csv(RESULTS_FILE) if os.path.exists(RESULTS_FILE) else pd.DataFrame()
+    )
 
     data = []
     for model in all_models:
