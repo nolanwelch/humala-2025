@@ -1,9 +1,13 @@
 import os
+import pandas as pd
 from enum import Enum
 
 from dotenv import load_dotenv
 from openai import OpenAI
 from pydantic import BaseModel
+
+
+RESULTS_FILE = "results.csv"
 
 
 class LikertRating(int, Enum):
@@ -18,16 +22,6 @@ class LikertRating(int, Enum):
 
 class ModelResponse(BaseModel):
     rating: LikertRating
-
-
-# Initialize client
-
-load_dotenv()
-
-client = OpenAI(
-    base_url="https://openrouter.ai/api/v1",
-    api_key=os.environ.get("OPENROUTER_API_KEY"),
-)
 
 
 # TODO: Should we somehow acount for the "calibration" and task specification
@@ -53,7 +47,37 @@ def get_acceptability_score(client: OpenAI, model: str, utterance: str) -> Liker
 
 
 def main():
-    pass
+    # Initialize client
+    load_dotenv()
+    client = OpenAI(
+        base_url="https://openrouter.ai/api/v1",
+        api_key=os.environ.get("OPENROUTER_API_KEY"),
+    )
+
+    all_models = []
+    all_utterances = []
+
+    if os.path.exists(RESULTS_FILE):
+        prev_data = pd.read_csv(RESULTS_FILE)
+    else:
+        prev_data = pd.DataFrame()
+
+    data = []
+    for model in all_models:
+        for utterance in all_utterances:
+            if not prev_data[
+                (prev_data["model"] == model) & (prev_data["utterance"] == utterance)
+            ].empty:
+                continue  # skip model/utterance combinations we have already processed
+
+            score = get_acceptability_score(client, model, utterance)
+            data.append(
+                {"model": model, "utterance": utterance, "acceptability_rating": score}
+            )
+
+    data = pd.DataFrame(data)
+    data = pd.concat([prev_data, data])
+    data.to_csv("results.csv")
 
 
 if __name__ == "__main__":
