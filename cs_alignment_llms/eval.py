@@ -58,7 +58,7 @@ def main():
         "openai/o3-pro",
     ]
     with open("cs-utterances.txt", "r") as f:
-        all_utterances = [line.strip() for line in f if line.strip()]
+        all_utterances = [s for line in f if (s := line.strip())]
 
     prev_data = (
         pd.read_csv(RESULTS_FILE) if os.path.exists(RESULTS_FILE) else pd.DataFrame()
