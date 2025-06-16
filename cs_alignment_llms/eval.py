@@ -5,7 +5,7 @@ from enum import Enum
 import pandas as pd
 from dotenv import load_dotenv
 from openai import OpenAI
-from pydantic import BaseModel, ValidationError
+from pydantic import BaseModel
 from tqdm.auto import tqdm
 
 MAX_ATTEMPTS = 5
@@ -55,7 +55,7 @@ def get_acceptability_score(client: OpenAI, model: str, utterance: str) -> Liker
     )
     try:
         resp = msg.parsed
-    except ValidationError:
+    except Exception:
         # Attempt to extract via regex
         rating_match = re.search(r'"rating"\s*:\s*([1-7])', msg.content)
         rating = int(rating_match.group(1)) if rating_match else None
