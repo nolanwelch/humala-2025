@@ -917,3 +917,1347 @@ openai/o4-mini-2025-04-16,179,3,He is going to serve us clam chowder for dinner 
 openai/o4-mini-2025-04-16,180,1,He is going to serve us soup for dinner tomorrow.,7.0
 openai/o4-mini-2025-04-16,180,2,He is going to serve us soup for dinner tomorrow.,7.0
 openai/o4-mini-2025-04-16,180,3,He is going to serve us soup for dinner tomorrow.,7.0
+openai/o4-mini-high-2025-04-16,79,1,He was called naco todo el tiempo.,3.0
+openai/o4-mini-high-2025-04-16,79,2,He was called naco todo el tiempo.,2.0
+openai/o4-mini-high-2025-04-16,79,3,He was called naco todo el tiempo.,2.0
+openai/o4-mini-high-2025-04-16,80,1,He was called estúpido todo el tiempo.,7.0
+openai/o4-mini-high-2025-04-16,80,2,He was called estúpido todo el tiempo.,2.0
+openai/o4-mini-high-2025-04-16,80,3,He was called estúpido todo el tiempo.,5.0
+openai/o4-mini-high-2025-04-16,81,1,Le llamaba boneheaded all the time.,4.0
+openai/o4-mini-high-2025-04-16,81,2,Le llamaba boneheaded all the time.,3.0
+openai/o4-mini-high-2025-04-16,81,3,Le llamaba boneheaded all the time.,5.0
+openai/o4-mini-high-2025-04-16,82,1,Le llamaba stupid all the time.,2.0
+openai/o4-mini-high-2025-04-16,82,2,Le llamaba stupid all the time.,2.0
+openai/o4-mini-high-2025-04-16,82,3,Le llamaba stupid all the time.,2.0
+openai/o4-mini-high-2025-04-16,83,1,He was called chicano porque era mexicano.,6.0
+openai/o4-mini-high-2025-04-16,83,2,He was called chicano porque era mexicano.,6.0
+openai/o4-mini-high-2025-04-16,83,3,He was called chicano porque era mexicano.,5.0
+openai/o4-mini-high-2025-04-16,84,1,He was called nativo porque era mexicano.,7.0
+openai/o4-mini-high-2025-04-16,84,2,He was called nativo porque era mexicano.,2.0
+openai/o4-mini-high-2025-04-16,84,3,He was called nativo porque era mexicano.,2.0
+openai/o4-mini-high-2025-04-16,85,1,Le llamaba snooty because he was from the US.,2.0
+openai/o4-mini-high-2025-04-16,85,2,Le llamaba snooty because he was from the US.,2.0
+openai/o4-mini-high-2025-04-16,85,3,Le llamaba snooty because he was from the US.,2.0
+openai/o4-mini-high-2025-04-16,86,1,Le llamaba native because he was from the US.,2.0
+openai/o4-mini-high-2025-04-16,86,2,Le llamaba native because he was from the US.,1.0
+openai/o4-mini-high-2025-04-16,86,3,Le llamaba native because he was from the US.,2.0
+openai/o4-mini-high-2025-04-16,87,1,My mom bought nopales para la fiesta.,7.0
+openai/o4-mini-high-2025-04-16,87,2,My mom bought nopales para la fiesta.,7.0
+openai/o4-mini-high-2025-04-16,87,3,My mom bought nopales para la fiesta.,6.0
+openai/o4-mini-high-2025-04-16,88,1,My mom bought fruta para la fiesta.,7.0
+openai/o4-mini-high-2025-04-16,88,2,My mom bought fruta para la fiesta.,6.0
+openai/o4-mini-high-2025-04-16,88,3,My mom bought fruta para la fiesta.,6.0
+openai/o4-mini-high-2025-04-16,89,1,Mi mamá compró crackers for the party.,4.0
+openai/o4-mini-high-2025-04-16,89,2,Mi mamá compró crackers for the party.,4.0
+openai/o4-mini-high-2025-04-16,89,3,Mi mamá compró crackers for the party.,5.0
+openai/o4-mini-high-2025-04-16,90,1,Mi mamá compró fruit for the party.,2.0
+openai/o4-mini-high-2025-04-16,90,2,Mi mamá compró fruit for the party.,3.0
+openai/o4-mini-high-2025-04-16,90,3,Mi mamá compró fruit for the party.,4.0
+openai/o4-mini-high-2025-04-16,91,1,I have been craving champurrado desde la mañana.,7.0
+openai/o4-mini-high-2025-04-16,91,2,I have been craving champurrado desde la mañana.,6.0
+openai/o4-mini-high-2025-04-16,91,3,I have been craving champurrado desde la mañana.,6.0
+openai/o4-mini-high-2025-04-16,92,1,I have been craving café desde la mañana.,4.0
+openai/o4-mini-high-2025-04-16,92,2,I have been craving café desde la mañana.,4.0
+openai/o4-mini-high-2025-04-16,92,3,I have been craving café desde la mañana.,3.0
+openai/o4-mini-high-2025-04-16,93,1,He tenido antojo de seltzer since this morning.,6.0
+openai/o4-mini-high-2025-04-16,93,2,He tenido antojo de seltzer since this morning.,3.0
+openai/o4-mini-high-2025-04-16,93,3,He tenido antojo de seltzer since this morning.,4.0
+openai/o4-mini-high-2025-04-16,94,1,He tenido antojo de coffee since this morning.,3.0
+openai/o4-mini-high-2025-04-16,94,2,He tenido antojo de coffee since this morning.,3.0
+openai/o4-mini-high-2025-04-16,94,3,He tenido antojo de coffee since this morning.,4.0
+openai/o4-mini-high-2025-04-16,95,1,My grandma made me atole para el desayuno.,6.0
+openai/o4-mini-high-2025-04-16,95,2,My grandma made me atole para el desayuno.,7.0
+openai/o4-mini-high-2025-04-16,95,3,My grandma made me atole para el desayuno.,7.0
+openai/o4-mini-high-2025-04-16,96,1,My grandma made me panqueques para el desayuno.,7.0
+openai/o4-mini-high-2025-04-16,96,2,My grandma made me panqueques para el desayuno.,6.0
+openai/o4-mini-high-2025-04-16,96,3,My grandma made me panqueques para el desayuno.,6.0
+openai/o4-mini-high-2025-04-16,97,1,Mi abuela me hizo biscuits for breakfast.,4.0
+openai/o4-mini-high-2025-04-16,97,2,Mi abuela me hizo biscuits for breakfast.,2.0
+openai/o4-mini-high-2025-04-16,97,3,Mi abuela me hizo biscuits for breakfast.,3.0
+openai/o4-mini-high-2025-04-16,98,1,Mi abuela me hizo pancakes for breakfast.,5.0
+openai/o4-mini-high-2025-04-16,98,2,Mi abuela me hizo pancakes for breakfast.,7.0
+openai/o4-mini-high-2025-04-16,98,3,Mi abuela me hizo pancakes for breakfast.,4.0
+openai/o4-mini-high-2025-04-16,99,1,He is going to serve us pozole para la cena mañana.,6.0
+openai/o4-mini-high-2025-04-16,99,2,He is going to serve us pozole para la cena mañana.,6.0
+openai/o4-mini-high-2025-04-16,99,3,He is going to serve us pozole para la cena mañana.,6.0
+openai/o4-mini-high-2025-04-16,100,1,He is going to serve us sopa para la cena mañana.,5.0
+openai/o4-mini-high-2025-04-16,100,2,He is going to serve us sopa para la cena mañana.,4.0
+openai/o4-mini-high-2025-04-16,100,3,He is going to serve us sopa para la cena mañana.,4.0
+openai/o4-mini-high-2025-04-16,101,1,Nos va a servir clam chowder for dinner tomorrow.,3.0
+openai/o4-mini-high-2025-04-16,101,2,Nos va a servir clam chowder for dinner tomorrow.,2.0
+openai/o4-mini-high-2025-04-16,101,3,Nos va a servir clam chowder for dinner tomorrow.,6.0
+openai/o4-mini-high-2025-04-16,102,1,Nos va a servir soup for dinner tomorrow.,2.0
+openai/o4-mini-high-2025-04-16,102,2,Nos va a servir soup for dinner tomorrow.,2.0
+openai/o4-mini-high-2025-04-16,102,3,Nos va a servir soup for dinner tomorrow.,2.0
+openai/o4-mini-high-2025-04-16,103,1,Qué hombre está bailando Araceli con?,1.0
+openai/o4-mini-high-2025-04-16,103,2,Qué hombre está bailando Araceli con?,1.0
+openai/o4-mini-high-2025-04-16,103,3,Qué hombre está bailando Araceli con?,1.0
+openai/o4-mini-high-2025-04-16,104,1,Qué curso se está cansando Candela de?,2.0
+openai/o4-mini-high-2025-04-16,104,2,Qué curso se está cansando Candela de?,2.0
+openai/o4-mini-high-2025-04-16,104,3,Qué curso se está cansando Candela de?,1.0
+openai/o4-mini-high-2025-04-16,105,1,Qué libro está haciendo referencia Diego a?,1.0
+openai/o4-mini-high-2025-04-16,105,2,Qué libro está haciendo referencia Diego a?,2.0
+openai/o4-mini-high-2025-04-16,105,3,Qué libro está haciendo referencia Diego a?,1.0
+openai/o4-mini-high-2025-04-16,106,1,Elisa no sabe qué amigo Fernando está trabajando con.,2.0
+openai/o4-mini-high-2025-04-16,106,2,Elisa no sabe qué amigo Fernando está trabajando con.,1.0
+openai/o4-mini-high-2025-04-16,106,3,Elisa no sabe qué amigo Fernando está trabajando con.,1.0
+openai/o4-mini-high-2025-04-16,107,1,Julieta no sabe qué avión Leonel está saltando de.,2.0
+openai/o4-mini-high-2025-04-16,107,2,Julieta no sabe qué avión Leonel está saltando de.,1.0
+openai/o4-mini-high-2025-04-16,107,3,Julieta no sabe qué avión Leonel está saltando de.,2.0
+openai/o4-mini-high-2025-04-16,108,1,Matías no sabe qué país Natalia está viajando a.,1.0
+openai/o4-mini-high-2025-04-16,108,2,Matías no sabe qué país Natalia está viajando a.,1.0
+openai/o4-mini-high-2025-04-16,108,3,Matías no sabe qué país Natalia está viajando a.,2.0
+openai/o4-mini-high-2025-04-16,109,1,United es la compañía que Roberta está volando con.,2.0
+openai/o4-mini-high-2025-04-16,109,2,United es la compañía que Roberta está volando con.,2.0
+openai/o4-mini-high-2025-04-16,109,3,United es la compañía que Roberta está volando con.,2.0
+openai/o4-mini-high-2025-04-16,110,1,Ese Lamborghini es el coche que Teresa está saliendo de.,1.0
+openai/o4-mini-high-2025-04-16,110,2,Ese Lamborghini es el coche que Teresa está saliendo de.,2.0
+openai/o4-mini-high-2025-04-16,110,3,Ese Lamborghini es el coche que Teresa está saliendo de.,2.0
+openai/o4-mini-high-2025-04-16,111,1,Villa del Carbón es el pueblo que Víctor se está mudando a.,2.0
+openai/o4-mini-high-2025-04-16,111,2,Villa del Carbón es el pueblo que Víctor se está mudando a.,1.0
+openai/o4-mini-high-2025-04-16,111,3,Villa del Carbón es el pueblo que Víctor se está mudando a.,2.0
+openai/o4-mini-high-2025-04-16,112,1,Con qué hombre está bailando Araceli?,7.0
+openai/o4-mini-high-2025-04-16,112,2,Con qué hombre está bailando Araceli?,6.0
+openai/o4-mini-high-2025-04-16,112,3,Con qué hombre está bailando Araceli?,7.0
+openai/o4-mini-high-2025-04-16,113,1,De qué curso se está cansando Candela?,6.0
+openai/o4-mini-high-2025-04-16,113,2,De qué curso se está cansando Candela?,7.0
+openai/o4-mini-high-2025-04-16,113,3,De qué curso se está cansando Candela?,6.0
+openai/o4-mini-high-2025-04-16,114,1,A qué libro está haciendo referencia Diego?,6.0
+openai/o4-mini-high-2025-04-16,114,2,A qué libro está haciendo referencia Diego?,6.0
+openai/o4-mini-high-2025-04-16,114,3,A qué libro está haciendo referencia Diego?,7.0
+openai/o4-mini-high-2025-04-16,115,1,Elisa no sabe con qué amigo Fernando está trabajando.,7.0
+openai/o4-mini-high-2025-04-16,115,2,Elisa no sabe con qué amigo Fernando está trabajando.,7.0
+openai/o4-mini-high-2025-04-16,115,3,Elisa no sabe con qué amigo Fernando está trabajando.,7.0
+openai/o4-mini-high-2025-04-16,116,1,Julieta no sabe de qué avión Leonel está saltando.,7.0
+openai/o4-mini-high-2025-04-16,116,2,Julieta no sabe de qué avión Leonel está saltando.,7.0
+openai/o4-mini-high-2025-04-16,116,3,Julieta no sabe de qué avión Leonel está saltando.,6.0
+openai/o4-mini-high-2025-04-16,117,1,Matías no sabe a qué país Natalia está viajando.,5.0
+openai/o4-mini-high-2025-04-16,117,2,Matías no sabe a qué país Natalia está viajando.,7.0
+openai/o4-mini-high-2025-04-16,117,3,Matías no sabe a qué país Natalia está viajando.,7.0
+openai/o4-mini-high-2025-04-16,118,1,United es la compañía con la que Roberta está volando.,7.0
+openai/o4-mini-high-2025-04-16,118,2,United es la compañía con la que Roberta está volando.,6.0
+openai/o4-mini-high-2025-04-16,118,3,United es la compañía con la que Roberta está volando.,7.0
+openai/o4-mini-high-2025-04-16,119,1,Ese Lamborghini es el coche del que Teresa está saliendo.,6.0
+openai/o4-mini-high-2025-04-16,119,2,Ese Lamborghini es el coche del que Teresa está saliendo.,3.0
+openai/o4-mini-high-2025-04-16,119,3,Ese Lamborghini es el coche del que Teresa está saliendo.,7.0
+openai/o4-mini-high-2025-04-16,120,1,Villa del Carbón es el pueblo al que Víctor se está mudando.,7.0
+openai/o4-mini-high-2025-04-16,120,2,Villa del Carbón es el pueblo al que Víctor se está mudando.,7.0
+openai/o4-mini-high-2025-04-16,120,3,Villa del Carbón es el pueblo al que Víctor se está mudando.,7.0
+openai/o4-mini-high-2025-04-16,121,1,Yo fui a la fiesta con mi amigo.,7.0
+openai/o4-mini-high-2025-04-16,121,2,Yo fui a la fiesta con mi amigo.,7.0
+openai/o4-mini-high-2025-04-16,121,3,Yo fui a la fiesta con mi amigo.,7.0
+openai/o4-mini-high-2025-04-16,122,1,La mujer abrió la puerta con sus llaves.,7.0
+openai/o4-mini-high-2025-04-16,122,2,La mujer abrió la puerta con sus llaves.,7.0
+openai/o4-mini-high-2025-04-16,122,3,La mujer abrió la puerta con sus llaves.,7.0
+openai/o4-mini-high-2025-04-16,123,1,Pedro salío a comer para su cumple.,5.0
+openai/o4-mini-high-2025-04-16,123,2,Pedro salío a comer para su cumple.,5.0
+openai/o4-mini-high-2025-04-16,123,3,Pedro salío a comer para su cumple.,5.0
+openai/o4-mini-high-2025-04-16,124,1,Pedro llegó tarde porque hubo tráfico.,7.0
+openai/o4-mini-high-2025-04-16,124,2,Pedro llegó tarde porque hubo tráfico.,7.0
+openai/o4-mini-high-2025-04-16,124,3,Pedro llegó tarde porque hubo tráfico.,7.0
+openai/o4-mini-high-2025-04-16,125,1,José salió temprano porque se fue al trabajo.,4.0
+openai/o4-mini-high-2025-04-16,125,2,José salió temprano porque se fue al trabajo.,6.0
+openai/o4-mini-high-2025-04-16,125,3,José salió temprano porque se fue al trabajo.,3.0
+openai/o4-mini-high-2025-04-16,126,1,Miguel se cortó el pelo porque estaba muy largo.,7.0
+openai/o4-mini-high-2025-04-16,126,2,Miguel se cortó el pelo porque estaba muy largo.,7.0
+openai/o4-mini-high-2025-04-16,126,3,Miguel se cortó el pelo porque estaba muy largo.,7.0
+openai/o4-mini-high-2025-04-16,127,1,Yo fui a la playa todo el verano.,7.0
+openai/o4-mini-high-2025-04-16,127,2,Yo fui a la playa todo el verano.,4.0
+openai/o4-mini-high-2025-04-16,127,3,Yo fui a la playa todo el verano.,7.0
+openai/o4-mini-high-2025-04-16,128,1,Yo me levanto temprano todos los días de la semana.,7.0
+openai/o4-mini-high-2025-04-16,128,2,Yo me levanto temprano todos los días de la semana.,7.0
+openai/o4-mini-high-2025-04-16,128,3,Yo me levanto temprano todos los días de la semana.,7.0
+openai/o4-mini-high-2025-04-16,129,1,Ella sale a bailar cada fin de semana.,7.0
+openai/o4-mini-high-2025-04-16,129,2,Ella sale a bailar cada fin de semana.,7.0
+openai/o4-mini-high-2025-04-16,129,3,Ella sale a bailar cada fin de semana.,7.0
+openai/o4-mini-high-2025-04-16,130,1,Le llamaba naco todo el tiempo.,7.0
+openai/o4-mini-high-2025-04-16,130,2,Le llamaba naco todo el tiempo.,7.0
+openai/o4-mini-high-2025-04-16,130,3,Le llamaba naco todo el tiempo.,7.0
+openai/o4-mini-high-2025-04-16,131,1,Le llamaba estúpido todo el tiempo.,6.0
+openai/o4-mini-high-2025-04-16,131,2,Le llamaba estúpido todo el tiempo.,7.0
+openai/o4-mini-high-2025-04-16,131,3,Le llamaba estúpido todo el tiempo.,7.0
+openai/o4-mini-high-2025-04-16,132,1,Le llamaba chicano porque era mexicano.,3.0
+openai/o4-mini-high-2025-04-16,132,2,Le llamaba chicano porque era mexicano.,6.0
+openai/o4-mini-high-2025-04-16,132,3,Le llamaba chicano porque era mexicano.,7.0
+openai/o4-mini-high-2025-04-16,133,1,Le llamaba nativo porque era mexicano.,5.0
+openai/o4-mini-high-2025-04-16,133,2,Le llamaba nativo porque era mexicano.,4.0
+openai/o4-mini-high-2025-04-16,133,3,Le llamaba nativo porque era mexicano.,3.0
+openai/o4-mini-high-2025-04-16,134,1,Mi mamá compró nopales para la fiesta.,7.0
+openai/o4-mini-high-2025-04-16,134,2,Mi mamá compró nopales para la fiesta.,7.0
+openai/o4-mini-high-2025-04-16,134,3,Mi mamá compró nopales para la fiesta.,7.0
+openai/o4-mini-high-2025-04-16,135,1,Mi mamá compró fruta para la fiesta.,7.0
+openai/o4-mini-high-2025-04-16,135,2,Mi mamá compró fruta para la fiesta.,7.0
+openai/o4-mini-high-2025-04-16,135,3,Mi mamá compró fruta para la fiesta.,7.0
+openai/o4-mini-high-2025-04-16,136,1,He tenido antojo de champurrado desde la mañana.,7.0
+openai/o4-mini-high-2025-04-16,136,2,He tenido antojo de champurrado desde la mañana.,7.0
+openai/o4-mini-high-2025-04-16,136,3,He tenido antojo de champurrado desde la mañana.,7.0
+openai/o4-mini-high-2025-04-16,137,1,He tenido antojo de café desde la mañana.,7.0
+openai/o4-mini-high-2025-04-16,137,2,He tenido antojo de café desde la mañana.,6.0
+openai/o4-mini-high-2025-04-16,137,3,He tenido antojo de café desde la mañana.,6.0
+openai/o4-mini-high-2025-04-16,138,1,Mi abuela me hizo atole para el desayuno.,7.0
+openai/o4-mini-high-2025-04-16,138,2,Mi abuela me hizo atole para el desayuno.,7.0
+openai/o4-mini-high-2025-04-16,138,3,Mi abuela me hizo atole para el desayuno.,7.0
+openai/o4-mini-high-2025-04-16,139,1,Mi abuela me hizo panqueques para el desayuno.,7.0
+openai/o4-mini-high-2025-04-16,139,2,Mi abuela me hizo panqueques para el desayuno.,7.0
+openai/o4-mini-high-2025-04-16,139,3,Mi abuela me hizo panqueques para el desayuno.,7.0
+openai/o4-mini-high-2025-04-16,140,1,Nos va a servir pozole para la cena mañana.,2.0
+openai/o4-mini-high-2025-04-16,140,2,Nos va a servir pozole para la cena mañana.,2.0
+openai/o4-mini-high-2025-04-16,140,3,Nos va a servir pozole para la cena mañana.,3.0
+openai/o4-mini-high-2025-04-16,141,1,Nos va a servir sopa para la cena mañana.,7.0
+openai/o4-mini-high-2025-04-16,141,2,Nos va a servir sopa para la cena mañana.,5.0
+openai/o4-mini-high-2025-04-16,141,3,Nos va a servir sopa para la cena mañana.,7.0
+openai/o4-mini-high-2025-04-16,142,1,What guy is Ashley dancing with?,6.0
+openai/o4-mini-high-2025-04-16,142,2,What guy is Ashley dancing with?,7.0
+openai/o4-mini-high-2025-04-16,142,3,What guy is Ashley dancing with?,7.0
+openai/o4-mini-high-2025-04-16,143,1,What class is Charlotte getting tired of?,7.0
+openai/o4-mini-high-2025-04-16,143,2,What class is Charlotte getting tired of?,7.0
+openai/o4-mini-high-2025-04-16,143,3,What class is Charlotte getting tired of?,7.0
+openai/o4-mini-high-2025-04-16,144,1,What book is Dylan referring to?,7.0
+openai/o4-mini-high-2025-04-16,144,2,What book is Dylan referring to?,7.0
+openai/o4-mini-high-2025-04-16,144,3,What book is Dylan referring to?,7.0
+openai/o4-mini-high-2025-04-16,145,1,Emily doesn't know what friend Frank is working with.,4.0
+openai/o4-mini-high-2025-04-16,145,2,Emily doesn't know what friend Frank is working with.,4.0
+openai/o4-mini-high-2025-04-16,145,3,Emily doesn't know what friend Frank is working with.,2.0
+openai/o4-mini-high-2025-04-16,146,1,Jessica doesn't know what plane Lance is jumping out of.,7.0
+openai/o4-mini-high-2025-04-16,146,2,Jessica doesn't know what plane Lance is jumping out of.,6.0
+openai/o4-mini-high-2025-04-16,146,3,Jessica doesn't know what plane Lance is jumping out of.,7.0
+openai/o4-mini-high-2025-04-16,147,1,Mason doesn't know what country Nancy is traveling to.,7.0
+openai/o4-mini-high-2025-04-16,147,2,Mason doesn't know what country Nancy is traveling to.,7.0
+openai/o4-mini-high-2025-04-16,147,3,Mason doesn't know what country Nancy is traveling to.,7.0
+openai/o4-mini-high-2025-04-16,148,1,United is the company Ruby is flying with.,7.0
+openai/o4-mini-high-2025-04-16,148,2,United is the company Ruby is flying with.,7.0
+openai/o4-mini-high-2025-04-16,148,3,United is the company Ruby is flying with.,6.0
+openai/o4-mini-high-2025-04-16,149,1,That Lamborghini is the car Tiffany is getting out of.,7.0
+openai/o4-mini-high-2025-04-16,149,2,That Lamborghini is the car Tiffany is getting out of.,7.0
+openai/o4-mini-high-2025-04-16,149,3,That Lamborghini is the car Tiffany is getting out of.,7.0
+openai/o4-mini-high-2025-04-16,150,1,Warrenville is the town Vern is moving to.,7.0
+openai/o4-mini-high-2025-04-16,150,2,Warrenville is the town Vern is moving to.,7.0
+openai/o4-mini-high-2025-04-16,150,3,Warrenville is the town Vern is moving to.,7.0
+openai/o4-mini-high-2025-04-16,151,1,With what guy is Ashley dancing?,5.0
+openai/o4-mini-high-2025-04-16,151,2,With what guy is Ashley dancing?,3.0
+openai/o4-mini-high-2025-04-16,151,3,With what guy is Ashley dancing?,4.0
+openai/o4-mini-high-2025-04-16,152,1,Of what class is Charlotte getting tired?,4.0
+openai/o4-mini-high-2025-04-16,152,2,Of what class is Charlotte getting tired?,6.0
+openai/o4-mini-high-2025-04-16,152,3,Of what class is Charlotte getting tired?,5.0
+openai/o4-mini-high-2025-04-16,153,1,To what book is Dylan referring?,7.0
+openai/o4-mini-high-2025-04-16,153,2,To what book is Dylan referring?,7.0
+openai/o4-mini-high-2025-04-16,153,3,To what book is Dylan referring?,7.0
+openai/o4-mini-high-2025-04-16,154,1,Emily doesn't know with what friend Frank is working.,3.0
+openai/o4-mini-high-2025-04-16,154,2,Emily doesn't know with what friend Frank is working.,4.0
+openai/o4-mini-high-2025-04-16,154,3,Emily doesn't know with what friend Frank is working.,2.0
+openai/o4-mini-high-2025-04-16,155,1,Jessica doesn't know of what plane Lance is jumping out.,2.0
+openai/o4-mini-high-2025-04-16,155,2,Jessica doesn't know of what plane Lance is jumping out.,2.0
+openai/o4-mini-high-2025-04-16,155,3,Jessica doesn't know of what plane Lance is jumping out.,2.0
+openai/o4-mini-high-2025-04-16,156,1,Mason doesn't know to what country Nancy is traveling.,6.0
+openai/o4-mini-high-2025-04-16,156,2,Mason doesn't know to what country Nancy is traveling.,7.0
+openai/o4-mini-high-2025-04-16,156,3,Mason doesn't know to what country Nancy is traveling.,7.0
+openai/o4-mini-high-2025-04-16,157,1,United is the company with which Ruby is flying.,7.0
+openai/o4-mini-high-2025-04-16,157,2,United is the company with which Ruby is flying.,7.0
+openai/o4-mini-high-2025-04-16,157,3,United is the company with which Ruby is flying.,7.0
+openai/o4-mini-high-2025-04-16,158,1,That Lamborghini is the car of which Tiffany is getting out.,1.0
+openai/o4-mini-high-2025-04-16,158,2,That Lamborghini is the car of which Tiffany is getting out.,1.0
+openai/o4-mini-high-2025-04-16,158,3,That Lamborghini is the car of which Tiffany is getting out.,1.0
+openai/o4-mini-high-2025-04-16,159,1,Warrenville is the town to which Vern is moving.,7.0
+openai/o4-mini-high-2025-04-16,159,2,Warrenville is the town to which Vern is moving.,7.0
+openai/o4-mini-high-2025-04-16,159,3,Warrenville is the town to which Vern is moving.,7.0
+openai/o4-mini-high-2025-04-16,160,1,I went to the party with my friend.,7.0
+openai/o4-mini-high-2025-04-16,160,2,I went to the party with my friend.,7.0
+openai/o4-mini-high-2025-04-16,160,3,I went to the party with my friend.,7.0
+openai/o4-mini-high-2025-04-16,161,1,The woman opened the door with her keys.,7.0
+openai/o4-mini-high-2025-04-16,161,2,The woman opened the door with her keys.,7.0
+openai/o4-mini-high-2025-04-16,161,3,The woman opened the door with her keys.,7.0
+openai/o4-mini-high-2025-04-16,162,1,Peter went out to eat for his birthday.,7.0
+openai/o4-mini-high-2025-04-16,162,2,Peter went out to eat for his birthday.,7.0
+openai/o4-mini-high-2025-04-16,162,3,Peter went out to eat for his birthday.,7.0
+openai/o4-mini-high-2025-04-16,163,1,Peter arrived late because of traffic.,7.0
+openai/o4-mini-high-2025-04-16,163,2,Peter arrived late because of traffic.,7.0
+openai/o4-mini-high-2025-04-16,163,3,Peter arrived late because of traffic.,7.0
+openai/o4-mini-high-2025-04-16,164,1,Joey left early because he went to work.,5.0
+openai/o4-mini-high-2025-04-16,164,2,Joey left early because he went to work.,7.0
+openai/o4-mini-high-2025-04-16,164,3,Joey left early because he went to work.,7.0
+openai/o4-mini-high-2025-04-16,165,1,Michael cut his hair because it was too long.,7.0
+openai/o4-mini-high-2025-04-16,165,2,Michael cut his hair because it was too long.,7.0
+openai/o4-mini-high-2025-04-16,165,3,Michael cut his hair because it was too long.,7.0
+openai/o4-mini-high-2025-04-16,166,1,I went to the beach all summer long.,7.0
+openai/o4-mini-high-2025-04-16,166,2,I went to the beach all summer long.,7.0
+openai/o4-mini-high-2025-04-16,166,3,I went to the beach all summer long.,7.0
+openai/o4-mini-high-2025-04-16,167,1,I get up early every day of the week.,7.0
+openai/o4-mini-high-2025-04-16,167,2,I get up early every day of the week.,7.0
+openai/o4-mini-high-2025-04-16,167,3,I get up early every day of the week.,7.0
+openai/o4-mini-high-2025-04-16,168,1,She goes out dancing every weekend.,7.0
+openai/o4-mini-high-2025-04-16,168,2,She goes out dancing every weekend.,7.0
+openai/o4-mini-high-2025-04-16,168,3,She goes out dancing every weekend.,7.0
+openai/o4-mini-high-2025-04-16,169,1,He was called boneheaded all the time.,7.0
+openai/o4-mini-high-2025-04-16,169,2,He was called boneheaded all the time.,7.0
+openai/o4-mini-high-2025-04-16,169,3,He was called boneheaded all the time.,7.0
+openai/o4-mini-high-2025-04-16,170,1,He was called stupid all the time.,7.0
+openai/o4-mini-high-2025-04-16,170,2,He was called stupid all the time.,7.0
+openai/o4-mini-high-2025-04-16,170,3,He was called stupid all the time.,7.0
+openai/o4-mini-high-2025-04-16,171,1,He was called snooty because he was from the US.,7.0
+openai/o4-mini-high-2025-04-16,171,2,He was called snooty because he was from the US.,7.0
+openai/o4-mini-high-2025-04-16,171,3,He was called snooty because he was from the US.,7.0
+openai/o4-mini-high-2025-04-16,172,1,He was called native because he was from the US.,2.0
+openai/o4-mini-high-2025-04-16,172,2,He was called native because he was from the US.,4.0
+openai/o4-mini-high-2025-04-16,172,3,He was called native because he was from the US.,3.0
+openai/o4-mini-high-2025-04-16,173,1,My mom bought crackers for the party.,7.0
+openai/o4-mini-high-2025-04-16,173,2,My mom bought crackers for the party.,7.0
+openai/o4-mini-high-2025-04-16,173,3,My mom bought crackers for the party.,7.0
+openai/o4-mini-high-2025-04-16,174,1,My mom bought fruit for the party.,7.0
+openai/o4-mini-high-2025-04-16,174,2,My mom bought fruit for the party.,7.0
+openai/o4-mini-high-2025-04-16,174,3,My mom bought fruit for the party.,7.0
+openai/o4-mini-high-2025-04-16,175,1,I have been craving seltzer since this morning.,7.0
+openai/o4-mini-high-2025-04-16,175,2,I have been craving seltzer since this morning.,7.0
+openai/o4-mini-high-2025-04-16,175,3,I have been craving seltzer since this morning.,7.0
+openai/o4-mini-high-2025-04-16,176,1,I have been craving coffee since this morning.,7.0
+openai/o4-mini-high-2025-04-16,176,2,I have been craving coffee since this morning.,7.0
+openai/o4-mini-high-2025-04-16,176,3,I have been craving coffee since this morning.,7.0
+openai/o4-mini-high-2025-04-16,177,1,My grandma made me biscuits for breakfast.,7.0
+openai/o4-mini-high-2025-04-16,177,2,My grandma made me biscuits for breakfast.,7.0
+openai/o4-mini-high-2025-04-16,177,3,My grandma made me biscuits for breakfast.,7.0
+openai/o4-mini-high-2025-04-16,178,1,My grandma made me pancakes for breakfast.,7.0
+openai/o4-mini-high-2025-04-16,178,2,My grandma made me pancakes for breakfast.,7.0
+openai/o4-mini-high-2025-04-16,178,3,My grandma made me pancakes for breakfast.,7.0
+openai/o4-mini-high-2025-04-16,179,1,He is going to serve us clam chowder for dinner tomorrow.,7.0
+openai/o4-mini-high-2025-04-16,179,2,He is going to serve us clam chowder for dinner tomorrow.,7.0
+openai/o4-mini-high-2025-04-16,179,3,He is going to serve us clam chowder for dinner tomorrow.,7.0
+openai/o4-mini-high-2025-04-16,180,1,He is going to serve us soup for dinner tomorrow.,7.0
+openai/o4-mini-high-2025-04-16,180,2,He is going to serve us soup for dinner tomorrow.,7.0
+openai/o4-mini-high-2025-04-16,180,3,He is going to serve us soup for dinner tomorrow.,7.0
+google/gemini-2.5-flash-preview-05-20,79,1,He was called naco todo el tiempo.,1.0
+google/gemini-2.5-flash-preview-05-20,79,2,He was called naco todo el tiempo.,3.0
+google/gemini-2.5-flash-preview-05-20,79,3,He was called naco todo el tiempo.,4.0
+google/gemini-2.5-flash-preview-05-20,80,1,He was called estúpido todo el tiempo.,1.0
+google/gemini-2.5-flash-preview-05-20,80,2,He was called estúpido todo el tiempo.,3.0
+google/gemini-2.5-flash-preview-05-20,80,3,He was called estúpido todo el tiempo.,4.0
+google/gemini-2.5-flash-preview-05-20,81,1,Le llamaba boneheaded all the time.,2.0
+google/gemini-2.5-flash-preview-05-20,81,2,Le llamaba boneheaded all the time.,4.0
+google/gemini-2.5-flash-preview-05-20,81,3,Le llamaba boneheaded all the time.,3.0
+google/gemini-2.5-flash-preview-05-20,82,1,Le llamaba stupid all the time.,4.0
+google/gemini-2.5-flash-preview-05-20,82,2,Le llamaba stupid all the time.,2.0
+google/gemini-2.5-flash-preview-05-20,82,3,Le llamaba stupid all the time.,4.0
+google/gemini-2.5-flash-preview-05-20,83,1,He was called chicano porque era mexicano.,4.0
+google/gemini-2.5-flash-preview-05-20,83,2,He was called chicano porque era mexicano.,7.0
+google/gemini-2.5-flash-preview-05-20,83,3,He was called chicano porque era mexicano.,4.0
+google/gemini-2.5-flash-preview-05-20,84,1,He was called nativo porque era mexicano.,3.0
+google/gemini-2.5-flash-preview-05-20,84,2,He was called nativo porque era mexicano.,3.0
+google/gemini-2.5-flash-preview-05-20,84,3,He was called nativo porque era mexicano.,4.0
+google/gemini-2.5-flash-preview-05-20,85,1,Le llamaba snooty because he was from the US.,3.0
+google/gemini-2.5-flash-preview-05-20,85,2,Le llamaba snooty because he was from the US.,4.0
+google/gemini-2.5-flash-preview-05-20,85,3,Le llamaba snooty because he was from the US.,4.0
+google/gemini-2.5-flash-preview-05-20,86,1,Le llamaba native because he was from the US.,3.0
+google/gemini-2.5-flash-preview-05-20,86,2,Le llamaba native because he was from the US.,4.0
+google/gemini-2.5-flash-preview-05-20,86,3,Le llamaba native because he was from the US.,4.0
+google/gemini-2.5-flash-preview-05-20,87,1,My mom bought nopales para la fiesta.,5.0
+google/gemini-2.5-flash-preview-05-20,87,2,My mom bought nopales para la fiesta.,7.0
+google/gemini-2.5-flash-preview-05-20,87,3,My mom bought nopales para la fiesta.,6.0
+google/gemini-2.5-flash-preview-05-20,88,1,My mom bought fruta para la fiesta.,5.0
+google/gemini-2.5-flash-preview-05-20,88,2,My mom bought fruta para la fiesta.,5.0
+google/gemini-2.5-flash-preview-05-20,88,3,My mom bought fruta para la fiesta.,6.0
+google/gemini-2.5-flash-preview-05-20,89,1,Mi mamá compró crackers for the party.,4.0
+google/gemini-2.5-flash-preview-05-20,89,2,Mi mamá compró crackers for the party.,4.0
+google/gemini-2.5-flash-preview-05-20,89,3,Mi mamá compró crackers for the party.,4.0
+google/gemini-2.5-flash-preview-05-20,90,1,Mi mamá compró fruit for the party.,3.0
+google/gemini-2.5-flash-preview-05-20,90,2,Mi mamá compró fruit for the party.,2.0
+google/gemini-2.5-flash-preview-05-20,90,3,Mi mamá compró fruit for the party.,2.0
+google/gemini-2.5-flash-preview-05-20,91,1,I have been craving champurrado desde la mañana.,4.0
+google/gemini-2.5-flash-preview-05-20,91,2,I have been craving champurrado desde la mañana.,4.0
+google/gemini-2.5-flash-preview-05-20,91,3,I have been craving champurrado desde la mañana.,4.0
+google/gemini-2.5-flash-preview-05-20,92,1,I have been craving café desde la mañana.,4.0
+google/gemini-2.5-flash-preview-05-20,92,2,I have been craving café desde la mañana.,5.0
+google/gemini-2.5-flash-preview-05-20,92,3,I have been craving café desde la mañana.,5.0
+google/gemini-2.5-flash-preview-05-20,93,1,He tenido antojo de seltzer since this morning.,2.0
+google/gemini-2.5-flash-preview-05-20,93,2,He tenido antojo de seltzer since this morning.,2.0
+google/gemini-2.5-flash-preview-05-20,93,3,He tenido antojo de seltzer since this morning.,2.0
+google/gemini-2.5-flash-preview-05-20,94,1,He tenido antojo de coffee since this morning.,4.0
+google/gemini-2.5-flash-preview-05-20,94,2,He tenido antojo de coffee since this morning.,3.0
+google/gemini-2.5-flash-preview-05-20,94,3,He tenido antojo de coffee since this morning.,3.0
+google/gemini-2.5-flash-preview-05-20,95,1,My grandma made me atole para el desayuno.,4.0
+google/gemini-2.5-flash-preview-05-20,95,2,My grandma made me atole para el desayuno.,6.0
+google/gemini-2.5-flash-preview-05-20,95,3,My grandma made me atole para el desayuno.,4.0
+google/gemini-2.5-flash-preview-05-20,96,1,My grandma made me panqueques para el desayuno.,4.0
+google/gemini-2.5-flash-preview-05-20,96,2,My grandma made me panqueques para el desayuno.,7.0
+google/gemini-2.5-flash-preview-05-20,96,3,My grandma made me panqueques para el desayuno.,6.0
+google/gemini-2.5-flash-preview-05-20,97,1,Mi abuela me hizo biscuits for breakfast.,5.0
+google/gemini-2.5-flash-preview-05-20,97,2,Mi abuela me hizo biscuits for breakfast.,6.0
+google/gemini-2.5-flash-preview-05-20,97,3,Mi abuela me hizo biscuits for breakfast.,6.0
+google/gemini-2.5-flash-preview-05-20,98,1,Mi abuela me hizo pancakes for breakfast.,6.0
+google/gemini-2.5-flash-preview-05-20,98,2,Mi abuela me hizo pancakes for breakfast.,3.0
+google/gemini-2.5-flash-preview-05-20,98,3,Mi abuela me hizo pancakes for breakfast.,7.0
+google/gemini-2.5-flash-preview-05-20,99,1,He is going to serve us pozole para la cena mañana.,7.0
+google/gemini-2.5-flash-preview-05-20,99,2,He is going to serve us pozole para la cena mañana.,4.0
+google/gemini-2.5-flash-preview-05-20,99,3,He is going to serve us pozole para la cena mañana.,6.0
+google/gemini-2.5-flash-preview-05-20,100,1,He is going to serve us sopa para la cena mañana.,3.0
+google/gemini-2.5-flash-preview-05-20,100,2,He is going to serve us sopa para la cena mañana.,5.0
+google/gemini-2.5-flash-preview-05-20,100,3,He is going to serve us sopa para la cena mañana.,5.0
+google/gemini-2.5-flash-preview-05-20,101,1,Nos va a servir clam chowder for dinner tomorrow.,5.0
+google/gemini-2.5-flash-preview-05-20,101,2,Nos va a servir clam chowder for dinner tomorrow.,4.0
+google/gemini-2.5-flash-preview-05-20,101,3,Nos va a servir clam chowder for dinner tomorrow.,3.0
+google/gemini-2.5-flash-preview-05-20,102,1,Nos va a servir soup for dinner tomorrow.,3.0
+google/gemini-2.5-flash-preview-05-20,102,2,Nos va a servir soup for dinner tomorrow.,4.0
+google/gemini-2.5-flash-preview-05-20,102,3,Nos va a servir soup for dinner tomorrow.,2.0
+google/gemini-2.5-flash-preview-05-20,103,1,Qué hombre está bailando Araceli con?,2.0
+google/gemini-2.5-flash-preview-05-20,103,2,Qué hombre está bailando Araceli con?,2.0
+google/gemini-2.5-flash-preview-05-20,103,3,Qué hombre está bailando Araceli con?,3.0
+google/gemini-2.5-flash-preview-05-20,104,1,Qué curso se está cansando Candela de?,1.0
+google/gemini-2.5-flash-preview-05-20,104,2,Qué curso se está cansando Candela de?,3.0
+google/gemini-2.5-flash-preview-05-20,104,3,Qué curso se está cansando Candela de?,1.0
+google/gemini-2.5-flash-preview-05-20,105,1,Qué libro está haciendo referencia Diego a?,1.0
+google/gemini-2.5-flash-preview-05-20,105,2,Qué libro está haciendo referencia Diego a?,4.0
+google/gemini-2.5-flash-preview-05-20,105,3,Qué libro está haciendo referencia Diego a?,2.0
+google/gemini-2.5-flash-preview-05-20,106,1,Elisa no sabe qué amigo Fernando está trabajando con.,3.0
+google/gemini-2.5-flash-preview-05-20,106,2,Elisa no sabe qué amigo Fernando está trabajando con.,4.0
+google/gemini-2.5-flash-preview-05-20,106,3,Elisa no sabe qué amigo Fernando está trabajando con.,2.0
+google/gemini-2.5-flash-preview-05-20,107,1,Julieta no sabe qué avión Leonel está saltando de.,3.0
+google/gemini-2.5-flash-preview-05-20,107,2,Julieta no sabe qué avión Leonel está saltando de.,4.0
+google/gemini-2.5-flash-preview-05-20,107,3,Julieta no sabe qué avión Leonel está saltando de.,4.0
+google/gemini-2.5-flash-preview-05-20,108,1,Matías no sabe qué país Natalia está viajando a.,5.0
+google/gemini-2.5-flash-preview-05-20,108,2,Matías no sabe qué país Natalia está viajando a.,3.0
+google/gemini-2.5-flash-preview-05-20,108,3,Matías no sabe qué país Natalia está viajando a.,4.0
+google/gemini-2.5-flash-preview-05-20,109,1,United es la compañía que Roberta está volando con.,5.0
+google/gemini-2.5-flash-preview-05-20,109,2,United es la compañía que Roberta está volando con.,3.0
+google/gemini-2.5-flash-preview-05-20,109,3,United es la compañía que Roberta está volando con.,4.0
+google/gemini-2.5-flash-preview-05-20,110,1,Ese Lamborghini es el coche que Teresa está saliendo de.,2.0
+google/gemini-2.5-flash-preview-05-20,110,2,Ese Lamborghini es el coche que Teresa está saliendo de.,3.0
+google/gemini-2.5-flash-preview-05-20,110,3,Ese Lamborghini es el coche que Teresa está saliendo de.,1.0
+google/gemini-2.5-flash-preview-05-20,111,1,Villa del Carbón es el pueblo que Víctor se está mudando a.,2.0
+google/gemini-2.5-flash-preview-05-20,111,2,Villa del Carbón es el pueblo que Víctor se está mudando a.,5.0
+google/gemini-2.5-flash-preview-05-20,111,3,Villa del Carbón es el pueblo que Víctor se está mudando a.,3.0
+google/gemini-2.5-flash-preview-05-20,112,1,Con qué hombre está bailando Araceli?,7.0
+google/gemini-2.5-flash-preview-05-20,112,2,Con qué hombre está bailando Araceli?,7.0
+google/gemini-2.5-flash-preview-05-20,112,3,Con qué hombre está bailando Araceli?,7.0
+google/gemini-2.5-flash-preview-05-20,113,1,De qué curso se está cansando Candela?,3.0
+google/gemini-2.5-flash-preview-05-20,113,2,De qué curso se está cansando Candela?,7.0
+google/gemini-2.5-flash-preview-05-20,113,3,De qué curso se está cansando Candela?,4.0
+google/gemini-2.5-flash-preview-05-20,114,1,A qué libro está haciendo referencia Diego?,5.0
+google/gemini-2.5-flash-preview-05-20,114,2,A qué libro está haciendo referencia Diego?,7.0
+google/gemini-2.5-flash-preview-05-20,114,3,A qué libro está haciendo referencia Diego?,7.0
+google/gemini-2.5-flash-preview-05-20,115,1,Elisa no sabe con qué amigo Fernando está trabajando.,6.0
+google/gemini-2.5-flash-preview-05-20,115,2,Elisa no sabe con qué amigo Fernando está trabajando.,7.0
+google/gemini-2.5-flash-preview-05-20,115,3,Elisa no sabe con qué amigo Fernando está trabajando.,6.0
+google/gemini-2.5-flash-preview-05-20,116,1,Julieta no sabe de qué avión Leonel está saltando.,7.0
+google/gemini-2.5-flash-preview-05-20,116,2,Julieta no sabe de qué avión Leonel está saltando.,4.0
+google/gemini-2.5-flash-preview-05-20,116,3,Julieta no sabe de qué avión Leonel está saltando.,7.0
+google/gemini-2.5-flash-preview-05-20,117,1,Matías no sabe a qué país Natalia está viajando.,4.0
+google/gemini-2.5-flash-preview-05-20,117,2,Matías no sabe a qué país Natalia está viajando.,6.0
+google/gemini-2.5-flash-preview-05-20,117,3,Matías no sabe a qué país Natalia está viajando.,6.0
+google/gemini-2.5-flash-preview-05-20,118,1,United es la compañía con la que Roberta está volando.,7.0
+google/gemini-2.5-flash-preview-05-20,118,2,United es la compañía con la que Roberta está volando.,7.0
+google/gemini-2.5-flash-preview-05-20,118,3,United es la compañía con la que Roberta está volando.,6.0
+google/gemini-2.5-flash-preview-05-20,119,1,Ese Lamborghini es el coche del que Teresa está saliendo.,5.0
+google/gemini-2.5-flash-preview-05-20,119,2,Ese Lamborghini es el coche del que Teresa está saliendo.,6.0
+google/gemini-2.5-flash-preview-05-20,119,3,Ese Lamborghini es el coche del que Teresa está saliendo.,5.0
+google/gemini-2.5-flash-preview-05-20,120,1,Villa del Carbón es el pueblo al que Víctor se está mudando.,7.0
+google/gemini-2.5-flash-preview-05-20,120,2,Villa del Carbón es el pueblo al que Víctor se está mudando.,7.0
+google/gemini-2.5-flash-preview-05-20,120,3,Villa del Carbón es el pueblo al que Víctor se está mudando.,7.0
+google/gemini-2.5-flash-preview-05-20,121,1,Yo fui a la fiesta con mi amigo.,7.0
+google/gemini-2.5-flash-preview-05-20,121,2,Yo fui a la fiesta con mi amigo.,7.0
+google/gemini-2.5-flash-preview-05-20,121,3,Yo fui a la fiesta con mi amigo.,7.0
+google/gemini-2.5-flash-preview-05-20,122,1,La mujer abrió la puerta con sus llaves.,7.0
+google/gemini-2.5-flash-preview-05-20,122,2,La mujer abrió la puerta con sus llaves.,7.0
+google/gemini-2.5-flash-preview-05-20,122,3,La mujer abrió la puerta con sus llaves.,7.0
+google/gemini-2.5-flash-preview-05-20,123,1,Pedro salío a comer para su cumple.,6.0
+google/gemini-2.5-flash-preview-05-20,123,2,Pedro salío a comer para su cumple.,6.0
+google/gemini-2.5-flash-preview-05-20,123,3,Pedro salío a comer para su cumple.,3.0
+google/gemini-2.5-flash-preview-05-20,124,1,Pedro llegó tarde porque hubo tráfico.,7.0
+google/gemini-2.5-flash-preview-05-20,124,2,Pedro llegó tarde porque hubo tráfico.,7.0
+google/gemini-2.5-flash-preview-05-20,124,3,Pedro llegó tarde porque hubo tráfico.,7.0
+google/gemini-2.5-flash-preview-05-20,125,1,José salió temprano porque se fue al trabajo.,7.0
+google/gemini-2.5-flash-preview-05-20,125,2,José salió temprano porque se fue al trabajo.,7.0
+google/gemini-2.5-flash-preview-05-20,125,3,José salió temprano porque se fue al trabajo.,7.0
+google/gemini-2.5-flash-preview-05-20,126,1,Miguel se cortó el pelo porque estaba muy largo.,6.0
+google/gemini-2.5-flash-preview-05-20,126,2,Miguel se cortó el pelo porque estaba muy largo.,7.0
+google/gemini-2.5-flash-preview-05-20,126,3,Miguel se cortó el pelo porque estaba muy largo.,7.0
+google/gemini-2.5-flash-preview-05-20,127,1,Yo fui a la playa todo el verano.,7.0
+google/gemini-2.5-flash-preview-05-20,127,2,Yo fui a la playa todo el verano.,7.0
+google/gemini-2.5-flash-preview-05-20,127,3,Yo fui a la playa todo el verano.,7.0
+google/gemini-2.5-flash-preview-05-20,128,1,Yo me levanto temprano todos los días de la semana.,7.0
+google/gemini-2.5-flash-preview-05-20,128,2,Yo me levanto temprano todos los días de la semana.,7.0
+google/gemini-2.5-flash-preview-05-20,128,3,Yo me levanto temprano todos los días de la semana.,7.0
+google/gemini-2.5-flash-preview-05-20,129,1,Ella sale a bailar cada fin de semana.,7.0
+google/gemini-2.5-flash-preview-05-20,129,2,Ella sale a bailar cada fin de semana.,7.0
+google/gemini-2.5-flash-preview-05-20,129,3,Ella sale a bailar cada fin de semana.,7.0
+google/gemini-2.5-flash-preview-05-20,130,1,Le llamaba naco todo el tiempo.,7.0
+google/gemini-2.5-flash-preview-05-20,130,2,Le llamaba naco todo el tiempo.,7.0
+google/gemini-2.5-flash-preview-05-20,130,3,Le llamaba naco todo el tiempo.,4.0
+google/gemini-2.5-flash-preview-05-20,131,1,Le llamaba estúpido todo el tiempo.,7.0
+google/gemini-2.5-flash-preview-05-20,131,2,Le llamaba estúpido todo el tiempo.,7.0
+google/gemini-2.5-flash-preview-05-20,131,3,Le llamaba estúpido todo el tiempo.,6.0
+google/gemini-2.5-flash-preview-05-20,132,1,Le llamaba chicano porque era mexicano.,4.0
+google/gemini-2.5-flash-preview-05-20,132,2,Le llamaba chicano porque era mexicano.,7.0
+google/gemini-2.5-flash-preview-05-20,132,3,Le llamaba chicano porque era mexicano.,4.0
+google/gemini-2.5-flash-preview-05-20,133,1,Le llamaba nativo porque era mexicano.,7.0
+google/gemini-2.5-flash-preview-05-20,133,2,Le llamaba nativo porque era mexicano.,7.0
+google/gemini-2.5-flash-preview-05-20,133,3,Le llamaba nativo porque era mexicano.,7.0
+google/gemini-2.5-flash-preview-05-20,134,1,Mi mamá compró nopales para la fiesta.,7.0
+google/gemini-2.5-flash-preview-05-20,134,2,Mi mamá compró nopales para la fiesta.,7.0
+google/gemini-2.5-flash-preview-05-20,134,3,Mi mamá compró nopales para la fiesta.,7.0
+google/gemini-2.5-flash-preview-05-20,135,1,Mi mamá compró fruta para la fiesta.,7.0
+google/gemini-2.5-flash-preview-05-20,135,2,Mi mamá compró fruta para la fiesta.,7.0
+google/gemini-2.5-flash-preview-05-20,135,3,Mi mamá compró fruta para la fiesta.,7.0
+google/gemini-2.5-flash-preview-05-20,136,1,He tenido antojo de champurrado desde la mañana.,7.0
+google/gemini-2.5-flash-preview-05-20,136,2,He tenido antojo de champurrado desde la mañana.,7.0
+google/gemini-2.5-flash-preview-05-20,136,3,He tenido antojo de champurrado desde la mañana.,7.0
+google/gemini-2.5-flash-preview-05-20,137,1,He tenido antojo de café desde la mañana.,7.0
+google/gemini-2.5-flash-preview-05-20,137,2,He tenido antojo de café desde la mañana.,7.0
+google/gemini-2.5-flash-preview-05-20,137,3,He tenido antojo de café desde la mañana.,7.0
+google/gemini-2.5-flash-preview-05-20,138,1,Mi abuela me hizo atole para el desayuno.,7.0
+google/gemini-2.5-flash-preview-05-20,138,2,Mi abuela me hizo atole para el desayuno.,7.0
+google/gemini-2.5-flash-preview-05-20,138,3,Mi abuela me hizo atole para el desayuno.,7.0
+google/gemini-2.5-flash-preview-05-20,139,1,Mi abuela me hizo panqueques para el desayuno.,7.0
+google/gemini-2.5-flash-preview-05-20,139,2,Mi abuela me hizo panqueques para el desayuno.,7.0
+google/gemini-2.5-flash-preview-05-20,139,3,Mi abuela me hizo panqueques para el desayuno.,7.0
+google/gemini-2.5-flash-preview-05-20,140,1,Nos va a servir pozole para la cena mañana.,7.0
+google/gemini-2.5-flash-preview-05-20,140,2,Nos va a servir pozole para la cena mañana.,7.0
+google/gemini-2.5-flash-preview-05-20,140,3,Nos va a servir pozole para la cena mañana.,7.0
+google/gemini-2.5-flash-preview-05-20,141,1,Nos va a servir sopa para la cena mañana.,7.0
+google/gemini-2.5-flash-preview-05-20,141,2,Nos va a servir sopa para la cena mañana.,4.0
+google/gemini-2.5-flash-preview-05-20,141,3,Nos va a servir sopa para la cena mañana.,7.0
+google/gemini-2.5-flash-preview-05-20,142,1,What guy is Ashley dancing with?,7.0
+google/gemini-2.5-flash-preview-05-20,142,2,What guy is Ashley dancing with?,7.0
+google/gemini-2.5-flash-preview-05-20,142,3,What guy is Ashley dancing with?,7.0
+google/gemini-2.5-flash-preview-05-20,143,1,What class is Charlotte getting tired of?,6.0
+google/gemini-2.5-flash-preview-05-20,143,2,What class is Charlotte getting tired of?,7.0
+google/gemini-2.5-flash-preview-05-20,143,3,What class is Charlotte getting tired of?,7.0
+google/gemini-2.5-flash-preview-05-20,144,1,What book is Dylan referring to?,7.0
+google/gemini-2.5-flash-preview-05-20,144,2,What book is Dylan referring to?,7.0
+google/gemini-2.5-flash-preview-05-20,144,3,What book is Dylan referring to?,7.0
+google/gemini-2.5-flash-preview-05-20,145,1,Emily doesn't know what friend Frank is working with.,5.0
+google/gemini-2.5-flash-preview-05-20,145,2,Emily doesn't know what friend Frank is working with.,6.0
+google/gemini-2.5-flash-preview-05-20,145,3,Emily doesn't know what friend Frank is working with.,4.0
+google/gemini-2.5-flash-preview-05-20,146,1,Jessica doesn't know what plane Lance is jumping out of.,4.0
+google/gemini-2.5-flash-preview-05-20,146,2,Jessica doesn't know what plane Lance is jumping out of.,6.0
+google/gemini-2.5-flash-preview-05-20,146,3,Jessica doesn't know what plane Lance is jumping out of.,6.0
+google/gemini-2.5-flash-preview-05-20,147,1,Mason doesn't know what country Nancy is traveling to.,7.0
+google/gemini-2.5-flash-preview-05-20,147,2,Mason doesn't know what country Nancy is traveling to.,7.0
+google/gemini-2.5-flash-preview-05-20,147,3,Mason doesn't know what country Nancy is traveling to.,7.0
+google/gemini-2.5-flash-preview-05-20,148,1,United is the company Ruby is flying with.,7.0
+google/gemini-2.5-flash-preview-05-20,148,2,United is the company Ruby is flying with.,6.0
+google/gemini-2.5-flash-preview-05-20,148,3,United is the company Ruby is flying with.,7.0
+google/gemini-2.5-flash-preview-05-20,149,1,That Lamborghini is the car Tiffany is getting out of.,7.0
+google/gemini-2.5-flash-preview-05-20,149,2,That Lamborghini is the car Tiffany is getting out of.,6.0
+google/gemini-2.5-flash-preview-05-20,149,3,That Lamborghini is the car Tiffany is getting out of.,7.0
+google/gemini-2.5-flash-preview-05-20,150,1,Warrenville is the town Vern is moving to.,7.0
+google/gemini-2.5-flash-preview-05-20,150,2,Warrenville is the town Vern is moving to.,6.0
+google/gemini-2.5-flash-preview-05-20,150,3,Warrenville is the town Vern is moving to.,6.0
+google/gemini-2.5-flash-preview-05-20,151,1,With what guy is Ashley dancing?,5.0
+google/gemini-2.5-flash-preview-05-20,151,2,With what guy is Ashley dancing?,6.0
+google/gemini-2.5-flash-preview-05-20,151,3,With what guy is Ashley dancing?,5.0
+google/gemini-2.5-flash-preview-05-20,152,1,Of what class is Charlotte getting tired?,5.0
+google/gemini-2.5-flash-preview-05-20,152,2,Of what class is Charlotte getting tired?,5.0
+google/gemini-2.5-flash-preview-05-20,152,3,Of what class is Charlotte getting tired?,5.0
+google/gemini-2.5-flash-preview-05-20,153,1,To what book is Dylan referring?,7.0
+google/gemini-2.5-flash-preview-05-20,153,2,To what book is Dylan referring?,7.0
+google/gemini-2.5-flash-preview-05-20,153,3,To what book is Dylan referring?,7.0
+google/gemini-2.5-flash-preview-05-20,154,1,Emily doesn't know with what friend Frank is working.,4.0
+google/gemini-2.5-flash-preview-05-20,154,2,Emily doesn't know with what friend Frank is working.,4.0
+google/gemini-2.5-flash-preview-05-20,154,3,Emily doesn't know with what friend Frank is working.,4.0
+google/gemini-2.5-flash-preview-05-20,155,1,Jessica doesn't know of what plane Lance is jumping out.,3.0
+google/gemini-2.5-flash-preview-05-20,155,2,Jessica doesn't know of what plane Lance is jumping out.,4.0
+google/gemini-2.5-flash-preview-05-20,155,3,Jessica doesn't know of what plane Lance is jumping out.,3.0
+google/gemini-2.5-flash-preview-05-20,156,1,Mason doesn't know to what country Nancy is traveling.,6.0
+google/gemini-2.5-flash-preview-05-20,156,2,Mason doesn't know to what country Nancy is traveling.,6.0
+google/gemini-2.5-flash-preview-05-20,156,3,Mason doesn't know to what country Nancy is traveling.,6.0
+google/gemini-2.5-flash-preview-05-20,157,1,United is the company with which Ruby is flying.,5.0
+google/gemini-2.5-flash-preview-05-20,157,2,United is the company with which Ruby is flying.,4.0
+google/gemini-2.5-flash-preview-05-20,157,3,United is the company with which Ruby is flying.,6.0
+google/gemini-2.5-flash-preview-05-20,158,1,That Lamborghini is the car of which Tiffany is getting out.,4.0
+google/gemini-2.5-flash-preview-05-20,158,2,That Lamborghini is the car of which Tiffany is getting out.,4.0
+google/gemini-2.5-flash-preview-05-20,158,3,That Lamborghini is the car of which Tiffany is getting out.,3.0
+google/gemini-2.5-flash-preview-05-20,159,1,Warrenville is the town to which Vern is moving.,6.0
+google/gemini-2.5-flash-preview-05-20,159,2,Warrenville is the town to which Vern is moving.,6.0
+google/gemini-2.5-flash-preview-05-20,159,3,Warrenville is the town to which Vern is moving.,6.0
+google/gemini-2.5-flash-preview-05-20,160,1,I went to the party with my friend.,7.0
+google/gemini-2.5-flash-preview-05-20,160,2,I went to the party with my friend.,7.0
+google/gemini-2.5-flash-preview-05-20,160,3,I went to the party with my friend.,7.0
+google/gemini-2.5-flash-preview-05-20,161,1,The woman opened the door with her keys.,6.0
+google/gemini-2.5-flash-preview-05-20,161,2,The woman opened the door with her keys.,7.0
+google/gemini-2.5-flash-preview-05-20,161,3,The woman opened the door with her keys.,7.0
+google/gemini-2.5-flash-preview-05-20,162,1,Peter went out to eat for his birthday.,7.0
+google/gemini-2.5-flash-preview-05-20,162,2,Peter went out to eat for his birthday.,7.0
+google/gemini-2.5-flash-preview-05-20,162,3,Peter went out to eat for his birthday.,7.0
+google/gemini-2.5-flash-preview-05-20,163,1,Peter arrived late because of traffic.,7.0
+google/gemini-2.5-flash-preview-05-20,163,2,Peter arrived late because of traffic.,7.0
+google/gemini-2.5-flash-preview-05-20,163,3,Peter arrived late because of traffic.,7.0
+google/gemini-2.5-flash-preview-05-20,164,1,Joey left early because he went to work.,4.0
+google/gemini-2.5-flash-preview-05-20,164,2,Joey left early because he went to work.,4.0
+google/gemini-2.5-flash-preview-05-20,164,3,Joey left early because he went to work.,2.0
+google/gemini-2.5-flash-preview-05-20,165,1,Michael cut his hair because it was too long.,7.0
+google/gemini-2.5-flash-preview-05-20,165,2,Michael cut his hair because it was too long.,7.0
+google/gemini-2.5-flash-preview-05-20,165,3,Michael cut his hair because it was too long.,7.0
+google/gemini-2.5-flash-preview-05-20,166,1,I went to the beach all summer long.,7.0
+google/gemini-2.5-flash-preview-05-20,166,2,I went to the beach all summer long.,7.0
+google/gemini-2.5-flash-preview-05-20,166,3,I went to the beach all summer long.,7.0
+google/gemini-2.5-flash-preview-05-20,167,1,I get up early every day of the week.,7.0
+google/gemini-2.5-flash-preview-05-20,167,2,I get up early every day of the week.,7.0
+google/gemini-2.5-flash-preview-05-20,167,3,I get up early every day of the week.,7.0
+google/gemini-2.5-flash-preview-05-20,168,1,She goes out dancing every weekend.,7.0
+google/gemini-2.5-flash-preview-05-20,168,2,She goes out dancing every weekend.,7.0
+google/gemini-2.5-flash-preview-05-20,168,3,She goes out dancing every weekend.,7.0
+google/gemini-2.5-flash-preview-05-20,169,1,He was called boneheaded all the time.,4.0
+google/gemini-2.5-flash-preview-05-20,169,2,He was called boneheaded all the time.,7.0
+google/gemini-2.5-flash-preview-05-20,169,3,He was called boneheaded all the time.,6.0
+google/gemini-2.5-flash-preview-05-20,170,1,He was called stupid all the time.,7.0
+google/gemini-2.5-flash-preview-05-20,170,2,He was called stupid all the time.,7.0
+google/gemini-2.5-flash-preview-05-20,170,3,He was called stupid all the time.,7.0
+google/gemini-2.5-flash-preview-05-20,171,1,He was called snooty because he was from the US.,4.0
+google/gemini-2.5-flash-preview-05-20,171,2,He was called snooty because he was from the US.,5.0
+google/gemini-2.5-flash-preview-05-20,171,3,He was called snooty because he was from the US.,4.0
+google/gemini-2.5-flash-preview-05-20,172,1,He was called native because he was from the US.,5.0
+google/gemini-2.5-flash-preview-05-20,172,2,He was called native because he was from the US.,1.0
+google/gemini-2.5-flash-preview-05-20,172,3,He was called native because he was from the US.,4.0
+google/gemini-2.5-flash-preview-05-20,173,1,My mom bought crackers for the party.,7.0
+google/gemini-2.5-flash-preview-05-20,173,2,My mom bought crackers for the party.,7.0
+google/gemini-2.5-flash-preview-05-20,173,3,My mom bought crackers for the party.,7.0
+google/gemini-2.5-flash-preview-05-20,174,1,My mom bought fruit for the party.,7.0
+google/gemini-2.5-flash-preview-05-20,174,2,My mom bought fruit for the party.,7.0
+google/gemini-2.5-flash-preview-05-20,174,3,My mom bought fruit for the party.,7.0
+google/gemini-2.5-flash-preview-05-20,175,1,I have been craving seltzer since this morning.,7.0
+google/gemini-2.5-flash-preview-05-20,175,2,I have been craving seltzer since this morning.,7.0
+google/gemini-2.5-flash-preview-05-20,175,3,I have been craving seltzer since this morning.,6.0
+google/gemini-2.5-flash-preview-05-20,176,1,I have been craving coffee since this morning.,7.0
+google/gemini-2.5-flash-preview-05-20,176,2,I have been craving coffee since this morning.,7.0
+google/gemini-2.5-flash-preview-05-20,176,3,I have been craving coffee since this morning.,7.0
+google/gemini-2.5-flash-preview-05-20,177,1,My grandma made me biscuits for breakfast.,7.0
+google/gemini-2.5-flash-preview-05-20,177,2,My grandma made me biscuits for breakfast.,7.0
+google/gemini-2.5-flash-preview-05-20,177,3,My grandma made me biscuits for breakfast.,7.0
+google/gemini-2.5-flash-preview-05-20,178,1,My grandma made me pancakes for breakfast.,7.0
+google/gemini-2.5-flash-preview-05-20,178,2,My grandma made me pancakes for breakfast.,7.0
+google/gemini-2.5-flash-preview-05-20,178,3,My grandma made me pancakes for breakfast.,7.0
+google/gemini-2.5-flash-preview-05-20,179,1,He is going to serve us clam chowder for dinner tomorrow.,7.0
+google/gemini-2.5-flash-preview-05-20,179,2,He is going to serve us clam chowder for dinner tomorrow.,7.0
+google/gemini-2.5-flash-preview-05-20,179,3,He is going to serve us clam chowder for dinner tomorrow.,7.0
+google/gemini-2.5-flash-preview-05-20,180,1,He is going to serve us soup for dinner tomorrow.,7.0
+google/gemini-2.5-flash-preview-05-20,180,2,He is going to serve us soup for dinner tomorrow.,7.0
+google/gemini-2.5-flash-preview-05-20,180,3,He is going to serve us soup for dinner tomorrow.,7.0
+google/gemma-3-27b-it,79,1,He was called naco todo el tiempo.,2.0
+google/gemma-3-27b-it,79,2,He was called naco todo el tiempo.,2.0
+google/gemma-3-27b-it,79,3,He was called naco todo el tiempo.,2.0
+google/gemma-3-27b-it,80,1,He was called estúpido todo el tiempo.,5.0
+google/gemma-3-27b-it,80,2,He was called estúpido todo el tiempo.,6.0
+google/gemma-3-27b-it,80,3,He was called estúpido todo el tiempo.,6.0
+google/gemma-3-27b-it,81,1,Le llamaba boneheaded all the time.,5.0
+google/gemma-3-27b-it,81,2,Le llamaba boneheaded all the time.,5.0
+google/gemma-3-27b-it,81,3,Le llamaba boneheaded all the time.,6.0
+google/gemma-3-27b-it,82,1,Le llamaba stupid all the time.,2.0
+google/gemma-3-27b-it,82,2,Le llamaba stupid all the time.,2.0
+google/gemma-3-27b-it,82,3,Le llamaba stupid all the time.,2.0
+google/gemma-3-27b-it,83,1,He was called chicano porque era mexicano.,5.0
+google/gemma-3-27b-it,83,2,He was called chicano porque era mexicano.,5.0
+google/gemma-3-27b-it,83,3,He was called chicano porque era mexicano.,5.0
+google/gemma-3-27b-it,84,1,He was called nativo porque era mexicano.,3.0
+google/gemma-3-27b-it,84,2,He was called nativo porque era mexicano.,3.0
+google/gemma-3-27b-it,84,3,He was called nativo porque era mexicano.,3.0
+google/gemma-3-27b-it,85,1,Le llamaba snooty because he was from the US.,3.0
+google/gemma-3-27b-it,85,2,Le llamaba snooty because he was from the US.,2.0
+google/gemma-3-27b-it,85,3,Le llamaba snooty because he was from the US.,2.0
+google/gemma-3-27b-it,86,1,Le llamaba native because he was from the US.,2.0
+google/gemma-3-27b-it,86,2,Le llamaba native because he was from the US.,2.0
+google/gemma-3-27b-it,86,3,Le llamaba native because he was from the US.,2.0
+google/gemma-3-27b-it,87,1,My mom bought nopales para la fiesta.,7.0
+google/gemma-3-27b-it,87,2,My mom bought nopales para la fiesta.,7.0
+google/gemma-3-27b-it,87,3,My mom bought nopales para la fiesta.,7.0
+google/gemma-3-27b-it,88,1,My mom bought fruta para la fiesta.,7.0
+google/gemma-3-27b-it,88,2,My mom bought fruta para la fiesta.,7.0
+google/gemma-3-27b-it,88,3,My mom bought fruta para la fiesta.,7.0
+google/gemma-3-27b-it,89,1,Mi mamá compró crackers for the party.,3.0
+google/gemma-3-27b-it,89,2,Mi mamá compró crackers for the party.,3.0
+google/gemma-3-27b-it,89,3,Mi mamá compró crackers for the party.,3.0
+google/gemma-3-27b-it,90,1,Mi mamá compró fruit for the party.,3.0
+google/gemma-3-27b-it,90,2,Mi mamá compró fruit for the party.,3.0
+google/gemma-3-27b-it,90,3,Mi mamá compró fruit for the party.,3.0
+google/gemma-3-27b-it,91,1,I have been craving champurrado desde la mañana.,7.0
+google/gemma-3-27b-it,91,2,I have been craving champurrado desde la mañana.,7.0
+google/gemma-3-27b-it,91,3,I have been craving champurrado desde la mañana.,7.0
+google/gemma-3-27b-it,92,1,I have been craving café desde la mañana.,7.0
+google/gemma-3-27b-it,92,2,I have been craving café desde la mañana.,7.0
+google/gemma-3-27b-it,92,3,I have been craving café desde la mañana.,7.0
+google/gemma-3-27b-it,93,1,He tenido antojo de seltzer since this morning.,6.0
+google/gemma-3-27b-it,93,2,He tenido antojo de seltzer since this morning.,6.0
+google/gemma-3-27b-it,93,3,He tenido antojo de seltzer since this morning.,6.0
+google/gemma-3-27b-it,94,1,He tenido antojo de coffee since this morning.,6.0
+google/gemma-3-27b-it,94,2,He tenido antojo de coffee since this morning.,5.0
+google/gemma-3-27b-it,94,3,He tenido antojo de coffee since this morning.,6.0
+google/gemma-3-27b-it,95,1,My grandma made me atole para el desayuno.,7.0
+google/gemma-3-27b-it,95,2,My grandma made me atole para el desayuno.,7.0
+google/gemma-3-27b-it,95,3,My grandma made me atole para el desayuno.,7.0
+google/gemma-3-27b-it,96,1,My grandma made me panqueques para el desayuno.,7.0
+google/gemma-3-27b-it,96,2,My grandma made me panqueques para el desayuno.,7.0
+google/gemma-3-27b-it,96,3,My grandma made me panqueques para el desayuno.,7.0
+google/gemma-3-27b-it,97,1,Mi abuela me hizo biscuits for breakfast.,4.0
+google/gemma-3-27b-it,97,2,Mi abuela me hizo biscuits for breakfast.,3.0
+google/gemma-3-27b-it,97,3,Mi abuela me hizo biscuits for breakfast.,3.0
+google/gemma-3-27b-it,98,1,Mi abuela me hizo pancakes for breakfast.,6.0
+google/gemma-3-27b-it,98,2,Mi abuela me hizo pancakes for breakfast.,5.0
+google/gemma-3-27b-it,98,3,Mi abuela me hizo pancakes for breakfast.,5.0
+google/gemma-3-27b-it,99,1,He is going to serve us pozole para la cena mañana.,7.0
+google/gemma-3-27b-it,99,2,He is going to serve us pozole para la cena mañana.,7.0
+google/gemma-3-27b-it,99,3,He is going to serve us pozole para la cena mañana.,7.0
+google/gemma-3-27b-it,100,1,He is going to serve us sopa para la cena mañana.,7.0
+google/gemma-3-27b-it,100,2,He is going to serve us sopa para la cena mañana.,7.0
+google/gemma-3-27b-it,100,3,He is going to serve us sopa para la cena mañana.,7.0
+google/gemma-3-27b-it,101,1,Nos va a servir clam chowder for dinner tomorrow.,3.0
+google/gemma-3-27b-it,101,2,Nos va a servir clam chowder for dinner tomorrow.,2.0
+google/gemma-3-27b-it,101,3,Nos va a servir clam chowder for dinner tomorrow.,3.0
+google/gemma-3-27b-it,102,1,Nos va a servir soup for dinner tomorrow.,2.0
+google/gemma-3-27b-it,102,2,Nos va a servir soup for dinner tomorrow.,2.0
+google/gemma-3-27b-it,102,3,Nos va a servir soup for dinner tomorrow.,2.0
+google/gemma-3-27b-it,103,1,Qué hombre está bailando Araceli con?,3.0
+google/gemma-3-27b-it,103,2,Qué hombre está bailando Araceli con?,3.0
+google/gemma-3-27b-it,103,3,Qué hombre está bailando Araceli con?,3.0
+google/gemma-3-27b-it,104,1,Qué curso se está cansando Candela de?,7.0
+google/gemma-3-27b-it,104,2,Qué curso se está cansando Candela de?,7.0
+google/gemma-3-27b-it,104,3,Qué curso se está cansando Candela de?,7.0
+google/gemma-3-27b-it,105,1,Qué libro está haciendo referencia Diego a?,5.0
+google/gemma-3-27b-it,105,2,Qué libro está haciendo referencia Diego a?,5.0
+google/gemma-3-27b-it,105,3,Qué libro está haciendo referencia Diego a?,6.0
+google/gemma-3-27b-it,106,1,Elisa no sabe qué amigo Fernando está trabajando con.,5.0
+google/gemma-3-27b-it,106,2,Elisa no sabe qué amigo Fernando está trabajando con.,5.0
+google/gemma-3-27b-it,106,3,Elisa no sabe qué amigo Fernando está trabajando con.,6.0
+google/gemma-3-27b-it,107,1,Julieta no sabe qué avión Leonel está saltando de.,7.0
+google/gemma-3-27b-it,107,2,Julieta no sabe qué avión Leonel está saltando de.,7.0
+google/gemma-3-27b-it,107,3,Julieta no sabe qué avión Leonel está saltando de.,7.0
+google/gemma-3-27b-it,108,1,Matías no sabe qué país Natalia está viajando a.,7.0
+google/gemma-3-27b-it,108,2,Matías no sabe qué país Natalia está viajando a.,7.0
+google/gemma-3-27b-it,108,3,Matías no sabe qué país Natalia está viajando a.,7.0
+google/gemma-3-27b-it,109,1,United es la compañía que Roberta está volando con.,6.0
+google/gemma-3-27b-it,109,2,United es la compañía que Roberta está volando con.,5.0
+google/gemma-3-27b-it,109,3,United es la compañía que Roberta está volando con.,3.0
+google/gemma-3-27b-it,110,1,Ese Lamborghini es el coche que Teresa está saliendo de.,2.0
+google/gemma-3-27b-it,110,2,Ese Lamborghini es el coche que Teresa está saliendo de.,2.0
+google/gemma-3-27b-it,110,3,Ese Lamborghini es el coche que Teresa está saliendo de.,2.0
+google/gemma-3-27b-it,111,1,Villa del Carbón es el pueblo que Víctor se está mudando a.,5.0
+google/gemma-3-27b-it,111,2,Villa del Carbón es el pueblo que Víctor se está mudando a.,5.0
+google/gemma-3-27b-it,111,3,Villa del Carbón es el pueblo que Víctor se está mudando a.,5.0
+google/gemma-3-27b-it,112,1,Con qué hombre está bailando Araceli?,7.0
+google/gemma-3-27b-it,112,2,Con qué hombre está bailando Araceli?,7.0
+google/gemma-3-27b-it,112,3,Con qué hombre está bailando Araceli?,7.0
+google/gemma-3-27b-it,113,1,De qué curso se está cansando Candela?,7.0
+google/gemma-3-27b-it,113,2,De qué curso se está cansando Candela?,7.0
+google/gemma-3-27b-it,113,3,De qué curso se está cansando Candela?,7.0
+google/gemma-3-27b-it,114,1,A qué libro está haciendo referencia Diego?,7.0
+google/gemma-3-27b-it,114,2,A qué libro está haciendo referencia Diego?,7.0
+google/gemma-3-27b-it,114,3,A qué libro está haciendo referencia Diego?,7.0
+google/gemma-3-27b-it,115,1,Elisa no sabe con qué amigo Fernando está trabajando.,7.0
+google/gemma-3-27b-it,115,2,Elisa no sabe con qué amigo Fernando está trabajando.,7.0
+google/gemma-3-27b-it,115,3,Elisa no sabe con qué amigo Fernando está trabajando.,7.0
+google/gemma-3-27b-it,116,1,Julieta no sabe de qué avión Leonel está saltando.,7.0
+google/gemma-3-27b-it,116,2,Julieta no sabe de qué avión Leonel está saltando.,7.0
+google/gemma-3-27b-it,116,3,Julieta no sabe de qué avión Leonel está saltando.,7.0
+google/gemma-3-27b-it,117,1,Matías no sabe a qué país Natalia está viajando.,7.0
+google/gemma-3-27b-it,117,2,Matías no sabe a qué país Natalia está viajando.,7.0
+google/gemma-3-27b-it,117,3,Matías no sabe a qué país Natalia está viajando.,7.0
+google/gemma-3-27b-it,118,1,United es la compañía con la que Roberta está volando.,7.0
+google/gemma-3-27b-it,118,2,United es la compañía con la que Roberta está volando.,7.0
+google/gemma-3-27b-it,118,3,United es la compañía con la que Roberta está volando.,7.0
+google/gemma-3-27b-it,119,1,Ese Lamborghini es el coche del que Teresa está saliendo.,7.0
+google/gemma-3-27b-it,119,2,Ese Lamborghini es el coche del que Teresa está saliendo.,7.0
+google/gemma-3-27b-it,119,3,Ese Lamborghini es el coche del que Teresa está saliendo.,7.0
+google/gemma-3-27b-it,120,1,Villa del Carbón es el pueblo al que Víctor se está mudando.,7.0
+google/gemma-3-27b-it,120,2,Villa del Carbón es el pueblo al que Víctor se está mudando.,7.0
+google/gemma-3-27b-it,120,3,Villa del Carbón es el pueblo al que Víctor se está mudando.,7.0
+google/gemma-3-27b-it,121,1,Yo fui a la fiesta con mi amigo.,7.0
+google/gemma-3-27b-it,121,2,Yo fui a la fiesta con mi amigo.,7.0
+google/gemma-3-27b-it,121,3,Yo fui a la fiesta con mi amigo.,7.0
+google/gemma-3-27b-it,122,1,La mujer abrió la puerta con sus llaves.,7.0
+google/gemma-3-27b-it,122,2,La mujer abrió la puerta con sus llaves.,7.0
+google/gemma-3-27b-it,122,3,La mujer abrió la puerta con sus llaves.,7.0
+google/gemma-3-27b-it,123,1,Pedro salío a comer para su cumple.,3.0
+google/gemma-3-27b-it,123,2,Pedro salío a comer para su cumple.,3.0
+google/gemma-3-27b-it,123,3,Pedro salío a comer para su cumple.,3.0
+google/gemma-3-27b-it,124,1,Pedro llegó tarde porque hubo tráfico.,7.0
+google/gemma-3-27b-it,124,2,Pedro llegó tarde porque hubo tráfico.,7.0
+google/gemma-3-27b-it,124,3,Pedro llegó tarde porque hubo tráfico.,7.0
+google/gemma-3-27b-it,125,1,José salió temprano porque se fue al trabajo.,7.0
+google/gemma-3-27b-it,125,2,José salió temprano porque se fue al trabajo.,7.0
+google/gemma-3-27b-it,125,3,José salió temprano porque se fue al trabajo.,7.0
+google/gemma-3-27b-it,126,1,Miguel se cortó el pelo porque estaba muy largo.,7.0
+google/gemma-3-27b-it,126,2,Miguel se cortó el pelo porque estaba muy largo.,7.0
+google/gemma-3-27b-it,126,3,Miguel se cortó el pelo porque estaba muy largo.,7.0
+google/gemma-3-27b-it,127,1,Yo fui a la playa todo el verano.,7.0
+google/gemma-3-27b-it,127,2,Yo fui a la playa todo el verano.,7.0
+google/gemma-3-27b-it,127,3,Yo fui a la playa todo el verano.,7.0
+google/gemma-3-27b-it,128,1,Yo me levanto temprano todos los días de la semana.,7.0
+google/gemma-3-27b-it,128,2,Yo me levanto temprano todos los días de la semana.,7.0
+google/gemma-3-27b-it,128,3,Yo me levanto temprano todos los días de la semana.,7.0
+google/gemma-3-27b-it,129,1,Ella sale a bailar cada fin de semana.,7.0
+google/gemma-3-27b-it,129,2,Ella sale a bailar cada fin de semana.,7.0
+google/gemma-3-27b-it,129,3,Ella sale a bailar cada fin de semana.,7.0
+google/gemma-3-27b-it,130,1,Le llamaba naco todo el tiempo.,3.0
+google/gemma-3-27b-it,130,2,Le llamaba naco todo el tiempo.,3.0
+google/gemma-3-27b-it,130,3,Le llamaba naco todo el tiempo.,2.0
+google/gemma-3-27b-it,131,1,Le llamaba estúpido todo el tiempo.,5.0
+google/gemma-3-27b-it,131,2,Le llamaba estúpido todo el tiempo.,5.0
+google/gemma-3-27b-it,131,3,Le llamaba estúpido todo el tiempo.,5.0
+google/gemma-3-27b-it,132,1,Le llamaba chicano porque era mexicano.,3.0
+google/gemma-3-27b-it,132,2,Le llamaba chicano porque era mexicano.,3.0
+google/gemma-3-27b-it,132,3,Le llamaba chicano porque era mexicano.,3.0
+google/gemma-3-27b-it,133,1,Le llamaba nativo porque era mexicano.,2.0
+google/gemma-3-27b-it,133,2,Le llamaba nativo porque era mexicano.,2.0
+google/gemma-3-27b-it,133,3,Le llamaba nativo porque era mexicano.,2.0
+google/gemma-3-27b-it,134,1,Mi mamá compró nopales para la fiesta.,7.0
+google/gemma-3-27b-it,134,2,Mi mamá compró nopales para la fiesta.,7.0
+google/gemma-3-27b-it,134,3,Mi mamá compró nopales para la fiesta.,7.0
+google/gemma-3-27b-it,135,1,Mi mamá compró fruta para la fiesta.,7.0
+google/gemma-3-27b-it,135,2,Mi mamá compró fruta para la fiesta.,7.0
+google/gemma-3-27b-it,135,3,Mi mamá compró fruta para la fiesta.,7.0
+google/gemma-3-27b-it,136,1,He tenido antojo de champurrado desde la mañana.,7.0
+google/gemma-3-27b-it,136,2,He tenido antojo de champurrado desde la mañana.,7.0
+google/gemma-3-27b-it,136,3,He tenido antojo de champurrado desde la mañana.,7.0
+google/gemma-3-27b-it,137,1,He tenido antojo de café desde la mañana.,7.0
+google/gemma-3-27b-it,137,2,He tenido antojo de café desde la mañana.,7.0
+google/gemma-3-27b-it,137,3,He tenido antojo de café desde la mañana.,7.0
+google/gemma-3-27b-it,138,1,Mi abuela me hizo atole para el desayuno.,7.0
+google/gemma-3-27b-it,138,2,Mi abuela me hizo atole para el desayuno.,7.0
+google/gemma-3-27b-it,138,3,Mi abuela me hizo atole para el desayuno.,7.0
+google/gemma-3-27b-it,139,1,Mi abuela me hizo panqueques para el desayuno.,7.0
+google/gemma-3-27b-it,139,2,Mi abuela me hizo panqueques para el desayuno.,7.0
+google/gemma-3-27b-it,139,3,Mi abuela me hizo panqueques para el desayuno.,7.0
+google/gemma-3-27b-it,140,1,Nos va a servir pozole para la cena mañana.,7.0
+google/gemma-3-27b-it,140,2,Nos va a servir pozole para la cena mañana.,7.0
+google/gemma-3-27b-it,140,3,Nos va a servir pozole para la cena mañana.,7.0
+google/gemma-3-27b-it,141,1,Nos va a servir sopa para la cena mañana.,7.0
+google/gemma-3-27b-it,141,2,Nos va a servir sopa para la cena mañana.,7.0
+google/gemma-3-27b-it,141,3,Nos va a servir sopa para la cena mañana.,7.0
+google/gemma-3-27b-it,142,1,What guy is Ashley dancing with?,7.0
+google/gemma-3-27b-it,142,2,What guy is Ashley dancing with?,6.0
+google/gemma-3-27b-it,142,3,What guy is Ashley dancing with?,7.0
+google/gemma-3-27b-it,143,1,What class is Charlotte getting tired of?,7.0
+google/gemma-3-27b-it,143,2,What class is Charlotte getting tired of?,7.0
+google/gemma-3-27b-it,143,3,What class is Charlotte getting tired of?,7.0
+google/gemma-3-27b-it,144,1,What book is Dylan referring to?,7.0
+google/gemma-3-27b-it,144,2,What book is Dylan referring to?,7.0
+google/gemma-3-27b-it,144,3,What book is Dylan referring to?,7.0
+google/gemma-3-27b-it,145,1,Emily doesn't know what friend Frank is working with.,7.0
+google/gemma-3-27b-it,145,2,Emily doesn't know what friend Frank is working with.,7.0
+google/gemma-3-27b-it,145,3,Emily doesn't know what friend Frank is working with.,7.0
+google/gemma-3-27b-it,146,1,Jessica doesn't know what plane Lance is jumping out of.,7.0
+google/gemma-3-27b-it,146,2,Jessica doesn't know what plane Lance is jumping out of.,7.0
+google/gemma-3-27b-it,146,3,Jessica doesn't know what plane Lance is jumping out of.,7.0
+google/gemma-3-27b-it,147,1,Mason doesn't know what country Nancy is traveling to.,7.0
+google/gemma-3-27b-it,147,2,Mason doesn't know what country Nancy is traveling to.,7.0
+google/gemma-3-27b-it,147,3,Mason doesn't know what country Nancy is traveling to.,7.0
+google/gemma-3-27b-it,148,1,United is the company Ruby is flying with.,5.0
+google/gemma-3-27b-it,148,2,United is the company Ruby is flying with.,5.0
+google/gemma-3-27b-it,148,3,United is the company Ruby is flying with.,5.0
+google/gemma-3-27b-it,149,1,That Lamborghini is the car Tiffany is getting out of.,7.0
+google/gemma-3-27b-it,149,2,That Lamborghini is the car Tiffany is getting out of.,7.0
+google/gemma-3-27b-it,149,3,That Lamborghini is the car Tiffany is getting out of.,7.0
+google/gemma-3-27b-it,150,1,Warrenville is the town Vern is moving to.,7.0
+google/gemma-3-27b-it,150,2,Warrenville is the town Vern is moving to.,7.0
+google/gemma-3-27b-it,150,3,Warrenville is the town Vern is moving to.,7.0
+google/gemma-3-27b-it,151,1,With what guy is Ashley dancing?,5.0
+google/gemma-3-27b-it,151,2,With what guy is Ashley dancing?,5.0
+google/gemma-3-27b-it,151,3,With what guy is Ashley dancing?,5.0
+google/gemma-3-27b-it,152,1,Of what class is Charlotte getting tired?,5.0
+google/gemma-3-27b-it,152,2,Of what class is Charlotte getting tired?,5.0
+google/gemma-3-27b-it,152,3,Of what class is Charlotte getting tired?,5.0
+google/gemma-3-27b-it,153,1,To what book is Dylan referring?,7.0
+google/gemma-3-27b-it,153,2,To what book is Dylan referring?,7.0
+google/gemma-3-27b-it,153,3,To what book is Dylan referring?,7.0
+google/gemma-3-27b-it,154,1,Emily doesn't know with what friend Frank is working.,5.0
+google/gemma-3-27b-it,154,2,Emily doesn't know with what friend Frank is working.,5.0
+google/gemma-3-27b-it,154,3,Emily doesn't know with what friend Frank is working.,5.0
+google/gemma-3-27b-it,155,1,Jessica doesn't know of what plane Lance is jumping out.,3.0
+google/gemma-3-27b-it,155,2,Jessica doesn't know of what plane Lance is jumping out.,5.0
+google/gemma-3-27b-it,155,3,Jessica doesn't know of what plane Lance is jumping out.,3.0
+google/gemma-3-27b-it,156,1,Mason doesn't know to what country Nancy is traveling.,5.0
+google/gemma-3-27b-it,156,2,Mason doesn't know to what country Nancy is traveling.,5.0
+google/gemma-3-27b-it,156,3,Mason doesn't know to what country Nancy is traveling.,5.0
+google/gemma-3-27b-it,157,1,United is the company with which Ruby is flying.,5.0
+google/gemma-3-27b-it,157,2,United is the company with which Ruby is flying.,5.0
+google/gemma-3-27b-it,157,3,United is the company with which Ruby is flying.,5.0
+google/gemma-3-27b-it,158,1,That Lamborghini is the car of which Tiffany is getting out.,2.0
+google/gemma-3-27b-it,158,2,That Lamborghini is the car of which Tiffany is getting out.,2.0
+google/gemma-3-27b-it,158,3,That Lamborghini is the car of which Tiffany is getting out.,2.0
+google/gemma-3-27b-it,159,1,Warrenville is the town to which Vern is moving.,7.0
+google/gemma-3-27b-it,159,2,Warrenville is the town to which Vern is moving.,7.0
+google/gemma-3-27b-it,159,3,Warrenville is the town to which Vern is moving.,6.0
+google/gemma-3-27b-it,160,1,I went to the party with my friend.,7.0
+google/gemma-3-27b-it,160,2,I went to the party with my friend.,7.0
+google/gemma-3-27b-it,160,3,I went to the party with my friend.,7.0
+google/gemma-3-27b-it,161,1,The woman opened the door with her keys.,7.0
+google/gemma-3-27b-it,161,2,The woman opened the door with her keys.,7.0
+google/gemma-3-27b-it,161,3,The woman opened the door with her keys.,7.0
+google/gemma-3-27b-it,162,1,Peter went out to eat for his birthday.,7.0
+google/gemma-3-27b-it,162,2,Peter went out to eat for his birthday.,7.0
+google/gemma-3-27b-it,162,3,Peter went out to eat for his birthday.,7.0
+google/gemma-3-27b-it,163,1,Peter arrived late because of traffic.,7.0
+google/gemma-3-27b-it,163,2,Peter arrived late because of traffic.,7.0
+google/gemma-3-27b-it,163,3,Peter arrived late because of traffic.,7.0
+google/gemma-3-27b-it,164,1,Joey left early because he went to work.,7.0
+google/gemma-3-27b-it,164,2,Joey left early because he went to work.,7.0
+google/gemma-3-27b-it,164,3,Joey left early because he went to work.,7.0
+google/gemma-3-27b-it,165,1,Michael cut his hair because it was too long.,7.0
+google/gemma-3-27b-it,165,2,Michael cut his hair because it was too long.,7.0
+google/gemma-3-27b-it,165,3,Michael cut his hair because it was too long.,7.0
+google/gemma-3-27b-it,166,1,I went to the beach all summer long.,7.0
+google/gemma-3-27b-it,166,2,I went to the beach all summer long.,7.0
+google/gemma-3-27b-it,166,3,I went to the beach all summer long.,7.0
+google/gemma-3-27b-it,167,1,I get up early every day of the week.,7.0
+google/gemma-3-27b-it,167,2,I get up early every day of the week.,7.0
+google/gemma-3-27b-it,167,3,I get up early every day of the week.,7.0
+google/gemma-3-27b-it,168,1,She goes out dancing every weekend.,7.0
+google/gemma-3-27b-it,168,2,She goes out dancing every weekend.,7.0
+google/gemma-3-27b-it,168,3,She goes out dancing every weekend.,7.0
+google/gemma-3-27b-it,169,1,He was called boneheaded all the time.,5.0
+google/gemma-3-27b-it,169,2,He was called boneheaded all the time.,5.0
+google/gemma-3-27b-it,169,3,He was called boneheaded all the time.,5.0
+google/gemma-3-27b-it,170,1,He was called stupid all the time.,5.0
+google/gemma-3-27b-it,170,2,He was called stupid all the time.,5.0
+google/gemma-3-27b-it,170,3,He was called stupid all the time.,5.0
+google/gemma-3-27b-it,171,1,He was called snooty because he was from the US.,3.0
+google/gemma-3-27b-it,171,2,He was called snooty because he was from the US.,3.0
+google/gemma-3-27b-it,171,3,He was called snooty because he was from the US.,3.0
+google/gemma-3-27b-it,172,1,He was called native because he was from the US.,1.0
+google/gemma-3-27b-it,172,2,He was called native because he was from the US.,1.0
+google/gemma-3-27b-it,172,3,He was called native because he was from the US.,2.0
+google/gemma-3-27b-it,173,1,My mom bought crackers for the party.,7.0
+google/gemma-3-27b-it,173,2,My mom bought crackers for the party.,7.0
+google/gemma-3-27b-it,173,3,My mom bought crackers for the party.,7.0
+google/gemma-3-27b-it,174,1,My mom bought fruit for the party.,7.0
+google/gemma-3-27b-it,174,2,My mom bought fruit for the party.,7.0
+google/gemma-3-27b-it,174,3,My mom bought fruit for the party.,7.0
+google/gemma-3-27b-it,175,1,I have been craving seltzer since this morning.,7.0
+google/gemma-3-27b-it,175,2,I have been craving seltzer since this morning.,7.0
+google/gemma-3-27b-it,175,3,I have been craving seltzer since this morning.,7.0
+google/gemma-3-27b-it,176,1,I have been craving coffee since this morning.,7.0
+google/gemma-3-27b-it,176,2,I have been craving coffee since this morning.,7.0
+google/gemma-3-27b-it,176,3,I have been craving coffee since this morning.,7.0
+google/gemma-3-27b-it,177,1,My grandma made me biscuits for breakfast.,7.0
+google/gemma-3-27b-it,177,2,My grandma made me biscuits for breakfast.,7.0
+google/gemma-3-27b-it,177,3,My grandma made me biscuits for breakfast.,7.0
+google/gemma-3-27b-it,178,1,My grandma made me pancakes for breakfast.,7.0
+google/gemma-3-27b-it,178,2,My grandma made me pancakes for breakfast.,7.0
+google/gemma-3-27b-it,178,3,My grandma made me pancakes for breakfast.,7.0
+google/gemma-3-27b-it,179,1,He is going to serve us clam chowder for dinner tomorrow.,7.0
+google/gemma-3-27b-it,179,2,He is going to serve us clam chowder for dinner tomorrow.,7.0
+google/gemma-3-27b-it,179,3,He is going to serve us clam chowder for dinner tomorrow.,7.0
+google/gemma-3-27b-it,180,1,He is going to serve us soup for dinner tomorrow.,7.0
+google/gemma-3-27b-it,180,2,He is going to serve us soup for dinner tomorrow.,7.0
+google/gemma-3-27b-it,180,3,He is going to serve us soup for dinner tomorrow.,7.0
+anthropic/claude-4-sonnet-20250522,79,1,He was called naco todo el tiempo.,3.0
+anthropic/claude-4-sonnet-20250522,79,2,He was called naco todo el tiempo.,3.0
+anthropic/claude-4-sonnet-20250522,79,3,He was called naco todo el tiempo.,3.0
+anthropic/claude-4-sonnet-20250522,80,1,He was called estúpido todo el tiempo.,3.0
+anthropic/claude-4-sonnet-20250522,80,2,He was called estúpido todo el tiempo.,3.0
+anthropic/claude-4-sonnet-20250522,80,3,He was called estúpido todo el tiempo.,3.0
+anthropic/claude-4-sonnet-20250522,81,1,Le llamaba boneheaded all the time.,3.0
+anthropic/claude-4-sonnet-20250522,81,2,Le llamaba boneheaded all the time.,3.0
+anthropic/claude-4-sonnet-20250522,81,3,Le llamaba boneheaded all the time.,3.0
+anthropic/claude-4-sonnet-20250522,82,1,Le llamaba stupid all the time.,4.0
+anthropic/claude-4-sonnet-20250522,82,2,Le llamaba stupid all the time.,3.0
+anthropic/claude-4-sonnet-20250522,82,3,Le llamaba stupid all the time.,3.0
+anthropic/claude-4-sonnet-20250522,83,1,He was called chicano porque era mexicano.,4.0
+anthropic/claude-4-sonnet-20250522,83,2,He was called chicano porque era mexicano.,4.0
+anthropic/claude-4-sonnet-20250522,83,3,He was called chicano porque era mexicano.,4.0
+anthropic/claude-4-sonnet-20250522,84,1,He was called nativo porque era mexicano.,4.0
+anthropic/claude-4-sonnet-20250522,84,2,He was called nativo porque era mexicano.,6.0
+anthropic/claude-4-sonnet-20250522,84,3,He was called nativo porque era mexicano.,4.0
+anthropic/claude-4-sonnet-20250522,85,1,Le llamaba snooty because he was from the US.,3.0
+anthropic/claude-4-sonnet-20250522,85,2,Le llamaba snooty because he was from the US.,3.0
+anthropic/claude-4-sonnet-20250522,85,3,Le llamaba snooty because he was from the US.,3.0
+anthropic/claude-4-sonnet-20250522,86,1,Le llamaba native because he was from the US.,3.0
+anthropic/claude-4-sonnet-20250522,86,2,Le llamaba native because he was from the US.,3.0
+anthropic/claude-4-sonnet-20250522,86,3,Le llamaba native because he was from the US.,3.0
+anthropic/claude-4-sonnet-20250522,87,1,My mom bought nopales para la fiesta.,6.0
+anthropic/claude-4-sonnet-20250522,87,2,My mom bought nopales para la fiesta.,6.0
+anthropic/claude-4-sonnet-20250522,87,3,My mom bought nopales para la fiesta.,6.0
+anthropic/claude-4-sonnet-20250522,88,1,My mom bought fruta para la fiesta.,3.0
+anthropic/claude-4-sonnet-20250522,88,2,My mom bought fruta para la fiesta.,3.0
+anthropic/claude-4-sonnet-20250522,88,3,My mom bought fruta para la fiesta.,3.0
+anthropic/claude-4-sonnet-20250522,89,1,Mi mamá compró crackers for the party.,4.0
+anthropic/claude-4-sonnet-20250522,89,2,Mi mamá compró crackers for the party.,4.0
+anthropic/claude-4-sonnet-20250522,89,3,Mi mamá compró crackers for the party.,4.0
+anthropic/claude-4-sonnet-20250522,90,1,Mi mamá compró fruit for the party.,3.0
+anthropic/claude-4-sonnet-20250522,90,2,Mi mamá compró fruit for the party.,3.0
+anthropic/claude-4-sonnet-20250522,90,3,Mi mamá compró fruit for the party.,3.0
+anthropic/claude-4-sonnet-20250522,91,1,I have been craving champurrado desde la mañana.,6.0
+anthropic/claude-4-sonnet-20250522,91,2,I have been craving champurrado desde la mañana.,6.0
+anthropic/claude-4-sonnet-20250522,91,3,I have been craving champurrado desde la mañana.,6.0
+anthropic/claude-4-sonnet-20250522,92,1,I have been craving café desde la mañana.,2.0
+anthropic/claude-4-sonnet-20250522,92,2,I have been craving café desde la mañana.,2.0
+anthropic/claude-4-sonnet-20250522,92,3,I have been craving café desde la mañana.,2.0
+anthropic/claude-4-sonnet-20250522,93,1,He tenido antojo de seltzer since this morning.,3.0
+anthropic/claude-4-sonnet-20250522,93,2,He tenido antojo de seltzer since this morning.,3.0
+anthropic/claude-4-sonnet-20250522,93,3,He tenido antojo de seltzer since this morning.,3.0
+anthropic/claude-4-sonnet-20250522,94,1,He tenido antojo de coffee since this morning.,3.0
+anthropic/claude-4-sonnet-20250522,94,2,He tenido antojo de coffee since this morning.,3.0
+anthropic/claude-4-sonnet-20250522,94,3,He tenido antojo de coffee since this morning.,3.0
+anthropic/claude-4-sonnet-20250522,95,1,My grandma made me atole para el desayuno.,6.0
+anthropic/claude-4-sonnet-20250522,95,2,My grandma made me atole para el desayuno.,6.0
+anthropic/claude-4-sonnet-20250522,95,3,My grandma made me atole para el desayuno.,6.0
+anthropic/claude-4-sonnet-20250522,96,1,My grandma made me panqueques para el desayuno.,4.0
+anthropic/claude-4-sonnet-20250522,96,2,My grandma made me panqueques para el desayuno.,4.0
+anthropic/claude-4-sonnet-20250522,96,3,My grandma made me panqueques para el desayuno.,3.0
+anthropic/claude-4-sonnet-20250522,97,1,Mi abuela me hizo biscuits for breakfast.,4.0
+anthropic/claude-4-sonnet-20250522,97,2,Mi abuela me hizo biscuits for breakfast.,4.0
+anthropic/claude-4-sonnet-20250522,97,3,Mi abuela me hizo biscuits for breakfast.,6.0
+anthropic/claude-4-sonnet-20250522,98,1,Mi abuela me hizo pancakes for breakfast.,6.0
+anthropic/claude-4-sonnet-20250522,98,2,Mi abuela me hizo pancakes for breakfast.,4.0
+anthropic/claude-4-sonnet-20250522,98,3,Mi abuela me hizo pancakes for breakfast.,4.0
+anthropic/claude-4-sonnet-20250522,99,1,He is going to serve us pozole para la cena mañana.,4.0
+anthropic/claude-4-sonnet-20250522,99,2,He is going to serve us pozole para la cena mañana.,4.0
+anthropic/claude-4-sonnet-20250522,99,3,He is going to serve us pozole para la cena mañana.,4.0
+anthropic/claude-4-sonnet-20250522,100,1,He is going to serve us sopa para la cena mañana.,3.0
+anthropic/claude-4-sonnet-20250522,100,2,He is going to serve us sopa para la cena mañana.,3.0
+anthropic/claude-4-sonnet-20250522,100,3,He is going to serve us sopa para la cena mañana.,3.0
+anthropic/claude-4-sonnet-20250522,101,1,Nos va a servir clam chowder for dinner tomorrow.,2.0
+anthropic/claude-4-sonnet-20250522,101,2,Nos va a servir clam chowder for dinner tomorrow.,2.0
+anthropic/claude-4-sonnet-20250522,101,3,Nos va a servir clam chowder for dinner tomorrow.,2.0
+anthropic/claude-4-sonnet-20250522,102,1,Nos va a servir soup for dinner tomorrow.,2.0
+anthropic/claude-4-sonnet-20250522,102,2,Nos va a servir soup for dinner tomorrow.,2.0
+anthropic/claude-4-sonnet-20250522,102,3,Nos va a servir soup for dinner tomorrow.,2.0
+anthropic/claude-4-sonnet-20250522,103,1,Qué hombre está bailando Araceli con?,2.0
+anthropic/claude-4-sonnet-20250522,103,2,Qué hombre está bailando Araceli con?,2.0
+anthropic/claude-4-sonnet-20250522,103,3,Qué hombre está bailando Araceli con?,2.0
+anthropic/claude-4-sonnet-20250522,104,1,Qué curso se está cansando Candela de?,2.0
+anthropic/claude-4-sonnet-20250522,104,2,Qué curso se está cansando Candela de?,2.0
+anthropic/claude-4-sonnet-20250522,104,3,Qué curso se está cansando Candela de?,2.0
+anthropic/claude-4-sonnet-20250522,105,1,Qué libro está haciendo referencia Diego a?,2.0
+anthropic/claude-4-sonnet-20250522,105,2,Qué libro está haciendo referencia Diego a?,2.0
+anthropic/claude-4-sonnet-20250522,105,3,Qué libro está haciendo referencia Diego a?,2.0
+anthropic/claude-4-sonnet-20250522,106,1,Elisa no sabe qué amigo Fernando está trabajando con.,2.0
+anthropic/claude-4-sonnet-20250522,106,2,Elisa no sabe qué amigo Fernando está trabajando con.,2.0
+anthropic/claude-4-sonnet-20250522,106,3,Elisa no sabe qué amigo Fernando está trabajando con.,2.0
+anthropic/claude-4-sonnet-20250522,107,1,Julieta no sabe qué avión Leonel está saltando de.,2.0
+anthropic/claude-4-sonnet-20250522,107,2,Julieta no sabe qué avión Leonel está saltando de.,2.0
+anthropic/claude-4-sonnet-20250522,107,3,Julieta no sabe qué avión Leonel está saltando de.,2.0
+anthropic/claude-4-sonnet-20250522,108,1,Matías no sabe qué país Natalia está viajando a.,2.0
+anthropic/claude-4-sonnet-20250522,108,2,Matías no sabe qué país Natalia está viajando a.,2.0
+anthropic/claude-4-sonnet-20250522,108,3,Matías no sabe qué país Natalia está viajando a.,2.0
+anthropic/claude-4-sonnet-20250522,109,1,United es la compañía que Roberta está volando con.,2.0
+anthropic/claude-4-sonnet-20250522,109,2,United es la compañía que Roberta está volando con.,2.0
+anthropic/claude-4-sonnet-20250522,109,3,United es la compañía que Roberta está volando con.,2.0
+anthropic/claude-4-sonnet-20250522,110,1,Ese Lamborghini es el coche que Teresa está saliendo de.,2.0
+anthropic/claude-4-sonnet-20250522,110,2,Ese Lamborghini es el coche que Teresa está saliendo de.,2.0
+anthropic/claude-4-sonnet-20250522,110,3,Ese Lamborghini es el coche que Teresa está saliendo de.,2.0
+anthropic/claude-4-sonnet-20250522,111,1,Villa del Carbón es el pueblo que Víctor se está mudando a.,2.0
+anthropic/claude-4-sonnet-20250522,111,2,Villa del Carbón es el pueblo que Víctor se está mudando a.,2.0
+anthropic/claude-4-sonnet-20250522,111,3,Villa del Carbón es el pueblo que Víctor se está mudando a.,2.0
+anthropic/claude-4-sonnet-20250522,112,1,Con qué hombre está bailando Araceli?,7.0
+anthropic/claude-4-sonnet-20250522,112,2,Con qué hombre está bailando Araceli?,7.0
+anthropic/claude-4-sonnet-20250522,112,3,Con qué hombre está bailando Araceli?,7.0
+anthropic/claude-4-sonnet-20250522,113,1,De qué curso se está cansando Candela?,7.0
+anthropic/claude-4-sonnet-20250522,113,2,De qué curso se está cansando Candela?,7.0
+anthropic/claude-4-sonnet-20250522,113,3,De qué curso se está cansando Candela?,7.0
+anthropic/claude-4-sonnet-20250522,114,1,A qué libro está haciendo referencia Diego?,7.0
+anthropic/claude-4-sonnet-20250522,114,2,A qué libro está haciendo referencia Diego?,7.0
+anthropic/claude-4-sonnet-20250522,114,3,A qué libro está haciendo referencia Diego?,7.0
+anthropic/claude-4-sonnet-20250522,115,1,Elisa no sabe con qué amigo Fernando está trabajando.,7.0
+anthropic/claude-4-sonnet-20250522,115,2,Elisa no sabe con qué amigo Fernando está trabajando.,7.0
+anthropic/claude-4-sonnet-20250522,115,3,Elisa no sabe con qué amigo Fernando está trabajando.,7.0
+anthropic/claude-4-sonnet-20250522,116,1,Julieta no sabe de qué avión Leonel está saltando.,7.0
+anthropic/claude-4-sonnet-20250522,116,2,Julieta no sabe de qué avión Leonel está saltando.,7.0
+anthropic/claude-4-sonnet-20250522,116,3,Julieta no sabe de qué avión Leonel está saltando.,7.0
+anthropic/claude-4-sonnet-20250522,117,1,Matías no sabe a qué país Natalia está viajando.,7.0
+anthropic/claude-4-sonnet-20250522,117,2,Matías no sabe a qué país Natalia está viajando.,7.0
+anthropic/claude-4-sonnet-20250522,117,3,Matías no sabe a qué país Natalia está viajando.,7.0
+anthropic/claude-4-sonnet-20250522,118,1,United es la compañía con la que Roberta está volando.,7.0
+anthropic/claude-4-sonnet-20250522,118,2,United es la compañía con la que Roberta está volando.,7.0
+anthropic/claude-4-sonnet-20250522,118,3,United es la compañía con la que Roberta está volando.,7.0
+anthropic/claude-4-sonnet-20250522,119,1,Ese Lamborghini es el coche del que Teresa está saliendo.,3.0
+anthropic/claude-4-sonnet-20250522,119,2,Ese Lamborghini es el coche del que Teresa está saliendo.,3.0
+anthropic/claude-4-sonnet-20250522,119,3,Ese Lamborghini es el coche del que Teresa está saliendo.,3.0
+anthropic/claude-4-sonnet-20250522,120,1,Villa del Carbón es el pueblo al que Víctor se está mudando.,7.0
+anthropic/claude-4-sonnet-20250522,120,2,Villa del Carbón es el pueblo al que Víctor se está mudando.,7.0
+anthropic/claude-4-sonnet-20250522,120,3,Villa del Carbón es el pueblo al que Víctor se está mudando.,7.0
+anthropic/claude-4-sonnet-20250522,121,1,Yo fui a la fiesta con mi amigo.,7.0
+anthropic/claude-4-sonnet-20250522,121,2,Yo fui a la fiesta con mi amigo.,7.0
+anthropic/claude-4-sonnet-20250522,121,3,Yo fui a la fiesta con mi amigo.,7.0
+anthropic/claude-4-sonnet-20250522,122,1,La mujer abrió la puerta con sus llaves.,7.0
+anthropic/claude-4-sonnet-20250522,122,2,La mujer abrió la puerta con sus llaves.,7.0
+anthropic/claude-4-sonnet-20250522,122,3,La mujer abrió la puerta con sus llaves.,7.0
+anthropic/claude-4-sonnet-20250522,123,1,Pedro salío a comer para su cumple.,4.0
+anthropic/claude-4-sonnet-20250522,123,2,Pedro salío a comer para su cumple.,4.0
+anthropic/claude-4-sonnet-20250522,123,3,Pedro salío a comer para su cumple.,4.0
+anthropic/claude-4-sonnet-20250522,124,1,Pedro llegó tarde porque hubo tráfico.,7.0
+anthropic/claude-4-sonnet-20250522,124,2,Pedro llegó tarde porque hubo tráfico.,7.0
+anthropic/claude-4-sonnet-20250522,124,3,Pedro llegó tarde porque hubo tráfico.,7.0
+anthropic/claude-4-sonnet-20250522,125,1,José salió temprano porque se fue al trabajo.,3.0
+anthropic/claude-4-sonnet-20250522,125,2,José salió temprano porque se fue al trabajo.,3.0
+anthropic/claude-4-sonnet-20250522,125,3,José salió temprano porque se fue al trabajo.,3.0
+anthropic/claude-4-sonnet-20250522,126,1,Miguel se cortó el pelo porque estaba muy largo.,3.0
+anthropic/claude-4-sonnet-20250522,126,2,Miguel se cortó el pelo porque estaba muy largo.,3.0
+anthropic/claude-4-sonnet-20250522,126,3,Miguel se cortó el pelo porque estaba muy largo.,3.0
+anthropic/claude-4-sonnet-20250522,127,1,Yo fui a la playa todo el verano.,7.0
+anthropic/claude-4-sonnet-20250522,127,2,Yo fui a la playa todo el verano.,7.0
+anthropic/claude-4-sonnet-20250522,127,3,Yo fui a la playa todo el verano.,7.0
+anthropic/claude-4-sonnet-20250522,128,1,Yo me levanto temprano todos los días de la semana.,7.0
+anthropic/claude-4-sonnet-20250522,128,2,Yo me levanto temprano todos los días de la semana.,7.0
+anthropic/claude-4-sonnet-20250522,128,3,Yo me levanto temprano todos los días de la semana.,7.0
+anthropic/claude-4-sonnet-20250522,129,1,Ella sale a bailar cada fin de semana.,7.0
+anthropic/claude-4-sonnet-20250522,129,2,Ella sale a bailar cada fin de semana.,7.0
+anthropic/claude-4-sonnet-20250522,129,3,Ella sale a bailar cada fin de semana.,7.0
+anthropic/claude-4-sonnet-20250522,130,1,Le llamaba naco todo el tiempo.,7.0
+anthropic/claude-4-sonnet-20250522,130,2,Le llamaba naco todo el tiempo.,7.0
+anthropic/claude-4-sonnet-20250522,130,3,Le llamaba naco todo el tiempo.,7.0
+anthropic/claude-4-sonnet-20250522,131,1,Le llamaba estúpido todo el tiempo.,7.0
+anthropic/claude-4-sonnet-20250522,131,2,Le llamaba estúpido todo el tiempo.,7.0
+anthropic/claude-4-sonnet-20250522,131,3,Le llamaba estúpido todo el tiempo.,7.0
+anthropic/claude-4-sonnet-20250522,132,1,Le llamaba chicano porque era mexicano.,7.0
+anthropic/claude-4-sonnet-20250522,132,2,Le llamaba chicano porque era mexicano.,7.0
+anthropic/claude-4-sonnet-20250522,132,3,Le llamaba chicano porque era mexicano.,7.0
+anthropic/claude-4-sonnet-20250522,133,1,Le llamaba nativo porque era mexicano.,7.0
+anthropic/claude-4-sonnet-20250522,133,2,Le llamaba nativo porque era mexicano.,7.0
+anthropic/claude-4-sonnet-20250522,133,3,Le llamaba nativo porque era mexicano.,7.0
+anthropic/claude-4-sonnet-20250522,134,1,Mi mamá compró nopales para la fiesta.,7.0
+anthropic/claude-4-sonnet-20250522,134,2,Mi mamá compró nopales para la fiesta.,7.0
+anthropic/claude-4-sonnet-20250522,134,3,Mi mamá compró nopales para la fiesta.,7.0
+anthropic/claude-4-sonnet-20250522,135,1,Mi mamá compró fruta para la fiesta.,7.0
+anthropic/claude-4-sonnet-20250522,135,2,Mi mamá compró fruta para la fiesta.,7.0
+anthropic/claude-4-sonnet-20250522,135,3,Mi mamá compró fruta para la fiesta.,7.0
+anthropic/claude-4-sonnet-20250522,136,1,He tenido antojo de champurrado desde la mañana.,7.0
+anthropic/claude-4-sonnet-20250522,136,2,He tenido antojo de champurrado desde la mañana.,7.0
+anthropic/claude-4-sonnet-20250522,136,3,He tenido antojo de champurrado desde la mañana.,7.0
+anthropic/claude-4-sonnet-20250522,137,1,He tenido antojo de café desde la mañana.,7.0
+anthropic/claude-4-sonnet-20250522,137,2,He tenido antojo de café desde la mañana.,7.0
+anthropic/claude-4-sonnet-20250522,137,3,He tenido antojo de café desde la mañana.,7.0
+anthropic/claude-4-sonnet-20250522,138,1,Mi abuela me hizo atole para el desayuno.,7.0
+anthropic/claude-4-sonnet-20250522,138,2,Mi abuela me hizo atole para el desayuno.,7.0
+anthropic/claude-4-sonnet-20250522,138,3,Mi abuela me hizo atole para el desayuno.,7.0
+anthropic/claude-4-sonnet-20250522,139,1,Mi abuela me hizo panqueques para el desayuno.,7.0
+anthropic/claude-4-sonnet-20250522,139,2,Mi abuela me hizo panqueques para el desayuno.,7.0
+anthropic/claude-4-sonnet-20250522,139,3,Mi abuela me hizo panqueques para el desayuno.,7.0
+anthropic/claude-4-sonnet-20250522,140,1,Nos va a servir pozole para la cena mañana.,7.0
+anthropic/claude-4-sonnet-20250522,140,2,Nos va a servir pozole para la cena mañana.,7.0
+anthropic/claude-4-sonnet-20250522,140,3,Nos va a servir pozole para la cena mañana.,7.0
+anthropic/claude-4-sonnet-20250522,141,1,Nos va a servir sopa para la cena mañana.,7.0
+anthropic/claude-4-sonnet-20250522,141,2,Nos va a servir sopa para la cena mañana.,7.0
+anthropic/claude-4-sonnet-20250522,141,3,Nos va a servir sopa para la cena mañana.,7.0
+anthropic/claude-4-sonnet-20250522,142,1,What guy is Ashley dancing with?,7.0
+anthropic/claude-4-sonnet-20250522,142,2,What guy is Ashley dancing with?,7.0
+anthropic/claude-4-sonnet-20250522,142,3,What guy is Ashley dancing with?,7.0
+anthropic/claude-4-sonnet-20250522,143,1,What class is Charlotte getting tired of?,7.0
+anthropic/claude-4-sonnet-20250522,143,2,What class is Charlotte getting tired of?,7.0
+anthropic/claude-4-sonnet-20250522,143,3,What class is Charlotte getting tired of?,7.0
+anthropic/claude-4-sonnet-20250522,144,1,What book is Dylan referring to?,7.0
+anthropic/claude-4-sonnet-20250522,144,2,What book is Dylan referring to?,7.0
+anthropic/claude-4-sonnet-20250522,144,3,What book is Dylan referring to?,7.0
+anthropic/claude-4-sonnet-20250522,145,1,Emily doesn't know what friend Frank is working with.,7.0
+anthropic/claude-4-sonnet-20250522,145,2,Emily doesn't know what friend Frank is working with.,7.0
+anthropic/claude-4-sonnet-20250522,145,3,Emily doesn't know what friend Frank is working with.,7.0
+anthropic/claude-4-sonnet-20250522,146,1,Jessica doesn't know what plane Lance is jumping out of.,7.0
+anthropic/claude-4-sonnet-20250522,146,2,Jessica doesn't know what plane Lance is jumping out of.,7.0
+anthropic/claude-4-sonnet-20250522,146,3,Jessica doesn't know what plane Lance is jumping out of.,7.0
+anthropic/claude-4-sonnet-20250522,147,1,Mason doesn't know what country Nancy is traveling to.,7.0
+anthropic/claude-4-sonnet-20250522,147,2,Mason doesn't know what country Nancy is traveling to.,7.0
+anthropic/claude-4-sonnet-20250522,147,3,Mason doesn't know what country Nancy is traveling to.,7.0
+anthropic/claude-4-sonnet-20250522,148,1,United is the company Ruby is flying with.,7.0
+anthropic/claude-4-sonnet-20250522,148,2,United is the company Ruby is flying with.,6.0
+anthropic/claude-4-sonnet-20250522,148,3,United is the company Ruby is flying with.,7.0
+anthropic/claude-4-sonnet-20250522,149,1,That Lamborghini is the car Tiffany is getting out of.,7.0
+anthropic/claude-4-sonnet-20250522,149,2,That Lamborghini is the car Tiffany is getting out of.,7.0
+anthropic/claude-4-sonnet-20250522,149,3,That Lamborghini is the car Tiffany is getting out of.,7.0
+anthropic/claude-4-sonnet-20250522,150,1,Warrenville is the town Vern is moving to.,7.0
+anthropic/claude-4-sonnet-20250522,150,2,Warrenville is the town Vern is moving to.,7.0
+anthropic/claude-4-sonnet-20250522,150,3,Warrenville is the town Vern is moving to.,7.0
+anthropic/claude-4-sonnet-20250522,151,1,With what guy is Ashley dancing?,6.0
+anthropic/claude-4-sonnet-20250522,151,2,With what guy is Ashley dancing?,6.0
+anthropic/claude-4-sonnet-20250522,151,3,With what guy is Ashley dancing?,6.0
+anthropic/claude-4-sonnet-20250522,152,1,Of what class is Charlotte getting tired?,4.0
+anthropic/claude-4-sonnet-20250522,152,2,Of what class is Charlotte getting tired?,4.0
+anthropic/claude-4-sonnet-20250522,152,3,Of what class is Charlotte getting tired?,4.0
+anthropic/claude-4-sonnet-20250522,153,1,To what book is Dylan referring?,7.0
+anthropic/claude-4-sonnet-20250522,153,2,To what book is Dylan referring?,7.0
+anthropic/claude-4-sonnet-20250522,153,3,To what book is Dylan referring?,7.0
+anthropic/claude-4-sonnet-20250522,154,1,Emily doesn't know with what friend Frank is working.,3.0
+anthropic/claude-4-sonnet-20250522,154,2,Emily doesn't know with what friend Frank is working.,3.0
+anthropic/claude-4-sonnet-20250522,154,3,Emily doesn't know with what friend Frank is working.,4.0
+anthropic/claude-4-sonnet-20250522,155,1,Jessica doesn't know of what plane Lance is jumping out.,2.0
+anthropic/claude-4-sonnet-20250522,155,2,Jessica doesn't know of what plane Lance is jumping out.,2.0
+anthropic/claude-4-sonnet-20250522,155,3,Jessica doesn't know of what plane Lance is jumping out.,2.0
+anthropic/claude-4-sonnet-20250522,156,1,Mason doesn't know to what country Nancy is traveling.,6.0
+anthropic/claude-4-sonnet-20250522,156,2,Mason doesn't know to what country Nancy is traveling.,4.0
+anthropic/claude-4-sonnet-20250522,156,3,Mason doesn't know to what country Nancy is traveling.,4.0
+anthropic/claude-4-sonnet-20250522,157,1,United is the company with which Ruby is flying.,7.0
+anthropic/claude-4-sonnet-20250522,157,2,United is the company with which Ruby is flying.,7.0
+anthropic/claude-4-sonnet-20250522,157,3,United is the company with which Ruby is flying.,7.0
+anthropic/claude-4-sonnet-20250522,158,1,That Lamborghini is the car of which Tiffany is getting out.,4.0
+anthropic/claude-4-sonnet-20250522,158,2,That Lamborghini is the car of which Tiffany is getting out.,3.0
+anthropic/claude-4-sonnet-20250522,158,3,That Lamborghini is the car of which Tiffany is getting out.,4.0
+anthropic/claude-4-sonnet-20250522,159,1,Warrenville is the town to which Vern is moving.,7.0
+anthropic/claude-4-sonnet-20250522,159,2,Warrenville is the town to which Vern is moving.,7.0
+anthropic/claude-4-sonnet-20250522,159,3,Warrenville is the town to which Vern is moving.,7.0
+anthropic/claude-4-sonnet-20250522,160,1,I went to the party with my friend.,7.0
+anthropic/claude-4-sonnet-20250522,160,2,I went to the party with my friend.,7.0
+anthropic/claude-4-sonnet-20250522,160,3,I went to the party with my friend.,7.0
+anthropic/claude-4-sonnet-20250522,161,1,The woman opened the door with her keys.,7.0
+anthropic/claude-4-sonnet-20250522,161,2,The woman opened the door with her keys.,7.0
+anthropic/claude-4-sonnet-20250522,161,3,The woman opened the door with her keys.,7.0
+anthropic/claude-4-sonnet-20250522,162,1,Peter went out to eat for his birthday.,7.0
+anthropic/claude-4-sonnet-20250522,162,2,Peter went out to eat for his birthday.,7.0
+anthropic/claude-4-sonnet-20250522,162,3,Peter went out to eat for his birthday.,7.0
+anthropic/claude-4-sonnet-20250522,163,1,Peter arrived late because of traffic.,7.0
+anthropic/claude-4-sonnet-20250522,163,2,Peter arrived late because of traffic.,7.0
+anthropic/claude-4-sonnet-20250522,163,3,Peter arrived late because of traffic.,7.0
+anthropic/claude-4-sonnet-20250522,164,1,Joey left early because he went to work.,4.0
+anthropic/claude-4-sonnet-20250522,164,2,Joey left early because he went to work.,3.0
+anthropic/claude-4-sonnet-20250522,164,3,Joey left early because he went to work.,3.0
+anthropic/claude-4-sonnet-20250522,165,1,Michael cut his hair because it was too long.,7.0
+anthropic/claude-4-sonnet-20250522,165,2,Michael cut his hair because it was too long.,7.0
+anthropic/claude-4-sonnet-20250522,165,3,Michael cut his hair because it was too long.,7.0
+anthropic/claude-4-sonnet-20250522,166,1,I went to the beach all summer long.,7.0
+anthropic/claude-4-sonnet-20250522,166,2,I went to the beach all summer long.,7.0
+anthropic/claude-4-sonnet-20250522,166,3,I went to the beach all summer long.,7.0
+anthropic/claude-4-sonnet-20250522,167,1,I get up early every day of the week.,7.0
+anthropic/claude-4-sonnet-20250522,167,2,I get up early every day of the week.,7.0
+anthropic/claude-4-sonnet-20250522,167,3,I get up early every day of the week.,7.0
+anthropic/claude-4-sonnet-20250522,168,1,She goes out dancing every weekend.,7.0
+anthropic/claude-4-sonnet-20250522,168,2,She goes out dancing every weekend.,7.0
+anthropic/claude-4-sonnet-20250522,168,3,She goes out dancing every weekend.,7.0
+anthropic/claude-4-sonnet-20250522,169,1,He was called boneheaded all the time.,6.0
+anthropic/claude-4-sonnet-20250522,169,2,He was called boneheaded all the time.,6.0
+anthropic/claude-4-sonnet-20250522,169,3,He was called boneheaded all the time.,6.0
+anthropic/claude-4-sonnet-20250522,170,1,He was called stupid all the time.,7.0
+anthropic/claude-4-sonnet-20250522,170,2,He was called stupid all the time.,7.0
+anthropic/claude-4-sonnet-20250522,170,3,He was called stupid all the time.,7.0
+anthropic/claude-4-sonnet-20250522,171,1,He was called snooty because he was from the US.,7.0
+anthropic/claude-4-sonnet-20250522,171,2,He was called snooty because he was from the US.,7.0
+anthropic/claude-4-sonnet-20250522,171,3,He was called snooty because he was from the US.,7.0
+anthropic/claude-4-sonnet-20250522,172,1,He was called native because he was from the US.,4.0
+anthropic/claude-4-sonnet-20250522,172,2,He was called native because he was from the US.,6.0
+anthropic/claude-4-sonnet-20250522,172,3,He was called native because he was from the US.,4.0
+anthropic/claude-4-sonnet-20250522,173,1,My mom bought crackers for the party.,7.0
+anthropic/claude-4-sonnet-20250522,173,2,My mom bought crackers for the party.,7.0
+anthropic/claude-4-sonnet-20250522,173,3,My mom bought crackers for the party.,7.0
+anthropic/claude-4-sonnet-20250522,174,1,My mom bought fruit for the party.,7.0
+anthropic/claude-4-sonnet-20250522,174,2,My mom bought fruit for the party.,7.0
+anthropic/claude-4-sonnet-20250522,174,3,My mom bought fruit for the party.,7.0
+anthropic/claude-4-sonnet-20250522,175,1,I have been craving seltzer since this morning.,7.0
+anthropic/claude-4-sonnet-20250522,175,2,I have been craving seltzer since this morning.,7.0
+anthropic/claude-4-sonnet-20250522,175,3,I have been craving seltzer since this morning.,7.0
+anthropic/claude-4-sonnet-20250522,176,1,I have been craving coffee since this morning.,7.0
+anthropic/claude-4-sonnet-20250522,176,2,I have been craving coffee since this morning.,7.0
+anthropic/claude-4-sonnet-20250522,176,3,I have been craving coffee since this morning.,7.0
+anthropic/claude-4-sonnet-20250522,177,1,My grandma made me biscuits for breakfast.,7.0
+anthropic/claude-4-sonnet-20250522,177,2,My grandma made me biscuits for breakfast.,7.0
+anthropic/claude-4-sonnet-20250522,177,3,My grandma made me biscuits for breakfast.,7.0
+anthropic/claude-4-sonnet-20250522,178,1,My grandma made me pancakes for breakfast.,7.0
+anthropic/claude-4-sonnet-20250522,178,2,My grandma made me pancakes for breakfast.,7.0
+anthropic/claude-4-sonnet-20250522,178,3,My grandma made me pancakes for breakfast.,7.0
+anthropic/claude-4-sonnet-20250522,179,1,He is going to serve us clam chowder for dinner tomorrow.,7.0
+anthropic/claude-4-sonnet-20250522,179,2,He is going to serve us clam chowder for dinner tomorrow.,7.0
+anthropic/claude-4-sonnet-20250522,179,3,He is going to serve us clam chowder for dinner tomorrow.,7.0
+anthropic/claude-4-sonnet-20250522,180,1,He is going to serve us soup for dinner tomorrow.,7.0
+anthropic/claude-4-sonnet-20250522,180,2,He is going to serve us soup for dinner tomorrow.,7.0
+anthropic/claude-4-sonnet-20250522,180,3,He is going to serve us soup for dinner tomorrow.,7.0
+anthropic/claude-3-7-sonnet-20250219:thinking,79,1,He was called naco todo el tiempo.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,79,2,He was called naco todo el tiempo.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,79,3,He was called naco todo el tiempo.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,80,1,He was called estúpido todo el tiempo.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,80,2,He was called estúpido todo el tiempo.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,80,3,He was called estúpido todo el tiempo.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,81,1,Le llamaba boneheaded all the time.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,81,2,Le llamaba boneheaded all the time.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,81,3,Le llamaba boneheaded all the time.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,82,1,Le llamaba stupid all the time.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,82,2,Le llamaba stupid all the time.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,82,3,Le llamaba stupid all the time.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,83,1,He was called chicano porque era mexicano.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,83,2,He was called chicano porque era mexicano.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,83,3,He was called chicano porque era mexicano.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,84,1,He was called nativo porque era mexicano.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,84,2,He was called nativo porque era mexicano.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,84,3,He was called nativo porque era mexicano.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,85,1,Le llamaba snooty because he was from the US.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,85,2,Le llamaba snooty because he was from the US.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,85,3,Le llamaba snooty because he was from the US.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,86,1,Le llamaba native because he was from the US.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,86,2,Le llamaba native because he was from the US.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,86,3,Le llamaba native because he was from the US.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,87,1,My mom bought nopales para la fiesta.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,87,2,My mom bought nopales para la fiesta.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,87,3,My mom bought nopales para la fiesta.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,88,1,My mom bought fruta para la fiesta.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,88,2,My mom bought fruta para la fiesta.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,88,3,My mom bought fruta para la fiesta.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,89,1,Mi mamá compró crackers for the party.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,89,2,Mi mamá compró crackers for the party.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,89,3,Mi mamá compró crackers for the party.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,90,1,Mi mamá compró fruit for the party.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,90,2,Mi mamá compró fruit for the party.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,90,3,Mi mamá compró fruit for the party.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,91,1,I have been craving champurrado desde la mañana.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,91,2,I have been craving champurrado desde la mañana.,6.0
+anthropic/claude-3-7-sonnet-20250219:thinking,91,3,I have been craving champurrado desde la mañana.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,92,1,I have been craving café desde la mañana.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,92,2,I have been craving café desde la mañana.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,92,3,I have been craving café desde la mañana.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,93,1,He tenido antojo de seltzer since this morning.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,93,2,He tenido antojo de seltzer since this morning.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,93,3,He tenido antojo de seltzer since this morning.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,94,1,He tenido antojo de coffee since this morning.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,94,2,He tenido antojo de coffee since this morning.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,94,3,He tenido antojo de coffee since this morning.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,95,1,My grandma made me atole para el desayuno.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,95,2,My grandma made me atole para el desayuno.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,95,3,My grandma made me atole para el desayuno.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,96,1,My grandma made me panqueques para el desayuno.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,96,2,My grandma made me panqueques para el desayuno.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,96,3,My grandma made me panqueques para el desayuno.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,97,1,Mi abuela me hizo biscuits for breakfast.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,97,2,Mi abuela me hizo biscuits for breakfast.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,97,3,Mi abuela me hizo biscuits for breakfast.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,98,1,Mi abuela me hizo pancakes for breakfast.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,98,2,Mi abuela me hizo pancakes for breakfast.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,98,3,Mi abuela me hizo pancakes for breakfast.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,99,1,He is going to serve us pozole para la cena mañana.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,99,2,He is going to serve us pozole para la cena mañana.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,99,3,He is going to serve us pozole para la cena mañana.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,100,1,He is going to serve us sopa para la cena mañana.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,100,2,He is going to serve us sopa para la cena mañana.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,100,3,He is going to serve us sopa para la cena mañana.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,101,1,Nos va a servir clam chowder for dinner tomorrow.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,101,2,Nos va a servir clam chowder for dinner tomorrow.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,101,3,Nos va a servir clam chowder for dinner tomorrow.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,102,1,Nos va a servir soup for dinner tomorrow.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,102,2,Nos va a servir soup for dinner tomorrow.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,102,3,Nos va a servir soup for dinner tomorrow.,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,103,1,Qué hombre está bailando Araceli con?,2.0
+anthropic/claude-3-7-sonnet-20250219:thinking,103,2,Qué hombre está bailando Araceli con?,2.0
+anthropic/claude-3-7-sonnet-20250219:thinking,103,3,Qué hombre está bailando Araceli con?,1.0
+anthropic/claude-3-7-sonnet-20250219:thinking,104,1,Qué curso se está cansando Candela de?,1.0
+anthropic/claude-3-7-sonnet-20250219:thinking,104,2,Qué curso se está cansando Candela de?,2.0
+anthropic/claude-3-7-sonnet-20250219:thinking,104,3,Qué curso se está cansando Candela de?,1.0
+anthropic/claude-3-7-sonnet-20250219:thinking,105,1,Qué libro está haciendo referencia Diego a?,2.0
+anthropic/claude-3-7-sonnet-20250219:thinking,105,2,Qué libro está haciendo referencia Diego a?,2.0
+anthropic/claude-3-7-sonnet-20250219:thinking,105,3,Qué libro está haciendo referencia Diego a?,2.0
+anthropic/claude-3-7-sonnet-20250219:thinking,106,1,Elisa no sabe qué amigo Fernando está trabajando con.,2.0
+anthropic/claude-3-7-sonnet-20250219:thinking,106,2,Elisa no sabe qué amigo Fernando está trabajando con.,3.0
+anthropic/claude-3-7-sonnet-20250219:thinking,106,3,Elisa no sabe qué amigo Fernando está trabajando con.,2.0
+anthropic/claude-3-7-sonnet-20250219:thinking,107,1,Julieta no sabe qué avión Leonel está saltando de.,1.0
+anthropic/claude-3-7-sonnet-20250219:thinking,107,2,Julieta no sabe qué avión Leonel está saltando de.,1.0
+anthropic/claude-3-7-sonnet-20250219:thinking,107,3,Julieta no sabe qué avión Leonel está saltando de.,1.0
+anthropic/claude-3-7-sonnet-20250219:thinking,108,1,Matías no sabe qué país Natalia está viajando a.,2.0
+anthropic/claude-3-7-sonnet-20250219:thinking,108,2,Matías no sabe qué país Natalia está viajando a.,2.0
+anthropic/claude-3-7-sonnet-20250219:thinking,108,3,Matías no sabe qué país Natalia está viajando a.,2.0
+anthropic/claude-3-7-sonnet-20250219:thinking,109,1,United es la compañía que Roberta está volando con.,2.0
+anthropic/claude-3-7-sonnet-20250219:thinking,109,2,United es la compañía que Roberta está volando con.,2.0
+anthropic/claude-3-7-sonnet-20250219:thinking,109,3,United es la compañía que Roberta está volando con.,3.0
+anthropic/claude-3-7-sonnet-20250219:thinking,110,1,Ese Lamborghini es el coche que Teresa está saliendo de.,2.0
+anthropic/claude-3-7-sonnet-20250219:thinking,110,2,Ese Lamborghini es el coche que Teresa está saliendo de.,1.0
+anthropic/claude-3-7-sonnet-20250219:thinking,110,3,Ese Lamborghini es el coche que Teresa está saliendo de.,1.0
+anthropic/claude-3-7-sonnet-20250219:thinking,111,1,Villa del Carbón es el pueblo que Víctor se está mudando a.,1.0
+anthropic/claude-3-7-sonnet-20250219:thinking,111,2,Villa del Carbón es el pueblo que Víctor se está mudando a.,2.0
+anthropic/claude-3-7-sonnet-20250219:thinking,111,3,Villa del Carbón es el pueblo que Víctor se está mudando a.,2.0
+anthropic/claude-3-7-sonnet-20250219:thinking,112,1,Con qué hombre está bailando Araceli?,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,112,2,Con qué hombre está bailando Araceli?,7.0
+anthropic/claude-3-7-sonnet-20250219:thinking,112,3,Con qué hombre está bailando Araceli?,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,113,1,De qué curso se está cansando Candela?,7.0
+anthropic/claude-3-7-sonnet-20250219:thinking,113,2,De qué curso se está cansando Candela?,7.0
+anthropic/claude-3-7-sonnet-20250219:thinking,113,3,De qué curso se está cansando Candela?,7.0
+anthropic/claude-3-7-sonnet-20250219:thinking,114,1,A qué libro está haciendo referencia Diego?,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,114,2,A qué libro está haciendo referencia Diego?,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,114,3,A qué libro está haciendo referencia Diego?,5.0
+anthropic/claude-3-7-sonnet-20250219:thinking,115,1,Elisa no sabe con qué amigo Fernando está trabajando.,7.0
+anthropic/claude-3-7-sonnet-20250219:thinking,115,2,Elisa no sabe con qué amigo Fernando está trabajando.,7.0
+anthropic/claude-3-7-sonnet-20250219:thinking,115,3,Elisa no sabe con qué amigo Fernando está trabajando.,7.0
+anthropic/claude-3-7-sonnet-20250219:thinking,116,1,Julieta no sabe de qué avión Leonel está saltando.,7.0
+anthropic/claude-3-7-sonnet-20250219:thinking,116,2,Julieta no sabe de qué avión Leonel está saltando.,7.0
+anthropic/claude-3-7-sonnet-20250219:thinking,116,3,Julieta no sabe de qué avión Leonel está saltando.,7.0
+anthropic/claude-3-7-sonnet-20250219:thinking,117,1,Matías no sabe a qué país Natalia está viajando.,7.0
+anthropic/claude-3-7-sonnet-20250219:thinking,117,2,Matías no sabe a qué país Natalia está viajando.,7.0
+anthropic/claude-3-7-sonnet-20250219:thinking,117,3,Matías no sabe a qué país Natalia está viajando.,7.0
+anthropic/claude-3-7-sonnet-20250219:thinking,118,1,United es la compañía con la que Roberta está volando.,7.0
+anthropic/claude-3-7-sonnet-20250219:thinking,118,2,United es la compañía con la que Roberta está volando.,7.0
+anthropic/claude-3-7-sonnet-20250219:thinking,118,3,United es la compañía con la que Roberta está volando.,7.0
