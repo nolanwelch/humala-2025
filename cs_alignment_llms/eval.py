@@ -62,7 +62,6 @@ def main():
 
     all_models = [
         # OpenAI
-        "openai/o3-pro",
         "openai/gpt-4.1-2025-04-14",
         "openai/gpt-3.5-turbo-0125",
         # Google
