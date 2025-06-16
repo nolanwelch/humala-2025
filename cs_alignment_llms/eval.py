@@ -8,6 +8,7 @@ from pydantic import BaseModel
 from tqdm.auto import tqdm
 
 
+MAX_ATTEMPTS = 5
 RESULTS_FILE = "results.csv"
 
 
@@ -38,9 +39,9 @@ def get_acceptability_score(client: OpenAI, model: str, utterance: str) -> Liker
                     "role": "user",
                     "content": "How acceptable is this sentence?"
                     + "Rate the acceptability of this sentence on a 7-point Likert scale, "
-                    + "where 1 is completely unacceptable and 7 is completely acceptable.",
-                },
-                {"role": "user", "content": utterance},
+                    + "where 1 is completely unacceptable and 7 is completely acceptable.\n"
+                    + f'"{utterance}"',
+                }
             ],
             response_format=ModelResponse,
         )
@@ -93,16 +94,30 @@ def main():
         else pd.DataFrame(columns=["model", "stimulus_number"])
     )
 
-    for model in tqdm(all_models):
-        for _, row in tqdm(stimuli_data.iterrows(), total=len(stimuli_data.index)):
+    for model in (model_bar := tqdm(all_models)):
+        model_bar.set_description(f"Model {model}")
+        for _, row in (
+            stim_bar := tqdm(stimuli_data.iterrows(), total=len(stimuli_data.index))
+        ):
             utterance = str(row["text"])
             stim_num = int(row["stimulus_number"])
+            stim_bar.set_description(f"Stimulus #{(stim_num)}")
             if not data[
                 (data["model"] == model) & (data["stimulus_number"] == stim_num)
             ].empty:
                 continue  # skip model/utterance combinations we have already processed
 
-            score = get_acceptability_score(client, model, utterance)
+            n_tries = 0
+            while True:
+                try:
+                    n_tries += 1
+                    score = get_acceptability_score(client, model, utterance)
+                    break
+                except Exception as err:
+                    if n_tries > MAX_ATTEMPTS:
+                        raise RuntimeError("Max tries reached") from err
+                    print(f"Got error {err}.\nTrying again (n={n_tries})")
+
             # Save to file after every utterance
             new_data = pd.DataFrame(
                 {
