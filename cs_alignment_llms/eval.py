@@ -9,6 +9,7 @@ from tqdm.auto import tqdm
 
 
 MAX_ATTEMPTS = 5
+NUM_TRIALS = 3
 RESULTS_FILE = "results.csv"
 
 
@@ -95,7 +96,7 @@ def main():
     data = (
         pd.read_csv(RESULTS_FILE)
         if os.path.exists(RESULTS_FILE) and os.path.getsize(RESULTS_FILE)
-        else pd.DataFrame(columns=["model", "stimulus_number"])
+        else pd.DataFrame(columns=["model", "stimulus_number", "trial"])
     )
 
     for model in (model_bar := tqdm(all_models)):
@@ -108,33 +109,37 @@ def main():
             utterance = str(row["text"])
             stim_num = int(row["stimulus_number"])
             stim_bar.set_description(f"Stimulus #{(stim_num)}")
-            if not data[
-                (data["model"] == model) & (data["stimulus_number"] == stim_num)
-            ].empty:
-                continue  # skip model/utterance combinations we have already processed
+            for trial_num in range(1, NUM_TRIALS + 1):
+                if not data[
+                    (data["model"] == model)
+                    & (data["stimulus_number"] == stim_num)
+                    & (data["trial"] == trial_num)
+                ].empty:
+                    continue  # skip model/utterance combinations we have already processed
 
-            n_tries = 0
-            while True:
-                try:
-                    n_tries += 1
-                    score = get_acceptability_score(client, model, utterance)
-                    break
-                except Exception as err:
-                    if n_tries > MAX_ATTEMPTS:
-                        raise RuntimeError("Max tries reached") from err
-                    print(f"Got error {err}.\nTrying again (n={n_tries})")
+                n_tries = 0
+                while True:
+                    try:
+                        n_tries += 1
+                        score = get_acceptability_score(client, model, utterance)
+                        break
+                    except Exception as err:
+                        if n_tries > MAX_ATTEMPTS:
+                            raise RuntimeError("Max tries reached") from err
+                        print(f"Got error {err}.\nTrying again (n={n_tries})")
 
-            # Save to file after every utterance
-            new_data = pd.DataFrame(
-                {
-                    "model": [model],
-                    "utterance": [utterance],
-                    "stimulus_number": [stim_num],
-                    "acceptability_rating": [score],
-                }
-            )
-            data = pd.concat([data, new_data])
-            data.to_csv("results.csv", index=False)
+                # Save to file after every trial
+                new_data = pd.DataFrame(
+                    {
+                        "model": [model],
+                        "utterance": [utterance],
+                        "stimulus_number": [stim_num],
+                        "acceptability_rating": [score],
+                        "trial": trial_num,
+                    }
+                )
+                data = pd.concat([data, new_data])
+                data.to_csv("results.csv", index=False)
 
 
 if __name__ == "__main__":
