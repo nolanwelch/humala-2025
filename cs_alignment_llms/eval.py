@@ -79,7 +79,7 @@ def main():
 
     data = pd.DataFrame(data)
     data = pd.concat([prev_data, data])
-    data.to_csv("results.csv")
+    data.to_csv("results.csv", index=False)
 
 
 if __name__ == "__main__":
