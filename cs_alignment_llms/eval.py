@@ -1,12 +1,12 @@
 import os
+import re
 from enum import Enum
 
 import pandas as pd
 from dotenv import load_dotenv
 from openai import OpenAI
-from pydantic import BaseModel
+from pydantic import BaseModel, ValidationError
 from tqdm.auto import tqdm
-
 
 MAX_ATTEMPTS = 5
 NUM_TRIALS = 3
@@ -32,7 +32,7 @@ class ModelResponse(BaseModel):
 
 
 def get_acceptability_score(client: OpenAI, model: str, utterance: str) -> LikertRating:
-    resp = (
+    msg = (
         client.beta.chat.completions.parse(
             model=model,
             messages=[
@@ -51,8 +51,16 @@ def get_acceptability_score(client: OpenAI, model: str, utterance: str) -> Liker
             response_format=ModelResponse,
         )
         .choices[0]
-        .message.parsed
+        .message
     )
+    try:
+        resp = msg.parsed
+    except ValidationError:
+        # Attempt to extract via regex
+        rating_match = re.search(r'"rating"\s*:\s*([1-7])', msg.content)
+        rating = int(rating_match.group(1)) if rating_match else None
+        resp = ModelResponse(rating=LikertRating(rating)) if rating else None
+
     if resp is None:
         raise ValueError("Got None as response from OpenRouter")
     return resp.rating
