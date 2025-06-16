@@ -93,7 +93,7 @@ def main():
 
     data = []
     for model in tqdm(all_models):
-        for _, row in tqdm(stimuli_data.iterrows()):
+        for _, row in tqdm(stimuli_data.iterrows(), total=len(stimuli_data.index)):
             utterance = str(row["text"])
             stim_num = int(row["stimulus_number"])
             if not prev_data[
