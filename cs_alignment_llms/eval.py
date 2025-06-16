@@ -37,10 +37,14 @@ def get_acceptability_score(client: OpenAI, model: str, utterance: str) -> Liker
             messages=[
                 {
                     "role": "user",
-                    "content": "How acceptable is this sentence?"
-                    + "Rate the acceptability of this sentence on a 7-point Likert scale, "
-                    + "where 1 is completely unacceptable and 7 is completely acceptable.\n"
-                    + f'"{utterance}"',
+                    "content": "Rate the acceptability of the following sentence on a 7-point Likert scale, "
+                    'where 1 means "completely unacceptable" and 7 means "completely acceptable".\n\n'
+                    "Respond ONLY in this JSON format:\n"
+                    "{\n"
+                    '  "rating": 5\n'
+                    "}\n\n"
+                    "The sentence is:\n"
+                    f'"{utterance}"',
                 }
             ],
             response_format=ModelResponse,
