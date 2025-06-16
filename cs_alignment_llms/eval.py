@@ -83,7 +83,8 @@ def main():
         # Qwen
         "qwen/qwen-2.5-72b-instruct",
     ]
-    all_utterances = pd.read_csv("stimuli.csv")
+    stimuli_data = pd.read_csv("stimuli.csv")
+    stimuli_data = stimuli_data[stimuli_data["stimulus_number"] >= 79]
 
     prev_data = (
         pd.read_csv(RESULTS_FILE)
@@ -93,7 +94,7 @@ def main():
 
     data = []
     for model in tqdm(all_models):
-        for _, row in tqdm(all_utterances.iterrows()):
+        for _, row in tqdm(stimuli_data.iterrows()):
             utterance = str(row["text"])
             stim_num = int(row["stimulus_number"])
             if not prev_data[
