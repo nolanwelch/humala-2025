@@ -97,7 +97,9 @@ def main():
     for model in (model_bar := tqdm(all_models)):
         model_bar.set_description(f"Model {model}")
         for _, row in (
-            stim_bar := tqdm(stimuli_data.iterrows(), total=len(stimuli_data.index))
+            stim_bar := tqdm(
+                stimuli_data.iterrows(), total=len(stimuli_data.index), leave=False
+            )
         ):
             utterance = str(row["text"])
             stim_num = int(row["stimulus_number"])
