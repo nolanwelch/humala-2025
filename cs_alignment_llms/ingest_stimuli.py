@@ -6,7 +6,6 @@ import pandas as pd
 def main():
     with open("materials.txt", "r") as f:
         materials_doc = f.read()
-    # print(materials_doc)
 
     pat = re.compile(r"Q\d+\.\d+\s+(.+?)(?=\s+•|\s+End)", re.DOTALL)
     matches = pat.findall(materials_doc)
