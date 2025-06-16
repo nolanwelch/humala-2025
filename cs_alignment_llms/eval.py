@@ -87,36 +87,33 @@ def main():
     stimuli_data = pd.read_csv("stimuli.csv")
     stimuli_data = stimuli_data[stimuli_data["stimulus_number"] >= 79]
 
-    prev_data = (
+    data = (
         pd.read_csv(RESULTS_FILE)
-        if os.path.exists(RESULTS_FILE)
+        if os.path.exists(RESULTS_FILE) and os.path.getsize(RESULTS_FILE)
         else pd.DataFrame(columns=["model", "stimulus_number"])
     )
 
-    data = []
     for model in tqdm(all_models):
         for _, row in tqdm(stimuli_data.iterrows(), total=len(stimuli_data.index)):
             utterance = str(row["text"])
             stim_num = int(row["stimulus_number"])
-            if not prev_data[
-                (prev_data["model"] == model)
-                & (prev_data["stimulus_number"] == stim_num)
+            if not data[
+                (data["model"] == model) & (data["stimulus_number"] == stim_num)
             ].empty:
                 continue  # skip model/utterance combinations we have already processed
 
             score = get_acceptability_score(client, model, utterance)
-            data.append(
+            # Save to file after every utterance
+            new_data = pd.DataFrame(
                 {
-                    "model": model,
-                    "utterance": utterance,
-                    "stimulus_number": stim_num,
-                    "acceptability_rating": score,
+                    "model": [model],
+                    "utterance": [utterance],
+                    "stimulus_number": [stim_num],
+                    "acceptability_rating": [score],
                 }
             )
-
-    data = pd.DataFrame(data)
-    data = pd.concat([prev_data, data])
-    data.to_csv("results.csv", index=False)
+            data = pd.concat([data, new_data])
+            data.to_csv("results.csv", index=False)
 
 
 if __name__ == "__main__":
