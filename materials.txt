@@ -1,0 +1,2776 @@
+﻿RD & BK Code-switching Session 1
+
+
+Start of Block: Consent Form
+
+Q1.1 INFORMED CONSENT
+ 
+ Please read this informed consent carefully before you decide to participate in the study.
+   You are being asked to participate in a research study carried out by Dr. Rodrigo Delgado at the University of Illinois at Urbana-Champaign. Your participation in this study is voluntary. If you decide to participate, you are free to withdraw at any moment.    The purpose of the study is to better understand the linguistic phenomena associated with being bilingual. Specifically, I am interested in looking at the patterns of language mixing.    There are no anticipated risks in this study.     Benefits related to this research include: There are no direct benefits to you for participating in this research study.  The study may help our understanding of bilingual language users, which is actually more prominent throughout the globe than monolingual language users.    Principal Investigator Name and Title: Dr. Rodrigo Delgado   Department and Institution: Department of Spanish and Portuguese, UIUC   Contact Information: rdelga21@illinois.edu      What procedures are involved?    The survey is completed entirely via Qualtrics online. It asks participants to read sentences in English, Spanish, or a mixture of the two and provide a rating of acceptability. It also includes a few languages background questions, as well as a two multiple-choice language tasks. Participants can skip any question that makes them uncomfortable, and they can stop the survey at any time.    his portion of the study will require about 30-60 minutes hours of your time. The subsequent stage of the study will take 30-60 minutes.       Will my study-related information be kept confidential?   The information that you give in the study will be handled confidentially. We will use all reasonable efforts to keep your personal information confidential, but we cannot guarantee absolute confidentiality.  Your information will be assigned a code number.  The list connecting your name to this code will be kept in a locked file.  When the study is completed, and the data have been analyzed, this list will be destroyed.  Your name will not be used in any report.    Faculty, staff, students, and others with permission or authority to see your study information will maintain its confidentiality to the extent permitted and required by laws and university policies. The names or personal identifiers of participants will not be published or presented.      Will I be reimbursed for any expenses or paid for my participation in this research?   You will receive $15 via an Amazon.com eGift Card.       Can I withdraw or be removed from the study?    Your participation in the study is completely voluntary. You have the right to withdraw from the study at any time without penalty.    The researchers also have the right to stop your participation in this study without your consent if they believe it is in your best interests.      Will data collected from me be used for any other research?   Your de-identified information could be used for future research without additional informed consent.      Who should I contact if I have questions?   Contact the researcher Dr. Delgado at or rdelga21@illinois.edu if you have any questions about this study or your part in it, or if you have concerns or complaints about the research.      What are my rights as a research subject?   If you have any questions about your rights as a research subject, including concerns, complaints, or to offer input, you may call the Office for the Protection of Research Subjects (OPRS) at 217-333-2670 or e-mail OPRS at irb@illinois.edu. If you would like to complete a brief survey to provide OPRS feedback about your experiences as a research participant, please follow the link here or through a link on the OPRS website: https://oprs.research.illinois.edu/. You will have the option to provide feedback or concerns anonymously or you may provide your name and contact information for follow-up purposes.  
+    Please print this consent form if you would like to retain a copy for your records. 
+    I have read and understand the above consent form. I certify that I am 18 years old or older and physically present in the United States. By clicking the “Submit” button to enter the survey, I indicate my willingness to voluntarily take part in this study.   
+ 
+    • SUBMIT  (1) 
+
+
+
+Q1.3 Please enter the four-digit participant code provided by the investigator.
+________________________________________________________________
+
+End of Block: Consent Form
+
+Start of Block: Training
+
+
+Q2.1 In this study we are interested in finding out cómo funciona el code-switching de inglés a español y vice-versa. Partimos de la idea de que el code-switching is a form of linguistic expression like any other and, therefore, it is subject to rules and restrictions like any other. Las reglas y restricciones que nos interesan no tienen nada que ver con lo que hayas aprendido en la escuela, but rather with the linguistic structures that you have in your mind as a bilingual speaker. Let us give you an example in English: 
+(1) There is likely that John likes Mary. 
+We will ask you to rate sentences from 'completely unacceptable' to 'completely acceptable'. The sentence you just saw would be 'completely unacceptable' because native speakers of English find this sentence very strange. It is perfectly understandable but there is something about its structure that sounds un-English. 
+	Completely unacceptable (1)	Mostly unacceptable (2)	Somewhat unacceptable (3)	Unsure (4)	Somewhat acceptable (5)	Mostly acceptable (6)	Completely acceptable (7)
+How acceptable is this sentence? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q2.2 
+En cambio, the following sentence sounds completely fine:
+(2) There is someone in the garden.
+	Completely unacceptable (1)	Mostly unacceptable (2)	Somewhat unacceptable (3)	Unsure (4)	Somewhat acceptable (5)	Mostly acceptable (6)	Completely acceptable (7)
+How acceptable is this sentence? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q2.3 Ahora veamos un ejemplo en español: 
+(3) Esa película le ha gustado a nadie. 
+De nuevo, esta oración no es aceptable. Aunque la entendemos perfectamente, hay algo que suena raro en esta oración, no es una oración en español.
+	Completamente inaceptable (1)	Mayormente inaceptable (2)	Un poco inaceptable (3)	No sé (4)	Un poco aceptable (5)	Mayormente aceptable (6)	Completamente aceptable (7)
+¿Qué le parece esta oración? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q2.4 Al contrario, esta oración es normalísima. 
+(4) Juan compró el periódico. 
+	Completamente inaceptable (1)	Mayormente inaceptable (2)	Un poco inaceptable (3)	No sé (4)	Un poco aceptable (5)	Mayormente aceptable (6)	Completamente aceptable (7)
+¿Qué le parece esta oración? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q2.5 Y ahora comparemos two examples in code-switching:
+(5) John le bought una casa.
+Muchos hablantes bilingües de español/inglés who practice code-switching regularly or occasionally agree that sentence (5) sounds strange.
+	Completely unacceptable (1)	Mostly unacceptable (2)	Somewhat unacceptable (3)	Unsure (4)	Somewhat acceptable (5)	Mostly acceptable (6)	Completely acceptable (7)
+¿Qué le parece esta oración? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q2.6 Sentence (6), on the other hand, sounds completely fine para los hablantes bilingües.
+(6) Mis primos nadaron in the pool for three hours. 
+	Completely unacceptable (1)	Mostly unacceptable (2)	Somewhat unacceptable (3)	Unsure (4)	Somewhat acceptable (5)	Mostly acceptable (6)	Completely acceptable (7)
+¿Qué le parece esta oración? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+Q2.7 In the survey, you might find that some sentences are neither perfect nor totally awful. Although we expect that you will evaluate most of the sentences you will read as 'completely unacceptable' or 'completely acceptable', te damos varias opciones por si hay dudas. We also provide you with an 'unsure' option, in case you really, really are not sure.
+
+
+
+
+Q2.8 Lee la siguiente oración.
+(7) I know my neighbor chewed gum yesterday.
+This sentence may sound odd because it doesn't seem like something anyone would ever say or care about. The question is whether this is una oración posible en inglés. Si es el caso, es completamente aceptable. 
+	Completely unacceptable (1)	Mostly unacceptable (2)	Somewhat unacceptable (3)	Unsure (4)	Somewhat acceptable (5)	Mostly acceptable (6)	Completely acceptable (7)
+How acceptable is this sentence? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q2.9 Now, take a moment to rate the following sentence: 
+(8) He surprise that no one called yesterday.
+
+This sentence is comprehensible and the situation seems plausible (una posible situación: ayer él esperaba una llamada, pero al final no lo llamaron), but the sentence is not possible to say in English. It's just not English, for whatever reason, and therefore it is completely unacceptable. 
+	Completely unacceptable (1)	Mostly unacceptable (2)	Somewhat unacceptable (3)	Unsure (4)	Somewhat acceptable (5)	Mostly acceptable (6)	Completely acceptable (7)
+How acceptable is this sentence? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q2.10 Para juzgar cada oración, the question, then, is whether the sentence is possible in English, Spanish or code-switching, even if you don't know why anyone would actually say the sentence. 
+
+And let's take a look at one final pair of sentences. First: 
+(9) Compró Juan un nuevo libro for the party this week?
+En cuanto al significado, this sentence is a little odd. You don't usually buy a book for a party. Pero como no hay nada raro en la forma de la oración, it would be completely acceptable.
+	Completely unacceptable (1)	Mostly unacceptable (2)	Somewhat unacceptable (3)	Unsure (4)	Somewhat acceptable (5)	Mostly acceptable (6)	Completely acceptable (7)
+¿Qué le parece esta oración? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q2.11 Second:
+(10) I want ir al mercado. 
+Esta oración, on the other hand, se puede entender pero no se puede decir. Because of that, it would be completely unacceptable. 
+	Completely unacceptable (1)	Mostly unacceptable (2)	Somewhat unacceptable (3)	Unsure (4)	Somewhat acceptable (5)	Mostly acceptable (6)	Completely acceptable (7)
+¿Qué le parece esta oración? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+Q2.12 Let's have you practice with a few more. Por favor, rate the following sentences.
+
+
+
+
+Q2.13 The child seems sleeping.
+	Completely unacceptable (1)	Mostly unacceptable (2)	Somewhat unacceptable (3)	Unsure (4)	Somewhat acceptable (5)	Mostly acceptable (6)	Completely acceptable (7)
+How acceptable is this sentence? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q2.14 What do you think that John forgot at the office? 
+	Completely unacceptable (1)	Mostly unacceptable (2)	Somewhat unacceptable (3)	Unsure (4)	Somewhat acceptable (5)	Mostly acceptable (6)	Completely acceptable (7)
+How acceptable is this sentence? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q2.15 It is believed to be obvious by everybody that Fred is crazy.
+	Completely unacceptable (1)	Mostly unacceptable (2)	Somewhat unacceptable (3)	Unsure (4)	Somewhat acceptable (5)	Mostly acceptable (6)	Completely acceptable (7)
+How acceptable is this sentence? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q2.16 What do you worry if Lucy forgets at home?
+	Completely unacceptable (1)	Mostly unacceptable (2)	Somewhat unacceptable (3)	Unsure (4)	Somewhat acceptable (5)	Mostly acceptable (6)	Completely acceptable (7)
+How acceptable is this sentence? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q2.17 Dijo que, los niños, los iban a traer mañana. 
+	Completamente inaceptable (1)	Mayormente inaceptable (2)	Un poco inaceptable (3)	No sé (4)	Un poco aceptable (5)	Mayormente aceptable (6)	Completamente aceptable (7)
+¿Qué le parece esta oración? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q2.18 Eres una mujer proud.
+	Completely unacceptable (1)	Mostly unacceptable (2)	Somewhat unacceptable (3)	Unsure (4)	Somewhat acceptable (5)	Mostly acceptable (6)	Completely acceptable (7)
+¿Qué le parece esta oración? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q2.19 Nunca nosotros hemos visto esa película.
+	Completamente inaceptable (1)	Mayormente inaceptable (2)	Un poco inaceptable (3)	No sé (4)	Un poco aceptable (5)	Mayormente aceptable (6)	Completamente aceptable (7)
+¿Qué le parece esta oración? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q2.20 She gave me el libro de ejercicios.  
+	Completely unacceptable (1)	Mostly unacceptable (2)	Somewhat unacceptable (3)	Unsure (4)	Somewhat acceptable (5)	Mostly acceptable (6)	Completely acceptable (7)
+¿Qué le parece esta oración? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q2.21 They used to serve bebidas alcohólicas en ese restaurante.
+	Completely unacceptable (1)	Mostly unacceptable (2)	Somewhat unacceptable (3)	Unsure (4)	Somewhat acceptable (5)	Mostly acceptable (6)	Completely acceptable (7)
+¿Qué le parece esta oración? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q2.22 Tom owns a Ferrari y Pedro también.
+	Completely unacceptable (1)	Mostly unacceptable (2)	Somewhat unacceptable (3)	Unsure (4)	Somewhat acceptable (5)	Mostly acceptable (6)	Completely acceptable (7)
+¿Qué le parece esta oración? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q2.23 Jake has been durmiendo demasiado hoy.
+	Completely unacceptable (1)	Mostly unacceptable (2)	Somewhat unacceptable (3)	Unsure (4)	Somewhat acceptable (5)	Mostly acceptable (6)	Completely acceptable (7)
+¿Qué le parece esta oración? (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+Q2.24 All done with the training. Now let's get started! Todas las siguientes oraciones son ejemplos de code-switching, having both English and Spanish mixed together.
+
+End of Block: Training
+
+Start of Block: CS Modality Stimuli - Written
+	
+
+Q3.1 Su hermano has trained at the gym every day.
+	Completely unacceptable (1)	Mostly unacceptable (2)	Somewhat unacceptable (3)	Unsure (4)	Somewhat acceptable (5)	Mostly acceptable (6)	Completely acceptable (7)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.2 Los estudiantes have paid attention to the professor today.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.3 Hace un minuto yo pedí a beer at the bar.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.4 El otro día tú compraste some apples at the market.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.5 La biblioteca no abre on Sunday mornings.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.6 Los estudiantes de física no van to the lab on the weekend.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.7 Su hermano ha trained at the gym every day.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.8 Los estudiantes han paid attention to the professor today.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.9 Hace un minuto yo ordered a beer at the bar.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.10 El otro día tú bought some apples at the market.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.11 La biblioteca no open on Sunday mornings.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.12 Los estudiantes de física no go to the lab on the weekend.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.13 His brother ha entrenado en el gimnasio todos los días.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.14 The students han prestado atención a la profesora hoy.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.15 A minute ago I ordered una cerveza en el bar.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.16 The other day you bought unas manzanas en el mercado.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.17 The library doesn't open los domingos por la mañana.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.18 The physics students don't go al laboratorio los fines de semana.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.19 His brother has entrenado en el gimnasio todos los días.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.20 The students have prestado atención a la profesora hoy.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.21 A minute ago I pedí una cerveza en el bar.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.22 The other day you compraste unas manzanas en el mercado.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.23 The library doesn't abre los domingos por la mañana.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q3.24 The physics students don't van al laboratorio los fines de semana.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+End of Block: CS Modality Stimuli - Written
+
+Start of Block: Background Questionnaire - Part 1
+
+Q4.1 Great! Now let's get some basic background and demographic information.
+
+
+
+Q4.2 Please enter your age.
+________________________________________________________________
+
+
+
+Q4.3 Please provide your gender identity, or leave this question blank if you would prefer not to disclose that information.
+________________________________________________________________
+
+
+
+Q4.4 Please select your highest education level (or the approximate US equivalent to a degree obtained in another country).
+    • Less than high school  (1) 
+    • High school  (2) 
+    • Professional training  (3) 
+    • Some college  (4) 
+    • College  (5) 
+    • Some graduate school  (6) 
+    • Masters  (7) 
+    • PhD/MD/JD  (8) 
+    • Other:  (9) __________________________________________________
+
+
+Page Break	
+
+
+Q4.5 In this section, you will answer some factual questions about your language history by entering the nearest whole number (i.e., 2½ = 3).
+
+
+
+Q4.6 At what age did you start learning the following languages? (since birth = 0)
+    • ENGLISH  (4) __________________________________________________
+    • SPANISH  (5) __________________________________________________
+
+
+
+Q4.7 At what age did you start to feel comfortable using the following languages? (since birth = 0)
+    • ENGLISH  (4) __________________________________________________
+    • SPANISH  (5) __________________________________________________
+
+
+
+Q4.8 How many years of classes (grammar, history, math, etc.) have you had in the following languages (primary school through university)?
+    • ENGLISH  (4) __________________________________________________
+    • SPANISH  (5) __________________________________________________
+
+
+
+Q4.9 How many years have you spent in a country/region where the following languages are spoken?
+    • ENGLISH  (4) __________________________________________________
+    • SPANISH  (5) __________________________________________________
+
+
+
+Q4.10 How many years have you spent in a family where the following languages are spoken?
+    • ENGLISH  (4) __________________________________________________
+    • SPANISH  (5) __________________________________________________
+
+
+
+Q4.11 How many years have you spent in a work environment where the following languages are spoken?
+    • ENGLISH  (4) __________________________________________________
+    • SPANISH  (5) __________________________________________________
+
+
+Page Break	
+
+
+Q4.12 In this section, you will answer some questions about your language use by moving the sliding bars. Total use for all languages in a given question should equal 100%.
+
+
+
+
+Q4.13 In an average week, what percentage of the time do you use the following languages with friends? (total needs to add up to 100)
+ _______ ENGLISH (1)
+ _______ SPANISH (2)
+ _______ Other: (3)
+
+
+
+
+Q4.14 In an average week, what percentage of the time do you use the following languages with family? (total needs to add up to 100)
+ _______ ENGLISH (1)
+ _______ SPANISH (2)
+ _______ Other: (3)
+
+
+
+
+Q4.15 In an average week, what percentage of the time do you use the following languages at school/work? (total needs to add up to 100)
+ _______ ENGLISH (1)
+ _______ SPANISH (2)
+ _______ Other: (3)
+
+
+
+
+Q4.16 When you talk to yourself, how often do you talk to yourself in the following languages? (total needs to add up to 100)
+ _______ ENGLISH (1)
+ _______ SPANISH (2)
+ _______ Other: (3)
+
+
+
+
+Q4.17 When you count, how often do you count in the following languages? (total needs to add up to 100)
+ _______ ENGLISH (1)
+ _______ SPANISH (2)
+ _______ Other: (3)
+
+End of Block: Background Questionnaire - Part 1
+
+Start of Block: CS Main Stimuli
+
+
+Q5.1 What guy está bailando Araceli con?
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.2 What class se está cansando Candela de?
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.3 What book está haciendo referencia Diego a?
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.4 Emily doesn't know what friend Fernando está trabajando con.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.5 Jessica doesn't know what plane Leonel está saltando de.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.6 Mason doesn't know what country Natalia está viajando a.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.7 United is the company Roberta está volando con.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.8 That Lamborghini is the car Teresa está saliendo de.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.9 Warrenville is the town Víctor se está mudando a.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.10 With what guy está bailando Araceli?
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.11 Of what class se está cansando Candela?
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.12 To what book está haciendo referencia Diego?
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.13 Emily doesn't know with what friend Fernando está trabajando.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.14 Jessica doesn't know of what plane Leonel está saltando.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.15 Mason doesn't know to what country Natalia está viajando.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.16 United is the company with which Roberta está volando.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.17 That Lamborghini is the car of which Teresa está saliendo.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.18 Warrenville is the town to which Víctor se está mudando.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.19 Qué hombre is Ashley dancing with?
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.20 Qué curso is Charlotte getting tired of?
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.21 Qué libro is Dylan referring to?
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.22 Elisa no sabe qué amigo Frank is working with.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.23 Julieta no sabe qué avión Lance is jumping out of.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.24 Matías no sabe qué país Nancy is traveling to.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.25 United es la compañía que Ruby is flying with.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.26 Ese Lamborghini es el coche que Tiffany is getting out of.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.27 Villa del Carbón es el pueblo que Vern is moving to.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.28 Con qué hombre is Ashley dancing?
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.29 De qué curso is Charlotte getting tired?
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.30 A qué libro is Dylan referring?
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.31 Elisa no sabe con qué amigo Frank is working.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.32 Julieta no sabe de qué avión Lance is jumping out.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.33 Matías no sabe a qué país Nancy is traveling.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.34 United es la compañía con la que Ruby is flying.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.35 Ese Lamborghini es el coche del que Tiffany is getting out.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.36 Villa del Carbón es el pueblo al que Vern is moving.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.37 Yo fui a la fiesta with my friend.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.38 I went to the party con mi amigo.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.39 La mujer abrió la puerta with her keys. 
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.40 The woman opened the door con sus llaves.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.41 Pedro salío a comer for his birthday.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.42 Peter went out to eat para su cumple.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.43 Pedro llegó tarde because of traffic.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.44 Peter arrived late porque hubo tráfico.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.45 José salió temprano because he went to work.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.46 Joey left early porque se fue al trabajo.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.47 Miguel se cortó el pelo because it was too long.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.48 Michael cut his hair porque estaba muy largo.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.49 Yo fui a la playa all summer long.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.50 I went to the beach todo el verano.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.51 Yo me levanto temprano every day of the week.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.52 I get up early todos los días de la semana.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.53 Ella sale a bailar every weekend.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.54 She goes out dancing cada fin de semana.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.55 He was called naco todo el tiempo.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.56 He was called estúpido todo el tiempo.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.57 Le llamaba boneheaded all the time.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.58 Le llamaba stupid all the time.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.59 He was called chicano porque era mexicano.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.60 He was called nativo porque era mexicano.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.61 Le llamaba snooty because he was from the US.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.62 Le llamaba native because he was from the US.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.63 My mom bought nopales para la fiesta.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.64 My mom bought fruta para la fiesta.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.65 Mi mamá compró crackers for the party.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.66 Mi mamá compró fruit for the party.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.67 I have been craving champurrado desde la mañana.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.68 I have been craving café desde la mañana.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.69 He tenido antojo de seltzer since this morning.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.70 He tenido antojo de coffee since this morning.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.71 My grandma made me atole para el desayuno.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.72 My grandma made me panqueques para el desayuno.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.73 Mi abuela me hizo biscuits for breakfast.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.74 Mi abuela me hizo pancakes for breakfast.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.75 He is going to serve us pozole para la cena mañana.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.76 He is going to serve us sopa para la cena mañana.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.77 Nos va a servir clam chowder for dinner tomorrow.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q5.78 Nos va a servir soup for dinner tomorrow.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+End of Block: CS Main Stimuli
+
+Start of Block: Spanish Cloze Test
+
+Q6.1 Muy bien! You're all done rating code-switched sentences. We just have a few more activities for you to complete.
+
+
+
+Q6.2 Cuestionario Lingüístico - Parte 1: Selección Múltiple
+En cada una de las siguientes oraciones hay una palabra o una frase que ha sido omitida. Seleccione la opción que mejor complete la oración.
+
+
+
+
+Q6.3 Al oír del accidente de su buen amigo, Paco se puso ________ .
+    • alegre  (1) 
+    • fatigado  (2) 
+    • hambriento  (3) 
+    • desconsolado  (4) 
+
+
+
+
+Q6.4 No puedo comprarlo porque me ________ dinero.
+    • falta  (1) 
+    • dan  (2) 
+    • presta  (3) 
+    • regalan  (4) 
+
+
+
+
+Q6.5 Tuvo que guardar cama por estar ________ .
+    • enfermo  (1) 
+    • vestido  (2) 
+    • ocupado  (3) 
+    • parado  (4) 
+
+
+
+
+Q6.6 Aquí está tu café, Juanito. No te quemes, que está muy ________ .
+    • dulce  (1) 
+    • amargo  (2) 
+    • agrio  (3) 
+    • caliente  (4) 
+
+
+
+
+Q6.7 Al romper los anteojos, Juan se asustó porque no podía ________ sin ellos.
+    • discurrir  (1) 
+    • oír  (2) 
+    • ver  (3) 
+    • entender  (4) 
+
+
+
+
+Q6.8 ¡Pobrecita! Está resfriada y no puede ________ .
+    • salir de casa  (1) 
+    • recibir cartas  (2) 
+    • respirar con pena  (3) 
+    • leer las noticias  (4) 
+
+
+
+
+Q6.9 Era una noche oscura sin ________ .
+    • estrellas  (1) 
+    • camas  (2) 
+    • lágrimas  (3) 
+    • nubes  (4) 
+
+
+
+
+Q6.10 Cuando don Carlos salió de su casa, saludó a un amigo suyo, «Buenos días, ________ ».
+    • ¿Qué va?  (1) 
+    • ¿Cómo es?  (2) 
+    • ¿Quién es?  (3) 
+    • ¿Qué tal?  (4) 
+
+
+
+
+Q6.11 ¡Qué ruido había con los gritos de los niños y el ________ de los perros!
+    • olor  (1) 
+    • sueño  (2) 
+    • hambre  (3) 
+    • ladrar  (4) 
+
+
+
+
+Q6.12 Para saber la hora, don Juan miró el ________ .
+    • calendario  (1) 
+    • bolsillo  (2) 
+    • estante  (3) 
+    • despertador  (4) 
+
+
+
+
+Q6.13 Yo, que comprendo poco de mecánica, sé que el auto no puede funcionar sin ________ .
+    • permiso  (1) 
+    • comer  (2) 
+    • aceite  (3) 
+    • bocina  (4) 
+
+
+
+
+Q6.14 Nos dijo mamá que era hora de comer y por eso ________ .
+    • fuimos a nadar  (1) 
+    • tomamos asiento  (2) 
+    • comenzamos a fumar  (3) 
+    • nos acostamos pronto  (4) 
+
+
+
+
+Q6.15 ¡Cuidado con ese cuchillo o vas a ________ el dedo!
+    • cortarte  (1) 
+    • torcerte  (2) 
+    • comerte  (3) 
+    • quemarte  (4) 
+
+
+
+
+Q6.16 Tuvo tanto miedo de caerse que se negó a ________ con nosotros.
+    • almorzar  (1) 
+    • charlar  (2) 
+    • cantar  (3) 
+    • patinar  (4) 
+
+
+
+
+Q6.17 Abrió la ventana y miró: en efecto, grandes lenguas de ________ salían llameando de las casas.
+    • zorros  (1) 
+    • serpientes  (2) 
+    • cuero  (3) 
+    • fuego  (4) 
+
+
+
+
+Q6.18 Compró ejemplares de todos los diarios pero en vano. No halló ________ .
+    • los diez centavos  (1) 
+    • el periódico perdido  (2) 
+    • la noticia que deseaba  (3) 
+    • los ejemplos  (4) 
+
+
+
+
+Q6.19 Por varias semanas acudieron colegas del difunto profesor a ________ el dolor de la viuda.
+    • aliviar  (1) 
+    • dulcificar  (2) 
+    • embromar  (3) 
+    • estorbar  (4) 
+
+
+
+
+Q6.20  Sus amigos pudieron haberlo salvado pero lo dejaron ________ .
+    • ganar  (1) 
+    • parecer  (2) 
+    • perecer  (3) 
+    • acabar  (4) 
+
+
+
+
+Q6.21 Al salir de la misa me sentía tan caritativo que no pude menos que ________ a un pobre mendigo que había allí sentado.
+    • pegarle  (1) 
+    • darle una limosna  (2) 
+    • echar una mirada  (3) 
+    • maldecir  (4) 
+
+
+
+
+Q6.22 Al lado de la Plaza de Armas había dos limosneros pidiendo ________ .
+    • pedazos  (1) 
+    • paz  (2) 
+    • monedas  (3) 
+    • escopetas  (4) 
+
+
+
+
+Q6.23 Siempre maltratado por los niños, el perro no podía acostumbrarse a ________ de sus nuevos amos.
+    • las caricias  (1) 
+    • los engaños  (2) 
+    • las locuras  (3) 
+    • los golpes  (4) 
+
+
+
+
+Q6.24 ¿Dónde estará mi cartera? La dejé aquí mismo hace poco y parece que el necio de mi hermano ha vuelto a ________ .
+    • dejármela  (1) 
+    • deshacérmela  (2) 
+    • escondérmela  (3) 
+    • acabármela  (4) 
+
+
+
+
+Q6.25 Permaneció un gran rato abstraído, los ojos clavados en el fogón y el pensamiento ________ .
+    • en el bolsillo  (1) 
+    • en el fuego  (2) 
+    • lleno de alboroto  (3) 
+    • Dios sabe dónde  (4) 
+
+
+
+
+Q6.26 En vez de dirigir el tráfico estabas charlando, así que tú mismo ________ del choque.
+    • sabes la gravedad  (1) 
+    • eres testigo  (2) 
+    • tuviste la culpa  (3) 
+    • conociste a las víctimas  (4) 
+
+
+
+
+Q6.27 Posee esta tierra un clima tan propio para la agricultura como para ________ .
+    • la construcción de trampas  (1) 
+    • el fomento de motines  (2) 
+    • el costo de vida  (3) 
+    • la cría de reses  (4) 
+
+
+
+
+Q6.28 Aficionado leal de obras teatrales, Juan se entristeció al saber ________ del gran actor.
+    • del fallecimiento  (1) 
+    • del éxito  (2) 
+    • de la buena suerte  (3) 
+    • de la alabanza  (4) 
+
+
+
+
+Q6.29 Se reunieron a menudo para efectuar un tratado pero no pudieron ________ .
+    • desavenirse  (1) 
+    • echarlo a un lado  (2) 
+    • rechazarlo  (3) 
+    • llevarlo a cabo  (4) 
+
+
+
+
+Q6.30 Se negaron a embarcarse porque tenían miedo de ________ .
+    • los peces  (1) 
+    • los naufragios  (2) 
+    • los faros  (3) 
+    • las playas  (4) 
+
+
+
+
+Q6.31 La mujer no aprobó el cambio de domicilio pues no le gustaba ________ .
+    • el callejero  (1) 
+    • el puente  (2) 
+    • esa estación  (3) 
+    • aquel barrio  (4) 
+
+
+
+
+Q6.32 Era el único que tenía algo que comer pero se negó a ________ .
+    • hojearlo  (1) 
+    • ponérselo  (2) 
+    • conservarlo  (3) 
+    • repartirlo  (4) 
+
+
+
+Q6.33 
+Cuestionario Lingüístico - Parte 2: Prueba Cloze  
+  En el siguiente texto, hay algunas instancias donde hay tres opciones para completar la oración. Primero, lea el texto entero para entenderlo. Luego, escoja la palabra correcta para cada uno. Por favor, escoja la opción según el contexto.
+
+
+
+Q6.34 
+ 
+El sueño de Joan Miró  
+   
+Hoy se inaugura en Palma de Mallorca la Fundación y Joan Miró, en el mismo lugar en donde el artista vivió sus últimos treinta y cinco años. El sueño de Joan Miró se ha ( cumplido / completado / terminado ). Los fondos donados a la ciudad por el pintor y su esposa en 1981 permitieron que el sueño se ( inició / iniciara / iniciaba ); más tarde, en 1986, el Ayuntamiento de Palma de Mallorca decidió ( encargar / pedir / mandar ) al arquitecto Rafael Moneo un edificio que ( hubiera servido / haya servido / sirviera ) a la vez como sede de la entidad y como museo moderno.  
+   
+El proyecto ha tenido que ( superar / enfrentarse / acabar ) múltiples obstáculos de carácter administrativo. Miró, coincidiendo ( por / en / con ) los deseos de toda su familia, quiso que su obra no quedara expuesta en ampulosos panteones de arte o en ( voluntad / poder / favor ) de coleccionistas acaudalados; por ello, en 1981, creó la fundación mallorquina. Y cuando estaba ( al / en / a ) punto de morir, donó terrenos y edificios, así como las obras de arte que en ellos ( habría / había / hubo ).  
+   
+El edificio que ha construido Rafael Moneo se enmarca en ( que / el que / lo que ) se denomina “Territorio Miró”, espacio en el que se han ( pretendido / tratado / intentado ) de situar los distintos edificios que constituyen la herencia del pintor.  
+   
+El acceso a los mismos quedará ( disminuido / escaso / restringido ) para evitar el deterioro de las obras. Por otra parte, se ( darán / enseñarán / dirán ), en los talleres de grabado y litografía, cursos ( sobre / en / para ) las distintas técnicas de estampación. Estos talleres también se cederán periódicamente a distintos artistas contemporáneos, ( ya / así / para ) se busca que el “Territorio Miró” ( será / sea / es ) un centro vivo de creación y difusión del arte a todos ( casos / aspectos / niveles ).  
+   
+La entrada costará 500 pesetas y las previsiones dadas a conocer ayer aspiran ( a / de / para ) que el centro acoja a unos 150.000 visitantes al año. Los responsables esperan que la institución funcione a ( total / pleno / entero ) rendimiento a principios de la ( siguiente / próxima / pasada ) semana, si bien el catálogo completo de las obras de la Fundación Pilar y Joan Miró no estará listo hasta dentro de dos años. 
+
+
+
+
+Q6.35 
+Hoy se inaugura en Palma de Mallorca la Fundación y Joan Miró, en el mismo lugar en donde el artista vivió sus últimos treinta y cinco años. El sueño de Joan Miró se ha ( __________ ).
+    • cumplido  (1) 
+    • completado  (2) 
+    • terminado  (3) 
+
+
+
+
+Q6.36 
+Los fondos donados a la ciudad por el pintor y su esposa en 1981 permitieron que el sueño se ( __________ ); ...
+    • inició  (1) 
+    • iniciara  (2) 
+    • iniciaba  (3) 
+
+
+
+
+Q6.37 
+... más tarde, en 1986, el Ayuntamiento de Palma de Mallorca decidió ( __________ ) al arquitecto Rafael Moneo ...
+    • encargar  (1) 
+    • pedir  (2) 
+    • mandar  (3) 
+
+
+
+
+Q6.38 
+... un edificio que ( __________ ) a la vez como sede de la entidad y como museo moderno.
+    • hubiera servido  (1) 
+    • haya servido  (2) 
+    • sirviera  (3) 
+
+
+
+
+Q6.39 
+El proyecto ha tenido que ( __________ ) múltiples obstáculos de carácter administrativo.
+    • superar  (1) 
+    • enfrentarse  (2) 
+    • acabar  (3) 
+
+
+
+
+Q6.40 
+Miró, coincidiendo ( __________ ) los deseos de toda su familia, ...
+    • por  (1) 
+    • en  (2) 
+    • con  (3) 
+
+
+
+
+Q6.41 
+... quiso que su obra no quedara expuesta en ampulosos panteones de arte o en ( __________ ) de coleccionistas acaudalados; por ello, en 1981, creó la fundación mallorquina.
+    • voluntad  (1) 
+    • poder  (2) 
+    • favor  (3) 
+
+
+
+
+Q6.42 
+Y cuando estaba ( __________ ) punto de morir, donó terrenos y edificios, ...
+    • al  (1) 
+    • en  (2) 
+    • a  (3) 
+
+
+
+
+Q6.43 
+... así como las obras de arte que en ellos ( __________ ) .
+    • habría  (1) 
+    • había  (2) 
+    • hubo  (3) 
+
+
+
+
+Q6.44 
+El edificio que ha construido Rafael Moneo se enmarca en ( ___________ ) se denomina “Territorio Miró”, ...
+    • que  (1) 
+    • el que  (2) 
+    • lo que  (3) 
+
+
+
+
+Q6.45 
+... espacio en el que se han ( __________ ) de situar los distintos edificios que constituyen la herencia del pintor.
+    • prentendido  (1) 
+    • tratado  (2) 
+    • intentado  (3) 
+
+
+
+
+Q6.46 
+El acceso a los mismos quedará ( __________ ) para evitar el deterioro de las obras. 
+    • disminuido  (1) 
+    • escaso  (2) 
+    • restringido  (3) 
+
+
+
+
+Q6.47 
+Por otra parte, se ( __________ ) , en los talleres de grabado y litografía, ...
+    • darán  (1) 
+    • enseñarán  (2) 
+    • dirán  (3) 
+
+
+
+
+Q6.48 
+... cursos ( __________ ) las distintas técnicas de estampación.
+    • sobre  (1) 
+    • en  (2) 
+    • para  (3) 
+
+
+
+
+Q6.49 
+Estos talleres también se cederán periódicamente a distintos artistas contemporáneos, ( __________ ) se busca que ...
+    • ya  (1) 
+    • así  (2) 
+    • para  (3) 
+
+
+
+
+Q6.50 
+ .. el “Territorio Miró” ( __________ ) un centro vivo de creación y difusión del arte ...
+    • será  (1) 
+    • sea  (2) 
+    • es  (3) 
+
+
+
+
+Q6.51 
+... a todos los ( __________ ). 
+    • casos  (1) 
+    • aspectos  (2) 
+    • niveles  (3) 
+
+
+
+
+Q6.52 La entrada costará 500 pesetas y las previsiones dadas a conocer ayer aspiran ( __________ ) que el centro acoja a unos 150.000 visitantes al año. 
+    • a  (1) 
+    • de  (2) 
+    • para  (3) 
+
+
+
+
+Q6.53 
+Los responsables esperan que la institución funcione a ( __________ ) rendimiento ...
+    • total  (2) 
+    • pleno  (3) 
+    • entero  (4) 
+
+
+
+
+Q6.54 
+... a principios de la ( __________ ) semana, si bien el catálogo completo de las obras de la Fundación Pilar y Joan Miró no estará listo hasta dentro de dos años.
+    • siguiente  (1) 
+    • próxima  (2) 
+    • pasada  (3) 
+
+
+
+Q6.55 ¡Perfecto! Ahora Ud. va a evaluar algunas frases completamente en español.
+
+End of Block: Spanish Cloze Test
+
+Start of Block: Monolingual Spanish Stimuli
+
+
+Q7.1 Qué hombre está bailando Araceli con?
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.2 Qué curso se está cansando Candela de?
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.3 Qué libro está haciendo referencia Diego a?
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.4 Elisa no sabe qué amigo Fernando está trabajando con.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.5 Julieta no sabe qué avión Leonel está saltando de.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.6 Matías no sabe qué país Natalia está viajando a.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.7 United es la compañía que Roberta está volando con.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.8 Ese Lamborghini es el coche que Teresa está saliendo de.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.9 Villa del Carbón es el pueblo que Víctor se está mudando a.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.10 Con qué hombre está bailando Araceli?
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.11 De qué curso se está cansando Candela?
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.12 A qué libro está haciendo referencia Diego?
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.13 Elisa no sabe con qué amigo Fernando está trabajando.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.14 Julieta no sabe de qué avión Leonel está saltando.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.15 Matías no sabe a qué país Natalia está viajando.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.16 United es la compañía con la que Roberta está volando.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.17 Ese Lamborghini es el coche del que Teresa está saliendo.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.18 Villa del Carbón es el pueblo al que Víctor se está mudando.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.19 Yo fui a la fiesta con mi amigo.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.20 La mujer abrió la puerta con sus llaves.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.21 Pedro salío a comer para su cumple.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.22 Pedro llegó tarde porque hubo tráfico.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.23 José salió temprano porque se fue al trabajo.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.24 Miguel se cortó el pelo porque estaba muy largo.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.25 Yo fui a la playa todo el verano.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.26 Yo me levanto temprano todos los días de la semana.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.27 Ella sale a bailar cada fin de semana.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.28 Le llamaba naco todo el tiempo.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.29 Le llamaba estúpido todo el tiempo.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.30 Le llamaba chicano porque era mexicano.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.31 Le llamaba nativo porque era mexicano.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.32 Mi mamá compró nopales para la fiesta.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.33 Mi mamá compró fruta para la fiesta.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.34 He tenido antojo de champurrado desde la mañana.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.35 He tenido antojo de café desde la mañana.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.36 Mi abuela me hizo atole para el desayuno.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.37 Mi abuela me hizo panqueques para el desayuno.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.38 Nos va a servir pozole para la cena mañana.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q7.39 Nos va a servir sopa para la cena mañana.
+	Completamente inaceptable (85)	Mayormente inaceptable (86)	Un poco inaceptable (87)	No sé (88)	Un poco aceptable (89)	Mayormente aceptable (90)	Completamente aceptable (91)
+¿Qué le parece esta oración? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+End of Block: Monolingual Spanish Stimuli
+
+Start of Block: English Cloze Test
+
+Q8.1 Great! Next we have some activities completely in English.
+
+
+
+Q8.2 
+Linguistic Questionnaire - Part 2: English Cloze Test  
+  In the following passage, there are a portions that include a trio of possible word choices. First, read the text in its entirety to understand it. Then, choose the correct word for each choice. Please, choose the option appropriate for the context.
+
+
+
+Q8.3 
+ 
+ 
+Joe came home from work on Friday. It was payday, but he wasn't ( even / more / ever ) excited about it. He knew that ( then / when / while ) he sat down and paid his ( checks / bills / salary ) and set aside money for groceries, ( driving / pay / gas ) for the car, and a small ( deposit / withdrawal / money ) in his savings account, there wouldn't be much left over for a good ( pleasure / leisure / life ).  
+ 
+   
+He thought about going out for ( eat / dinner / eating ) at his favorite restaurant, but he ( just / only / very ) wasn't in the mood. He wandered ( around / at / in ) his apartment and ate a sandwich. ( In / For / After ) a while, he couldn't stop ( for / from / about ) worrying about the money situation. Finally, ( he / she / it )  got into his car and started ( drive / driven / driving ).  
+   
+He didn't have a destination in ( head / mind / fact ), but he knew that he wanted ( be / to be / being ) far away from the city ( which / there / where ) he lived. He turned onto a quiet country ( road / house / air ). The country sights made him feel ( as good / better / best ). His mind wandered as he drove ( past / in / to ) small farms and he began to ( try / think / imagine ) living on his own piece of ( house / land / farm ) and becoming self-sufficient. It had always ( being / been / be ) a dream of his, but he ( having / have / had ) never done anything to make it ( a / one / some ) reality.  
+   
+Even as he was thinking, ( their / his / her ) logical side was scoffing at his ( favorite / practical / impractical ) imaginings. He debated the advantages and ( cons / disadvantages / problems ) of living in the country and ( growing / breeding / building ) his own food. He imagined his ( farmhouse / truck / tractor ) equipped with a solar energy panel ( at / out / on ) the roof to heat the house ( in / for / over ) winter and power a water heater. ( She / He / They ) envisioned fields of vegetables for canning ( either / and / but ) preserving to last through the winter. ( Whether / Even / If ) the crops had a good yield, ( maybe / possible / may ) he could sell the surplus and ( store / save / buy ) some farming equipment with the extra ( economy / cost / money ).  
+   
+Suddenly, Joe stopped thinking and laughed ( at / out / so ) loud, "I'm really going to go ( through / away / in ) with this?"
+
+
+
+
+Q8.4 
+Joe came home from work on Friday. It was payday, but he wasn't ( __________ ) excited about it.
+    • even  (1) 
+    • more  (2) 
+    • ever  (3) 
+
+
+
+
+Q8.5 
+He knew that ( __________ ) he sat down ...
+    • then  (1) 
+    • when  (2) 
+    • while  (3) 
+
+
+
+
+Q8.6 
+... and paid his ( __________ ) and set aside money for groceries, ...
+    • checks  (1) 
+    • bills  (2) 
+    • salary  (3) 
+
+
+
+
+Q8.7 
+( __________ ) for the car, ...
+    • driving  (1) 
+    • pay  (2) 
+    • gas  (3) 
+
+
+
+
+Q8.8 
+... and a small ( __________ ) in his savings account, ...
+    • deposit  (1) 
+    • withdrawal  (2) 
+    • money  (3) 
+
+
+
+
+Q8.9 
+... there wouldn't be  much left over for a good ( __________ ).
+    • pleasure  (1) 
+    • leisure  (2) 
+    • life  (3) 
+
+
+
+
+Q8.10 
+He thought about going out for ( __________ ) at his favorite restaurant, ...
+    • eat  (1) 
+    • dinner  (2) 
+    • eating  (3) 
+
+
+
+
+Q8.11 
+... but he ( __________ ) wasn't in the mood.
+    • just  (1) 
+    • only  (2) 
+    • very  (3) 
+
+
+
+
+Q8.12 
+He wandered ( __________ ) his apartment and ate a sandwich.
+    • around  (1) 
+    • at  (2) 
+    • in  (3) 
+
+
+
+
+Q8.13 
+( __________ ) a while, ...
+    • In  (1) 
+    • For  (2) 
+    • After  (3) 
+
+
+
+
+Q8.14 
+... he couldn't stop ( __________ ) worrying about the money situation.
+    • for  (1) 
+    • from  (2) 
+    • about  (3) 
+
+
+
+
+Q8.15 
+Finally, ( ___________ ) got into his car ...
+    • he  (1) 
+    • she  (2) 
+    • it  (3) 
+
+
+
+
+Q8.16 
+... and started ( __________ ).
+    • drive  (1) 
+    • driven  (2) 
+    • driving  (3) 
+
+
+
+
+Q8.17 
+He didn't have a destination in ( __________ ) , ...
+    • head  (1) 
+    • mind  (2) 
+    • fact  (3) 
+
+
+
+
+Q8.18 
+... but he knew that he wanted ( __________ ) far away from ...
+    • be  (1) 
+    • to be  (2) 
+    • being  (3) 
+
+
+
+
+Q8.19 
+... the city ( __________ ) he lived.
+    • which  (1) 
+    • there  (2) 
+    • where  (3) 
+
+
+
+
+Q8.20 
+He turned onto a quiet country ( __________ ). 
+    • road  (1) 
+    • house  (2) 
+    • air  (3) 
+
+
+
+
+Q8.21 
+The country sights made him feel ( __________ ) .
+    • as good  (1) 
+    • better  (2) 
+    • best  (3) 
+
+
+
+
+Q8.22 
+His mind wandered as he drove ( __________ ) small farms ...
+    • past  (1) 
+    • in  (2) 
+    • to  (3) 
+
+
+
+
+Q8.23 
+... and he began to ( __________ ) living on his own ...
+    • try  (1) 
+    • think  (2) 
+    • imagine  (3) 
+
+
+
+
+Q8.24 
+... piece of ( __________ ) and becoming self-sufficient.
+    • house  (1) 
+    • land  (2) 
+    • farm  (3) 
+
+
+
+
+Q8.25 
+It had always ( __________ ) a dream of his, ...
+    • being  (1) 
+    • been  (2) 
+    • be  (3) 
+
+
+
+
+Q8.26 
+... but he ( __________ ) never done anything to ...
+    • having  (1) 
+    • have  (2) 
+    • had  (3) 
+
+
+
+
+Q8.27 
+... make it ( __________ ) reality.
+    • a  (1) 
+    • one  (2) 
+    • some  (3) 
+
+
+
+
+Q8.28 
+Even as he was thinking, ( __________ ) logical side was ...
+    • their  (1) 
+    • his  (2) 
+    • her  (3) 
+
+
+
+
+Q8.29 
+... scoffing at his ( __________ ) imaginings.
+    • favorite  (1) 
+    • practical  (2) 
+    • impractical  (3) 
+
+
+
+
+Q8.30 
+He debated the advantages and ( __________ ) of living in the country ...
+    • cons  (1) 
+    • disadvantages  (2) 
+    • problems  (3) 
+
+
+
+
+Q8.31 
+... and ( __________ ) his own food.
+    • growing  (1) 
+    • breeding  (2) 
+    • building  (3) 
+
+
+
+
+Q8.32 
+He imagined his ( __________ ) equipped with ...
+    • farmhouse  (1) 
+    • truck  (2) 
+    • tractor  (3) 
+
+
+
+
+Q8.33 
+... a solar energy panel ( __________ ) the roof to heat ...
+    • at  (1) 
+    • out  (2) 
+    • on  (3) 
+
+
+
+
+Q8.34 
+... the house ( __________ ) winter and power a water heater.
+    • in  (1) 
+    • for  (2) 
+    • over  (3) 
+
+
+
+
+Q8.35 
+( __________ ) envisioned fields of vegetables for ...
+    • She  (1) 
+    • He  (2) 
+    • They  (3) 
+
+
+
+
+Q8.36 
+... canning ( __________ ) preserving to last through the winter.
+    • either  (1) 
+    • and  (2) 
+    • but  (3) 
+
+
+
+
+Q8.37 
+( __________ ) the crops had a good yield, ...
+    • Whether  (1) 
+    • Even  (2) 
+    • If  (3) 
+
+
+
+
+Q8.38 
+... ( __________ ) he could sell the surplus ...
+    • maybe  (1) 
+    • possible  (2) 
+    • may  (3) 
+
+
+
+
+Q8.39 
+... and ( __________ ) some farming equipment ...
+    • store  (1) 
+    • save  (2) 
+    • buy  (3) 
+
+
+
+
+Q8.40 
+... with the extra ( __________ ).
+    • economy  (1) 
+    • cost  (2) 
+    • money  (3) 
+
+
+
+
+Q8.41 
+Suddenly, Joe stopped thinking and laughed ( __________ ) loud, ...
+    • at  (1) 
+    • out  (2) 
+    • so  (3) 
+
+
+
+
+Q8.42 
+... "I'm really going to go ( __________ ) with this?"
+    • through  (1) 
+    • away  (2) 
+    • in  (3) 
+
+
+
+Q8.43 Okay, great! Now there are a few English-only sentences for you to rate.
+
+End of Block: English Cloze Test
+
+Start of Block: Monolingual English Stimuli
+
+
+Q9.1 What guy is Ashley dancing with?
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.2 What class is Charlotte getting tired of?
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.3 What book is Dylan referring to?
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.4 Emily doesn't know what friend Frank is working with.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.5 Jessica doesn't know what plane Lance is jumping out of.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.6 Mason doesn't know what country Nancy is traveling to.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.7 United is the company Ruby is flying with.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.8 That Lamborghini is the car Tiffany is getting out of.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.9 Warrenville is the town Vern is moving to.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.10 With what guy is Ashley dancing?
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.11 Of what class is Charlotte getting tired?
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.12 To what book is Dylan referring?
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.13 Emily doesn't know with what friend Frank is working.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.14 Jessica doesn't know of what plane Lance is jumping out.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.15 Mason doesn't know to what country Nancy is traveling.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.16 United is the company with which Ruby is flying.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.17 That Lamborghini is the car of which Tiffany is getting out.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.18 Warrenville is the town to which Vern is moving.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.19 I went to the party with my friend.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.20 The woman opened the door with her keys.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.21 Peter went out to eat for his birthday.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.22 Peter arrived late because of traffic.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.23 Joey left early because he went to work.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.24 Michael cut his hair because it was too long.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.25 I went to the beach all summer long.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.26 I get up early every day of the week.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.27 She goes out dancing every weekend.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.28 He was called boneheaded all the time.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.29 He was called stupid all the time.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.30 He was called snooty because he was from the US.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.31 He was called native because he was from the US.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.32 My mom bought crackers for the party.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.33 My mom bought fruit for the party.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.34 I have been craving seltzer since this morning.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.35 I have been craving coffee since this morning.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.36 My grandma made me biscuits for breakfast.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.37 My grandma made me pancakes for breakfast.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.38 He is going to serve us clam chowder for dinner tomorrow.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+
+Q9.39 He is going to serve us soup for dinner tomorrow.
+	Completely unacceptable (85)	Mostly unacceptable (86)	Somewhat unacceptable (87)	Unsure (88)	Somewhat acceptable (89)	Mostly acceptable (90)	Completely acceptable (91)
+How acceptable is this sentence? (61) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+End of Block: Monolingual English Stimuli
+
+Start of Block: Background Questionnaire - Part 2
+
+Q10.1 Great! Now let's finish up with just a little more background information. In this first section, you will rate your language proficiency by giving marks from 0 to 6.
+
+
+
+Q10.2 How well do you speak the following languages? (not well = 0; very well = 6)
+	Not well at all
+ 0 (1)	1 (8)	2 (9)	3 (2)	4 (3)	5 (4)	Very well
+ 6 (5)
+ENGLISH (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+SPANISH (2) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+Q10.3 How well do you understand the following languages? (not well = 0; very well = 6)
+	Not well at all
+ 0 (1)	1 (8)	2 (9)	3 (2)	4 (3)	5 (4)	Very well
+ 6 (5)
+ENGLISH (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+SPANISH (2) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+Q10.4 How well do you read the following languages? (not well = 0; very well = 6)
+	Not well at all
+ 0 (1)	1 (8)	2 (9)	3 (2)	4 (3)	5 (4)	Very well
+ 6 (5)
+ENGLISH (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+SPANISH (2) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+Q10.5 How well do you write the following languages? (not well = 0; very well = 6)
+	Not well at all
+ 0 (1)	1 (8)	2 (9)	3 (2)	4 (3)	5 (4)	Very well
+ 6 (5)
+ENGLISH (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+SPANISH (2) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+Page Break	
+
+
+Q10.6 In this section, you will respond to statements about language attitudes by giving marks from 0 to 6.
+
+
+
+Q10.7 I feel like myself when I speak English / Spanish. (disagree = 0; agree = 6)
+	Disagree
+ 0 (1)	1 (8)	2 (9)	3 (2)	4 (3)	5 (4)	Agree
+ 6 (5)
+ENGLISH (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+SPANISH (2) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+Q10.8 I identify with an English-speaking / Spanish-speaking culture. (disagree = 0; agree = 6)
+	Disagree
+ 0 (1)	1 (8)	2 (9)	3 (2)	4 (3)	5 (4)	Agree
+ 6 (5)
+ENGLISH (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+SPANISH (2) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+Q10.9 It is important to me to use (or eventually use) English / Spanish like a native speaker. (disagree = 0; agree = 6)
+	Disagree
+ 0 (1)	1 (8)	2 (9)	3 (2)	4 (3)	5 (4)	Agree
+ 6 (5)
+ENGLISH (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+SPANISH (2) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+
+Q10.10 I want others to think I am a native speaker of English / Spanish. (disagree = 0; agree = 6)
+	Disagree
+ 0 (1)	1 (8)	2 (9)	3 (2)	4 (3)	5 (4)	Agree
+ 6 (5)
+ENGLISH (1) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+SPANISH (2) 	    • 	    • 	    • 	    • 	    • 	    • 	    • 
+
+
+
+Page Break	
+
+
+Q10.11 Now you will answer a few more questions about your background and the languages used during your childhood. 
+
+
+
+Q10.12 Describe your cultural/ethnic identity, or leave this question blank if you would prefer not to disclose that information.
+________________________________________________________________
+
+
+
+Q10.13 What language(s) do your parents/caregivers speak?
+    • Parent/caregiver 1:  (1) __________________________________________________
+    • Parent/caregiver 2:  (2) __________________________________________________
+
+
+
+Q10.14 Growing up, what language(s) did you use mostly when speaking to your parents/caregivers? (select all that apply)
+    • English  (1) 
+    • Spanish  (2) 
+    • Mixed  (3) 
+    • Other:  (4) __________________________________________________
+
+End of Block: Background Questionnaire - Part 2
+
+
