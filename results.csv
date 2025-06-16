@@ -1,0 +1,919 @@
+model,stimulus_number,trial,utterance,acceptability_rating
+openai/gpt-4.1-2025-04-14,79,1,He was called naco todo el tiempo.,5.0
+openai/gpt-4.1-2025-04-14,79,2,He was called naco todo el tiempo.,5.0
+openai/gpt-4.1-2025-04-14,79,3,He was called naco todo el tiempo.,5.0
+openai/gpt-4.1-2025-04-14,80,1,He was called estúpido todo el tiempo.,4.0
+openai/gpt-4.1-2025-04-14,80,2,He was called estúpido todo el tiempo.,5.0
+openai/gpt-4.1-2025-04-14,80,3,He was called estúpido todo el tiempo.,5.0
+openai/gpt-4.1-2025-04-14,81,1,Le llamaba boneheaded all the time.,4.0
+openai/gpt-4.1-2025-04-14,81,2,Le llamaba boneheaded all the time.,4.0
+openai/gpt-4.1-2025-04-14,81,3,Le llamaba boneheaded all the time.,5.0
+openai/gpt-4.1-2025-04-14,82,1,Le llamaba stupid all the time.,5.0
+openai/gpt-4.1-2025-04-14,82,2,Le llamaba stupid all the time.,4.0
+openai/gpt-4.1-2025-04-14,82,3,Le llamaba stupid all the time.,4.0
+openai/gpt-4.1-2025-04-14,83,1,He was called chicano porque era mexicano.,6.0
+openai/gpt-4.1-2025-04-14,83,2,He was called chicano porque era mexicano.,6.0
+openai/gpt-4.1-2025-04-14,83,3,He was called chicano porque era mexicano.,5.0
+openai/gpt-4.1-2025-04-14,84,1,He was called nativo porque era mexicano.,6.0
+openai/gpt-4.1-2025-04-14,84,2,He was called nativo porque era mexicano.,5.0
+openai/gpt-4.1-2025-04-14,84,3,He was called nativo porque era mexicano.,6.0
+openai/gpt-4.1-2025-04-14,85,1,Le llamaba snooty because he was from the US.,4.0
+openai/gpt-4.1-2025-04-14,85,2,Le llamaba snooty because he was from the US.,4.0
+openai/gpt-4.1-2025-04-14,85,3,Le llamaba snooty because he was from the US.,4.0
+openai/gpt-4.1-2025-04-14,86,1,Le llamaba native because he was from the US.,3.0
+openai/gpt-4.1-2025-04-14,86,2,Le llamaba native because he was from the US.,3.0
+openai/gpt-4.1-2025-04-14,86,3,Le llamaba native because he was from the US.,4.0
+openai/gpt-4.1-2025-04-14,87,1,My mom bought nopales para la fiesta.,7.0
+openai/gpt-4.1-2025-04-14,87,2,My mom bought nopales para la fiesta.,6.0
+openai/gpt-4.1-2025-04-14,87,3,My mom bought nopales para la fiesta.,6.0
+openai/gpt-4.1-2025-04-14,88,1,My mom bought fruta para la fiesta.,5.0
+openai/gpt-4.1-2025-04-14,88,2,My mom bought fruta para la fiesta.,6.0
+openai/gpt-4.1-2025-04-14,88,3,My mom bought fruta para la fiesta.,5.0
+openai/gpt-4.1-2025-04-14,89,1,Mi mamá compró crackers for the party.,5.0
+openai/gpt-4.1-2025-04-14,89,2,Mi mamá compró crackers for the party.,5.0
+openai/gpt-4.1-2025-04-14,89,3,Mi mamá compró crackers for the party.,5.0
+openai/gpt-4.1-2025-04-14,90,1,Mi mamá compró fruit for the party.,3.0
+openai/gpt-4.1-2025-04-14,90,2,Mi mamá compró fruit for the party.,3.0
+openai/gpt-4.1-2025-04-14,90,3,Mi mamá compró fruit for the party.,4.0
+openai/gpt-4.1-2025-04-14,91,1,I have been craving champurrado desde la mañana.,6.0
+openai/gpt-4.1-2025-04-14,91,2,I have been craving champurrado desde la mañana.,6.0
+openai/gpt-4.1-2025-04-14,91,3,I have been craving champurrado desde la mañana.,5.0
+openai/gpt-4.1-2025-04-14,92,1,I have been craving café desde la mañana.,4.0
+openai/gpt-4.1-2025-04-14,92,2,I have been craving café desde la mañana.,4.0
+openai/gpt-4.1-2025-04-14,92,3,I have been craving café desde la mañana.,4.0
+openai/gpt-4.1-2025-04-14,93,1,He tenido antojo de seltzer since this morning.,4.0
+openai/gpt-4.1-2025-04-14,93,2,He tenido antojo de seltzer since this morning.,4.0
+openai/gpt-4.1-2025-04-14,93,3,He tenido antojo de seltzer since this morning.,4.0
+openai/gpt-4.1-2025-04-14,94,1,He tenido antojo de coffee since this morning.,4.0
+openai/gpt-4.1-2025-04-14,94,2,He tenido antojo de coffee since this morning.,3.0
+openai/gpt-4.1-2025-04-14,94,3,He tenido antojo de coffee since this morning.,3.0
+openai/gpt-4.1-2025-04-14,95,1,My grandma made me atole para el desayuno.,7.0
+openai/gpt-4.1-2025-04-14,95,2,My grandma made me atole para el desayuno.,7.0
+openai/gpt-4.1-2025-04-14,95,3,My grandma made me atole para el desayuno.,7.0
+openai/gpt-4.1-2025-04-14,96,1,My grandma made me panqueques para el desayuno.,6.0
+openai/gpt-4.1-2025-04-14,96,2,My grandma made me panqueques para el desayuno.,5.0
+openai/gpt-4.1-2025-04-14,96,3,My grandma made me panqueques para el desayuno.,5.0
+openai/gpt-4.1-2025-04-14,97,1,Mi abuela me hizo biscuits for breakfast.,4.0
+openai/gpt-4.1-2025-04-14,97,2,Mi abuela me hizo biscuits for breakfast.,4.0
+openai/gpt-4.1-2025-04-14,97,3,Mi abuela me hizo biscuits for breakfast.,4.0
+openai/gpt-4.1-2025-04-14,98,1,Mi abuela me hizo pancakes for breakfast.,5.0
+openai/gpt-4.1-2025-04-14,98,2,Mi abuela me hizo pancakes for breakfast.,5.0
+openai/gpt-4.1-2025-04-14,98,3,Mi abuela me hizo pancakes for breakfast.,5.0
+openai/gpt-4.1-2025-04-14,99,1,He is going to serve us pozole para la cena mañana.,7.0
+openai/gpt-4.1-2025-04-14,99,2,He is going to serve us pozole para la cena mañana.,6.0
+openai/gpt-4.1-2025-04-14,99,3,He is going to serve us pozole para la cena mañana.,5.0
+openai/gpt-4.1-2025-04-14,100,1,He is going to serve us sopa para la cena mañana.,4.0
+openai/gpt-4.1-2025-04-14,100,2,He is going to serve us sopa para la cena mañana.,5.0
+openai/gpt-4.1-2025-04-14,100,3,He is going to serve us sopa para la cena mañana.,5.0
+openai/gpt-4.1-2025-04-14,101,1,Nos va a servir clam chowder for dinner tomorrow.,5.0
+openai/gpt-4.1-2025-04-14,101,2,Nos va a servir clam chowder for dinner tomorrow.,5.0
+openai/gpt-4.1-2025-04-14,101,3,Nos va a servir clam chowder for dinner tomorrow.,5.0
+openai/gpt-4.1-2025-04-14,102,1,Nos va a servir soup for dinner tomorrow.,3.0
+openai/gpt-4.1-2025-04-14,102,2,Nos va a servir soup for dinner tomorrow.,2.0
+openai/gpt-4.1-2025-04-14,102,3,Nos va a servir soup for dinner tomorrow.,3.0
+openai/gpt-4.1-2025-04-14,103,1,Qué hombre está bailando Araceli con?,2.0
+openai/gpt-4.1-2025-04-14,103,2,Qué hombre está bailando Araceli con?,2.0
+openai/gpt-4.1-2025-04-14,103,3,Qué hombre está bailando Araceli con?,2.0
+openai/gpt-4.1-2025-04-14,104,1,Qué curso se está cansando Candela de?,3.0
+openai/gpt-4.1-2025-04-14,104,2,Qué curso se está cansando Candela de?,3.0
+openai/gpt-4.1-2025-04-14,104,3,Qué curso se está cansando Candela de?,3.0
+openai/gpt-4.1-2025-04-14,105,1,Qué libro está haciendo referencia Diego a?,2.0
+openai/gpt-4.1-2025-04-14,105,2,Qué libro está haciendo referencia Diego a?,2.0
+openai/gpt-4.1-2025-04-14,105,3,Qué libro está haciendo referencia Diego a?,2.0
+openai/gpt-4.1-2025-04-14,106,1,Elisa no sabe qué amigo Fernando está trabajando con.,3.0
+openai/gpt-4.1-2025-04-14,106,2,Elisa no sabe qué amigo Fernando está trabajando con.,5.0
+openai/gpt-4.1-2025-04-14,106,3,Elisa no sabe qué amigo Fernando está trabajando con.,3.0
+openai/gpt-4.1-2025-04-14,107,1,Julieta no sabe qué avión Leonel está saltando de.,5.0
+openai/gpt-4.1-2025-04-14,107,2,Julieta no sabe qué avión Leonel está saltando de.,5.0
+openai/gpt-4.1-2025-04-14,107,3,Julieta no sabe qué avión Leonel está saltando de.,3.0
+openai/gpt-4.1-2025-04-14,108,1,Matías no sabe qué país Natalia está viajando a.,5.0
+openai/gpt-4.1-2025-04-14,108,2,Matías no sabe qué país Natalia está viajando a.,4.0
+openai/gpt-4.1-2025-04-14,108,3,Matías no sabe qué país Natalia está viajando a.,5.0
+openai/gpt-4.1-2025-04-14,109,1,United es la compañía que Roberta está volando con.,3.0
+openai/gpt-4.1-2025-04-14,109,2,United es la compañía que Roberta está volando con.,3.0
+openai/gpt-4.1-2025-04-14,109,3,United es la compañía que Roberta está volando con.,3.0
+openai/gpt-4.1-2025-04-14,110,1,Ese Lamborghini es el coche que Teresa está saliendo de.,3.0
+openai/gpt-4.1-2025-04-14,110,2,Ese Lamborghini es el coche que Teresa está saliendo de.,3.0
+openai/gpt-4.1-2025-04-14,110,3,Ese Lamborghini es el coche que Teresa está saliendo de.,2.0
+openai/gpt-4.1-2025-04-14,111,1,Villa del Carbón es el pueblo que Víctor se está mudando a.,3.0
+openai/gpt-4.1-2025-04-14,111,2,Villa del Carbón es el pueblo que Víctor se está mudando a.,4.0
+openai/gpt-4.1-2025-04-14,111,3,Villa del Carbón es el pueblo que Víctor se está mudando a.,3.0
+openai/gpt-4.1-2025-04-14,112,1,Con qué hombre está bailando Araceli?,6.0
+openai/gpt-4.1-2025-04-14,112,2,Con qué hombre está bailando Araceli?,7.0
+openai/gpt-4.1-2025-04-14,112,3,Con qué hombre está bailando Araceli?,7.0
+openai/gpt-4.1-2025-04-14,113,1,De qué curso se está cansando Candela?,7.0
+openai/gpt-4.1-2025-04-14,113,2,De qué curso se está cansando Candela?,6.0
+openai/gpt-4.1-2025-04-14,113,3,De qué curso se está cansando Candela?,6.0
+openai/gpt-4.1-2025-04-14,114,1,A qué libro está haciendo referencia Diego?,7.0
+openai/gpt-4.1-2025-04-14,114,2,A qué libro está haciendo referencia Diego?,6.0
+openai/gpt-4.1-2025-04-14,114,3,A qué libro está haciendo referencia Diego?,5.0
+openai/gpt-4.1-2025-04-14,115,1,Elisa no sabe con qué amigo Fernando está trabajando.,7.0
+openai/gpt-4.1-2025-04-14,115,2,Elisa no sabe con qué amigo Fernando está trabajando.,7.0
+openai/gpt-4.1-2025-04-14,115,3,Elisa no sabe con qué amigo Fernando está trabajando.,7.0
+openai/gpt-4.1-2025-04-14,116,1,Julieta no sabe de qué avión Leonel está saltando.,4.0
+openai/gpt-4.1-2025-04-14,116,2,Julieta no sabe de qué avión Leonel está saltando.,5.0
+openai/gpt-4.1-2025-04-14,116,3,Julieta no sabe de qué avión Leonel está saltando.,6.0
+openai/gpt-4.1-2025-04-14,117,1,Matías no sabe a qué país Natalia está viajando.,7.0
+openai/gpt-4.1-2025-04-14,117,2,Matías no sabe a qué país Natalia está viajando.,7.0
+openai/gpt-4.1-2025-04-14,117,3,Matías no sabe a qué país Natalia está viajando.,7.0
+openai/gpt-4.1-2025-04-14,118,1,United es la compañía con la que Roberta está volando.,7.0
+openai/gpt-4.1-2025-04-14,118,2,United es la compañía con la que Roberta está volando.,7.0
+openai/gpt-4.1-2025-04-14,118,3,United es la compañía con la que Roberta está volando.,7.0
+openai/gpt-4.1-2025-04-14,119,1,Ese Lamborghini es el coche del que Teresa está saliendo.,2.0
+openai/gpt-4.1-2025-04-14,119,2,Ese Lamborghini es el coche del que Teresa está saliendo.,2.0
+openai/gpt-4.1-2025-04-14,119,3,Ese Lamborghini es el coche del que Teresa está saliendo.,2.0
+openai/gpt-4.1-2025-04-14,120,1,Villa del Carbón es el pueblo al que Víctor se está mudando.,7.0
+openai/gpt-4.1-2025-04-14,120,2,Villa del Carbón es el pueblo al que Víctor se está mudando.,7.0
+openai/gpt-4.1-2025-04-14,120,3,Villa del Carbón es el pueblo al que Víctor se está mudando.,7.0
+openai/gpt-4.1-2025-04-14,121,1,Yo fui a la fiesta con mi amigo.,7.0
+openai/gpt-4.1-2025-04-14,121,2,Yo fui a la fiesta con mi amigo.,7.0
+openai/gpt-4.1-2025-04-14,121,3,Yo fui a la fiesta con mi amigo.,7.0
+openai/gpt-4.1-2025-04-14,122,1,La mujer abrió la puerta con sus llaves.,7.0
+openai/gpt-4.1-2025-04-14,122,2,La mujer abrió la puerta con sus llaves.,7.0
+openai/gpt-4.1-2025-04-14,122,3,La mujer abrió la puerta con sus llaves.,7.0
+openai/gpt-4.1-2025-04-14,123,1,Pedro salío a comer para su cumple.,6.0
+openai/gpt-4.1-2025-04-14,123,2,Pedro salío a comer para su cumple.,5.0
+openai/gpt-4.1-2025-04-14,123,3,Pedro salío a comer para su cumple.,5.0
+openai/gpt-4.1-2025-04-14,124,1,Pedro llegó tarde porque hubo tráfico.,7.0
+openai/gpt-4.1-2025-04-14,124,2,Pedro llegó tarde porque hubo tráfico.,7.0
+openai/gpt-4.1-2025-04-14,124,3,Pedro llegó tarde porque hubo tráfico.,7.0
+openai/gpt-4.1-2025-04-14,125,1,José salió temprano porque se fue al trabajo.,5.0
+openai/gpt-4.1-2025-04-14,125,2,José salió temprano porque se fue al trabajo.,6.0
+openai/gpt-4.1-2025-04-14,125,3,José salió temprano porque se fue al trabajo.,5.0
+openai/gpt-4.1-2025-04-14,126,1,Miguel se cortó el pelo porque estaba muy largo.,7.0
+openai/gpt-4.1-2025-04-14,126,2,Miguel se cortó el pelo porque estaba muy largo.,7.0
+openai/gpt-4.1-2025-04-14,126,3,Miguel se cortó el pelo porque estaba muy largo.,7.0
+openai/gpt-4.1-2025-04-14,127,1,Yo fui a la playa todo el verano.,5.0
+openai/gpt-4.1-2025-04-14,127,2,Yo fui a la playa todo el verano.,6.0
+openai/gpt-4.1-2025-04-14,127,3,Yo fui a la playa todo el verano.,5.0
+openai/gpt-4.1-2025-04-14,128,1,Yo me levanto temprano todos los días de la semana.,7.0
+openai/gpt-4.1-2025-04-14,128,2,Yo me levanto temprano todos los días de la semana.,7.0
+openai/gpt-4.1-2025-04-14,128,3,Yo me levanto temprano todos los días de la semana.,7.0
+openai/gpt-4.1-2025-04-14,129,1,Ella sale a bailar cada fin de semana.,7.0
+openai/gpt-4.1-2025-04-14,129,2,Ella sale a bailar cada fin de semana.,7.0
+openai/gpt-4.1-2025-04-14,129,3,Ella sale a bailar cada fin de semana.,7.0
+openai/gpt-4.1-2025-04-14,130,1,Le llamaba naco todo el tiempo.,5.0
+openai/gpt-4.1-2025-04-14,130,2,Le llamaba naco todo el tiempo.,5.0
+openai/gpt-4.1-2025-04-14,130,3,Le llamaba naco todo el tiempo.,5.0
+openai/gpt-4.1-2025-04-14,131,1,Le llamaba estúpido todo el tiempo.,7.0
+openai/gpt-4.1-2025-04-14,131,2,Le llamaba estúpido todo el tiempo.,7.0
+openai/gpt-4.1-2025-04-14,131,3,Le llamaba estúpido todo el tiempo.,6.0
+openai/gpt-4.1-2025-04-14,132,1,Le llamaba chicano porque era mexicano.,7.0
+openai/gpt-4.1-2025-04-14,132,2,Le llamaba chicano porque era mexicano.,7.0
+openai/gpt-4.1-2025-04-14,132,3,Le llamaba chicano porque era mexicano.,6.0
+openai/gpt-4.1-2025-04-14,133,1,Le llamaba nativo porque era mexicano.,3.0
+openai/gpt-4.1-2025-04-14,133,2,Le llamaba nativo porque era mexicano.,3.0
+openai/gpt-4.1-2025-04-14,133,3,Le llamaba nativo porque era mexicano.,2.0
+openai/gpt-4.1-2025-04-14,134,1,Mi mamá compró nopales para la fiesta.,7.0
+openai/gpt-4.1-2025-04-14,134,2,Mi mamá compró nopales para la fiesta.,7.0
+openai/gpt-4.1-2025-04-14,134,3,Mi mamá compró nopales para la fiesta.,7.0
+openai/gpt-4.1-2025-04-14,135,1,Mi mamá compró fruta para la fiesta.,7.0
+openai/gpt-4.1-2025-04-14,135,2,Mi mamá compró fruta para la fiesta.,7.0
+openai/gpt-4.1-2025-04-14,135,3,Mi mamá compró fruta para la fiesta.,7.0
+openai/gpt-4.1-2025-04-14,136,1,He tenido antojo de champurrado desde la mañana.,7.0
+openai/gpt-4.1-2025-04-14,136,2,He tenido antojo de champurrado desde la mañana.,7.0
+openai/gpt-4.1-2025-04-14,136,3,He tenido antojo de champurrado desde la mañana.,7.0
+openai/gpt-4.1-2025-04-14,137,1,He tenido antojo de café desde la mañana.,6.0
+openai/gpt-4.1-2025-04-14,137,2,He tenido antojo de café desde la mañana.,6.0
+openai/gpt-4.1-2025-04-14,137,3,He tenido antojo de café desde la mañana.,6.0
+openai/gpt-4.1-2025-04-14,138,1,Mi abuela me hizo atole para el desayuno.,7.0
+openai/gpt-4.1-2025-04-14,138,2,Mi abuela me hizo atole para el desayuno.,7.0
+openai/gpt-4.1-2025-04-14,138,3,Mi abuela me hizo atole para el desayuno.,7.0
+openai/gpt-4.1-2025-04-14,139,1,Mi abuela me hizo panqueques para el desayuno.,7.0
+openai/gpt-4.1-2025-04-14,139,2,Mi abuela me hizo panqueques para el desayuno.,7.0
+openai/gpt-4.1-2025-04-14,139,3,Mi abuela me hizo panqueques para el desayuno.,7.0
+openai/gpt-4.1-2025-04-14,140,1,Nos va a servir pozole para la cena mañana.,5.0
+openai/gpt-4.1-2025-04-14,140,2,Nos va a servir pozole para la cena mañana.,5.0
+openai/gpt-4.1-2025-04-14,140,3,Nos va a servir pozole para la cena mañana.,4.0
+openai/gpt-4.1-2025-04-14,141,1,Nos va a servir sopa para la cena mañana.,5.0
+openai/gpt-4.1-2025-04-14,141,2,Nos va a servir sopa para la cena mañana.,4.0
+openai/gpt-4.1-2025-04-14,141,3,Nos va a servir sopa para la cena mañana.,5.0
+openai/gpt-4.1-2025-04-14,142,1,What guy is Ashley dancing with?,6.0
+openai/gpt-4.1-2025-04-14,142,2,What guy is Ashley dancing with?,7.0
+openai/gpt-4.1-2025-04-14,142,3,What guy is Ashley dancing with?,6.0
+openai/gpt-4.1-2025-04-14,143,1,What class is Charlotte getting tired of?,7.0
+openai/gpt-4.1-2025-04-14,143,2,What class is Charlotte getting tired of?,7.0
+openai/gpt-4.1-2025-04-14,143,3,What class is Charlotte getting tired of?,7.0
+openai/gpt-4.1-2025-04-14,144,1,What book is Dylan referring to?,7.0
+openai/gpt-4.1-2025-04-14,144,2,What book is Dylan referring to?,7.0
+openai/gpt-4.1-2025-04-14,144,3,What book is Dylan referring to?,7.0
+openai/gpt-4.1-2025-04-14,145,1,Emily doesn't know what friend Frank is working with.,6.0
+openai/gpt-4.1-2025-04-14,145,2,Emily doesn't know what friend Frank is working with.,6.0
+openai/gpt-4.1-2025-04-14,145,3,Emily doesn't know what friend Frank is working with.,6.0
+openai/gpt-4.1-2025-04-14,146,1,Jessica doesn't know what plane Lance is jumping out of.,7.0
+openai/gpt-4.1-2025-04-14,146,2,Jessica doesn't know what plane Lance is jumping out of.,7.0
+openai/gpt-4.1-2025-04-14,146,3,Jessica doesn't know what plane Lance is jumping out of.,7.0
+openai/gpt-4.1-2025-04-14,147,1,Mason doesn't know what country Nancy is traveling to.,7.0
+openai/gpt-4.1-2025-04-14,147,2,Mason doesn't know what country Nancy is traveling to.,7.0
+openai/gpt-4.1-2025-04-14,147,3,Mason doesn't know what country Nancy is traveling to.,7.0
+openai/gpt-4.1-2025-04-14,148,1,United is the company Ruby is flying with.,5.0
+openai/gpt-4.1-2025-04-14,148,2,United is the company Ruby is flying with.,5.0
+openai/gpt-4.1-2025-04-14,148,3,United is the company Ruby is flying with.,5.0
+openai/gpt-4.1-2025-04-14,149,1,That Lamborghini is the car Tiffany is getting out of.,7.0
+openai/gpt-4.1-2025-04-14,149,2,That Lamborghini is the car Tiffany is getting out of.,7.0
+openai/gpt-4.1-2025-04-14,149,3,That Lamborghini is the car Tiffany is getting out of.,7.0
+openai/gpt-4.1-2025-04-14,150,1,Warrenville is the town Vern is moving to.,7.0
+openai/gpt-4.1-2025-04-14,150,2,Warrenville is the town Vern is moving to.,7.0
+openai/gpt-4.1-2025-04-14,150,3,Warrenville is the town Vern is moving to.,7.0
+openai/gpt-4.1-2025-04-14,151,1,With what guy is Ashley dancing?,3.0
+openai/gpt-4.1-2025-04-14,151,2,With what guy is Ashley dancing?,3.0
+openai/gpt-4.1-2025-04-14,151,3,With what guy is Ashley dancing?,3.0
+openai/gpt-4.1-2025-04-14,152,1,Of what class is Charlotte getting tired?,5.0
+openai/gpt-4.1-2025-04-14,152,2,Of what class is Charlotte getting tired?,3.0
+openai/gpt-4.1-2025-04-14,152,3,Of what class is Charlotte getting tired?,4.0
+openai/gpt-4.1-2025-04-14,153,1,To what book is Dylan referring?,7.0
+openai/gpt-4.1-2025-04-14,153,2,To what book is Dylan referring?,7.0
+openai/gpt-4.1-2025-04-14,153,3,To what book is Dylan referring?,7.0
+openai/gpt-4.1-2025-04-14,154,1,Emily doesn't know with what friend Frank is working.,4.0
+openai/gpt-4.1-2025-04-14,154,2,Emily doesn't know with what friend Frank is working.,4.0
+openai/gpt-4.1-2025-04-14,154,3,Emily doesn't know with what friend Frank is working.,4.0
+openai/gpt-4.1-2025-04-14,155,1,Jessica doesn't know of what plane Lance is jumping out.,3.0
+openai/gpt-4.1-2025-04-14,155,2,Jessica doesn't know of what plane Lance is jumping out.,3.0
+openai/gpt-4.1-2025-04-14,155,3,Jessica doesn't know of what plane Lance is jumping out.,3.0
+openai/gpt-4.1-2025-04-14,156,1,Mason doesn't know to what country Nancy is traveling.,6.0
+openai/gpt-4.1-2025-04-14,156,2,Mason doesn't know to what country Nancy is traveling.,5.0
+openai/gpt-4.1-2025-04-14,156,3,Mason doesn't know to what country Nancy is traveling.,7.0
+openai/gpt-4.1-2025-04-14,157,1,United is the company with which Ruby is flying.,6.0
+openai/gpt-4.1-2025-04-14,157,2,United is the company with which Ruby is flying.,5.0
+openai/gpt-4.1-2025-04-14,157,3,United is the company with which Ruby is flying.,6.0
+openai/gpt-4.1-2025-04-14,158,1,That Lamborghini is the car of which Tiffany is getting out.,3.0
+openai/gpt-4.1-2025-04-14,158,2,That Lamborghini is the car of which Tiffany is getting out.,3.0
+openai/gpt-4.1-2025-04-14,158,3,That Lamborghini is the car of which Tiffany is getting out.,4.0
+openai/gpt-4.1-2025-04-14,159,1,Warrenville is the town to which Vern is moving.,7.0
+openai/gpt-4.1-2025-04-14,159,2,Warrenville is the town to which Vern is moving.,7.0
+openai/gpt-4.1-2025-04-14,159,3,Warrenville is the town to which Vern is moving.,7.0
+openai/gpt-4.1-2025-04-14,160,1,I went to the party with my friend.,7.0
+openai/gpt-4.1-2025-04-14,160,2,I went to the party with my friend.,7.0
+openai/gpt-4.1-2025-04-14,160,3,I went to the party with my friend.,7.0
+openai/gpt-4.1-2025-04-14,161,1,The woman opened the door with her keys.,7.0
+openai/gpt-4.1-2025-04-14,161,2,The woman opened the door with her keys.,7.0
+openai/gpt-4.1-2025-04-14,161,3,The woman opened the door with her keys.,7.0
+openai/gpt-4.1-2025-04-14,162,1,Peter went out to eat for his birthday.,7.0
+openai/gpt-4.1-2025-04-14,162,2,Peter went out to eat for his birthday.,7.0
+openai/gpt-4.1-2025-04-14,162,3,Peter went out to eat for his birthday.,7.0
+openai/gpt-4.1-2025-04-14,163,1,Peter arrived late because of traffic.,7.0
+openai/gpt-4.1-2025-04-14,163,2,Peter arrived late because of traffic.,7.0
+openai/gpt-4.1-2025-04-14,163,3,Peter arrived late because of traffic.,7.0
+openai/gpt-4.1-2025-04-14,164,1,Joey left early because he went to work.,6.0
+openai/gpt-4.1-2025-04-14,164,2,Joey left early because he went to work.,6.0
+openai/gpt-4.1-2025-04-14,164,3,Joey left early because he went to work.,7.0
+openai/gpt-4.1-2025-04-14,165,1,Michael cut his hair because it was too long.,7.0
+openai/gpt-4.1-2025-04-14,165,2,Michael cut his hair because it was too long.,7.0
+openai/gpt-4.1-2025-04-14,165,3,Michael cut his hair because it was too long.,7.0
+openai/gpt-4.1-2025-04-14,166,1,I went to the beach all summer long.,7.0
+openai/gpt-4.1-2025-04-14,166,2,I went to the beach all summer long.,7.0
+openai/gpt-4.1-2025-04-14,166,3,I went to the beach all summer long.,7.0
+openai/gpt-4.1-2025-04-14,167,1,I get up early every day of the week.,7.0
+openai/gpt-4.1-2025-04-14,167,2,I get up early every day of the week.,7.0
+openai/gpt-4.1-2025-04-14,167,3,I get up early every day of the week.,7.0
+openai/gpt-4.1-2025-04-14,168,1,She goes out dancing every weekend.,7.0
+openai/gpt-4.1-2025-04-14,168,2,She goes out dancing every weekend.,7.0
+openai/gpt-4.1-2025-04-14,168,3,She goes out dancing every weekend.,7.0
+openai/gpt-4.1-2025-04-14,169,1,He was called boneheaded all the time.,7.0
+openai/gpt-4.1-2025-04-14,169,2,He was called boneheaded all the time.,6.0
+openai/gpt-4.1-2025-04-14,169,3,He was called boneheaded all the time.,6.0
+openai/gpt-4.1-2025-04-14,170,1,He was called stupid all the time.,6.0
+openai/gpt-4.1-2025-04-14,170,2,He was called stupid all the time.,7.0
+openai/gpt-4.1-2025-04-14,170,3,He was called stupid all the time.,7.0
+openai/gpt-4.1-2025-04-14,171,1,He was called snooty because he was from the US.,5.0
+openai/gpt-4.1-2025-04-14,171,2,He was called snooty because he was from the US.,5.0
+openai/gpt-4.1-2025-04-14,171,3,He was called snooty because he was from the US.,5.0
+openai/gpt-4.1-2025-04-14,172,1,He was called native because he was from the US.,5.0
+openai/gpt-4.1-2025-04-14,172,2,He was called native because he was from the US.,5.0
+openai/gpt-4.1-2025-04-14,172,3,He was called native because he was from the US.,4.0
+openai/gpt-4.1-2025-04-14,173,1,My mom bought crackers for the party.,7.0
+openai/gpt-4.1-2025-04-14,173,2,My mom bought crackers for the party.,7.0
+openai/gpt-4.1-2025-04-14,173,3,My mom bought crackers for the party.,7.0
+openai/gpt-4.1-2025-04-14,174,1,My mom bought fruit for the party.,7.0
+openai/gpt-4.1-2025-04-14,174,2,My mom bought fruit for the party.,7.0
+openai/gpt-4.1-2025-04-14,174,3,My mom bought fruit for the party.,7.0
+openai/gpt-4.1-2025-04-14,175,1,I have been craving seltzer since this morning.,7.0
+openai/gpt-4.1-2025-04-14,175,2,I have been craving seltzer since this morning.,7.0
+openai/gpt-4.1-2025-04-14,175,3,I have been craving seltzer since this morning.,7.0
+openai/gpt-4.1-2025-04-14,176,1,I have been craving coffee since this morning.,7.0
+openai/gpt-4.1-2025-04-14,176,2,I have been craving coffee since this morning.,7.0
+openai/gpt-4.1-2025-04-14,176,3,I have been craving coffee since this morning.,7.0
+openai/gpt-4.1-2025-04-14,177,1,My grandma made me biscuits for breakfast.,7.0
+openai/gpt-4.1-2025-04-14,177,2,My grandma made me biscuits for breakfast.,7.0
+openai/gpt-4.1-2025-04-14,177,3,My grandma made me biscuits for breakfast.,7.0
+openai/gpt-4.1-2025-04-14,178,1,My grandma made me pancakes for breakfast.,7.0
+openai/gpt-4.1-2025-04-14,178,2,My grandma made me pancakes for breakfast.,7.0
+openai/gpt-4.1-2025-04-14,178,3,My grandma made me pancakes for breakfast.,7.0
+openai/gpt-4.1-2025-04-14,179,1,He is going to serve us clam chowder for dinner tomorrow.,7.0
+openai/gpt-4.1-2025-04-14,179,2,He is going to serve us clam chowder for dinner tomorrow.,7.0
+openai/gpt-4.1-2025-04-14,179,3,He is going to serve us clam chowder for dinner tomorrow.,7.0
+openai/gpt-4.1-2025-04-14,180,1,He is going to serve us soup for dinner tomorrow.,7.0
+openai/gpt-4.1-2025-04-14,180,2,He is going to serve us soup for dinner tomorrow.,7.0
+openai/gpt-4.1-2025-04-14,180,3,He is going to serve us soup for dinner tomorrow.,7.0
+openai/gpt-4o-mini,79,1,He was called naco todo el tiempo.,5.0
+openai/gpt-4o-mini,79,2,He was called naco todo el tiempo.,5.0
+openai/gpt-4o-mini,79,3,He was called naco todo el tiempo.,5.0
+openai/gpt-4o-mini,80,1,He was called estúpido todo el tiempo.,5.0
+openai/gpt-4o-mini,80,2,He was called estúpido todo el tiempo.,5.0
+openai/gpt-4o-mini,80,3,He was called estúpido todo el tiempo.,5.0
+openai/gpt-4o-mini,81,1,Le llamaba boneheaded all the time.,5.0
+openai/gpt-4o-mini,81,2,Le llamaba boneheaded all the time.,5.0
+openai/gpt-4o-mini,81,3,Le llamaba boneheaded all the time.,5.0
+openai/gpt-4o-mini,82,1,Le llamaba stupid all the time.,5.0
+openai/gpt-4o-mini,82,2,Le llamaba stupid all the time.,5.0
+openai/gpt-4o-mini,82,3,Le llamaba stupid all the time.,5.0
+openai/gpt-4o-mini,83,1,He was called chicano porque era mexicano.,5.0
+openai/gpt-4o-mini,83,2,He was called chicano porque era mexicano.,5.0
+openai/gpt-4o-mini,83,3,He was called chicano porque era mexicano.,5.0
+openai/gpt-4o-mini,84,1,He was called nativo porque era mexicano.,5.0
+openai/gpt-4o-mini,84,2,He was called nativo porque era mexicano.,5.0
+openai/gpt-4o-mini,84,3,He was called nativo porque era mexicano.,5.0
+openai/gpt-4o-mini,85,1,Le llamaba snooty because he was from the US.,5.0
+openai/gpt-4o-mini,85,2,Le llamaba snooty because he was from the US.,5.0
+openai/gpt-4o-mini,85,3,Le llamaba snooty because he was from the US.,5.0
+openai/gpt-4o-mini,86,1,Le llamaba native because he was from the US.,5.0
+openai/gpt-4o-mini,86,2,Le llamaba native because he was from the US.,5.0
+openai/gpt-4o-mini,86,3,Le llamaba native because he was from the US.,5.0
+openai/gpt-4o-mini,87,1,My mom bought nopales para la fiesta.,5.0
+openai/gpt-4o-mini,87,2,My mom bought nopales para la fiesta.,5.0
+openai/gpt-4o-mini,87,3,My mom bought nopales para la fiesta.,5.0
+openai/gpt-4o-mini,88,1,My mom bought fruta para la fiesta.,5.0
+openai/gpt-4o-mini,88,2,My mom bought fruta para la fiesta.,5.0
+openai/gpt-4o-mini,88,3,My mom bought fruta para la fiesta.,5.0
+openai/gpt-4o-mini,89,1,Mi mamá compró crackers for the party.,5.0
+openai/gpt-4o-mini,89,2,Mi mamá compró crackers for the party.,6.0
+openai/gpt-4o-mini,89,3,Mi mamá compró crackers for the party.,5.0
+openai/gpt-4o-mini,90,1,Mi mamá compró fruit for the party.,5.0
+openai/gpt-4o-mini,90,2,Mi mamá compró fruit for the party.,5.0
+openai/gpt-4o-mini,90,3,Mi mamá compró fruit for the party.,5.0
+openai/gpt-4o-mini,91,1,I have been craving champurrado desde la mañana.,5.0
+openai/gpt-4o-mini,91,2,I have been craving champurrado desde la mañana.,5.0
+openai/gpt-4o-mini,91,3,I have been craving champurrado desde la mañana.,5.0
+openai/gpt-4o-mini,92,1,I have been craving café desde la mañana.,5.0
+openai/gpt-4o-mini,92,2,I have been craving café desde la mañana.,5.0
+openai/gpt-4o-mini,92,3,I have been craving café desde la mañana.,5.0
+openai/gpt-4o-mini,93,1,He tenido antojo de seltzer since this morning.,5.0
+openai/gpt-4o-mini,93,2,He tenido antojo de seltzer since this morning.,5.0
+openai/gpt-4o-mini,93,3,He tenido antojo de seltzer since this morning.,5.0
+openai/gpt-4o-mini,94,1,He tenido antojo de coffee since this morning.,5.0
+openai/gpt-4o-mini,94,2,He tenido antojo de coffee since this morning.,5.0
+openai/gpt-4o-mini,94,3,He tenido antojo de coffee since this morning.,5.0
+openai/gpt-4o-mini,95,1,My grandma made me atole para el desayuno.,5.0
+openai/gpt-4o-mini,95,2,My grandma made me atole para el desayuno.,5.0
+openai/gpt-4o-mini,95,3,My grandma made me atole para el desayuno.,5.0
+openai/gpt-4o-mini,96,1,My grandma made me panqueques para el desayuno.,5.0
+openai/gpt-4o-mini,96,2,My grandma made me panqueques para el desayuno.,5.0
+openai/gpt-4o-mini,96,3,My grandma made me panqueques para el desayuno.,5.0
+openai/gpt-4o-mini,97,1,Mi abuela me hizo biscuits for breakfast.,5.0
+openai/gpt-4o-mini,97,2,Mi abuela me hizo biscuits for breakfast.,5.0
+openai/gpt-4o-mini,97,3,Mi abuela me hizo biscuits for breakfast.,5.0
+openai/gpt-4o-mini,98,1,Mi abuela me hizo pancakes for breakfast.,5.0
+openai/gpt-4o-mini,98,2,Mi abuela me hizo pancakes for breakfast.,5.0
+openai/gpt-4o-mini,98,3,Mi abuela me hizo pancakes for breakfast.,5.0
+openai/gpt-4o-mini,99,1,He is going to serve us pozole para la cena mañana.,5.0
+openai/gpt-4o-mini,99,2,He is going to serve us pozole para la cena mañana.,5.0
+openai/gpt-4o-mini,99,3,He is going to serve us pozole para la cena mañana.,5.0
+openai/gpt-4o-mini,100,1,He is going to serve us sopa para la cena mañana.,5.0
+openai/gpt-4o-mini,100,2,He is going to serve us sopa para la cena mañana.,5.0
+openai/gpt-4o-mini,100,3,He is going to serve us sopa para la cena mañana.,5.0
+openai/gpt-4o-mini,101,1,Nos va a servir clam chowder for dinner tomorrow.,5.0
+openai/gpt-4o-mini,101,2,Nos va a servir clam chowder for dinner tomorrow.,5.0
+openai/gpt-4o-mini,101,3,Nos va a servir clam chowder for dinner tomorrow.,5.0
+openai/gpt-4o-mini,102,1,Nos va a servir soup for dinner tomorrow.,5.0
+openai/gpt-4o-mini,102,2,Nos va a servir soup for dinner tomorrow.,5.0
+openai/gpt-4o-mini,102,3,Nos va a servir soup for dinner tomorrow.,5.0
+openai/gpt-4o-mini,103,1,Qué hombre está bailando Araceli con?,4.0
+openai/gpt-4o-mini,103,2,Qué hombre está bailando Araceli con?,5.0
+openai/gpt-4o-mini,103,3,Qué hombre está bailando Araceli con?,5.0
+openai/gpt-4o-mini,104,1,Qué curso se está cansando Candela de?,5.0
+openai/gpt-4o-mini,104,2,Qué curso se está cansando Candela de?,5.0
+openai/gpt-4o-mini,104,3,Qué curso se está cansando Candela de?,5.0
+openai/gpt-4o-mini,105,1,Qué libro está haciendo referencia Diego a?,5.0
+openai/gpt-4o-mini,105,2,Qué libro está haciendo referencia Diego a?,5.0
+openai/gpt-4o-mini,105,3,Qué libro está haciendo referencia Diego a?,5.0
+openai/gpt-4o-mini,106,1,Elisa no sabe qué amigo Fernando está trabajando con.,4.0
+openai/gpt-4o-mini,106,2,Elisa no sabe qué amigo Fernando está trabajando con.,5.0
+openai/gpt-4o-mini,106,3,Elisa no sabe qué amigo Fernando está trabajando con.,4.0
+openai/gpt-4o-mini,107,1,Julieta no sabe qué avión Leonel está saltando de.,5.0
+openai/gpt-4o-mini,107,2,Julieta no sabe qué avión Leonel está saltando de.,5.0
+openai/gpt-4o-mini,107,3,Julieta no sabe qué avión Leonel está saltando de.,5.0
+openai/gpt-4o-mini,108,1,Matías no sabe qué país Natalia está viajando a.,5.0
+openai/gpt-4o-mini,108,2,Matías no sabe qué país Natalia está viajando a.,5.0
+openai/gpt-4o-mini,108,3,Matías no sabe qué país Natalia está viajando a.,5.0
+openai/gpt-4o-mini,109,1,United es la compañía que Roberta está volando con.,5.0
+openai/gpt-4o-mini,109,2,United es la compañía que Roberta está volando con.,5.0
+openai/gpt-4o-mini,109,3,United es la compañía que Roberta está volando con.,5.0
+openai/gpt-4o-mini,110,1,Ese Lamborghini es el coche que Teresa está saliendo de.,5.0
+openai/gpt-4o-mini,110,2,Ese Lamborghini es el coche que Teresa está saliendo de.,5.0
+openai/gpt-4o-mini,110,3,Ese Lamborghini es el coche que Teresa está saliendo de.,4.0
+openai/gpt-4o-mini,111,1,Villa del Carbón es el pueblo que Víctor se está mudando a.,5.0
+openai/gpt-4o-mini,111,2,Villa del Carbón es el pueblo que Víctor se está mudando a.,5.0
+openai/gpt-4o-mini,111,3,Villa del Carbón es el pueblo que Víctor se está mudando a.,5.0
+openai/gpt-4o-mini,112,1,Con qué hombre está bailando Araceli?,5.0
+openai/gpt-4o-mini,112,2,Con qué hombre está bailando Araceli?,6.0
+openai/gpt-4o-mini,112,3,Con qué hombre está bailando Araceli?,6.0
+openai/gpt-4o-mini,113,1,De qué curso se está cansando Candela?,5.0
+openai/gpt-4o-mini,113,2,De qué curso se está cansando Candela?,5.0
+openai/gpt-4o-mini,113,3,De qué curso se está cansando Candela?,5.0
+openai/gpt-4o-mini,114,1,A qué libro está haciendo referencia Diego?,5.0
+openai/gpt-4o-mini,114,2,A qué libro está haciendo referencia Diego?,5.0
+openai/gpt-4o-mini,114,3,A qué libro está haciendo referencia Diego?,5.0
+openai/gpt-4o-mini,115,1,Elisa no sabe con qué amigo Fernando está trabajando.,5.0
+openai/gpt-4o-mini,115,2,Elisa no sabe con qué amigo Fernando está trabajando.,5.0
+openai/gpt-4o-mini,115,3,Elisa no sabe con qué amigo Fernando está trabajando.,5.0
+openai/gpt-4o-mini,116,1,Julieta no sabe de qué avión Leonel está saltando.,5.0
+openai/gpt-4o-mini,116,2,Julieta no sabe de qué avión Leonel está saltando.,5.0
+openai/gpt-4o-mini,116,3,Julieta no sabe de qué avión Leonel está saltando.,5.0
+openai/gpt-4o-mini,117,1,Matías no sabe a qué país Natalia está viajando.,5.0
+openai/gpt-4o-mini,117,2,Matías no sabe a qué país Natalia está viajando.,5.0
+openai/gpt-4o-mini,117,3,Matías no sabe a qué país Natalia está viajando.,5.0
+openai/gpt-4o-mini,118,1,United es la compañía con la que Roberta está volando.,5.0
+openai/gpt-4o-mini,118,2,United es la compañía con la que Roberta está volando.,6.0
+openai/gpt-4o-mini,118,3,United es la compañía con la que Roberta está volando.,5.0
+openai/gpt-4o-mini,119,1,Ese Lamborghini es el coche del que Teresa está saliendo.,5.0
+openai/gpt-4o-mini,119,2,Ese Lamborghini es el coche del que Teresa está saliendo.,5.0
+openai/gpt-4o-mini,119,3,Ese Lamborghini es el coche del que Teresa está saliendo.,5.0
+openai/gpt-4o-mini,120,1,Villa del Carbón es el pueblo al que Víctor se está mudando.,6.0
+openai/gpt-4o-mini,120,2,Villa del Carbón es el pueblo al que Víctor se está mudando.,6.0
+openai/gpt-4o-mini,120,3,Villa del Carbón es el pueblo al que Víctor se está mudando.,7.0
+openai/gpt-4o-mini,121,1,Yo fui a la fiesta con mi amigo.,7.0
+openai/gpt-4o-mini,121,2,Yo fui a la fiesta con mi amigo.,7.0
+openai/gpt-4o-mini,121,3,Yo fui a la fiesta con mi amigo.,7.0
+openai/gpt-4o-mini,122,1,La mujer abrió la puerta con sus llaves.,7.0
+openai/gpt-4o-mini,122,2,La mujer abrió la puerta con sus llaves.,7.0
+openai/gpt-4o-mini,122,3,La mujer abrió la puerta con sus llaves.,7.0
+openai/gpt-4o-mini,123,1,Pedro salío a comer para su cumple.,5.0
+openai/gpt-4o-mini,123,2,Pedro salío a comer para su cumple.,5.0
+openai/gpt-4o-mini,123,3,Pedro salío a comer para su cumple.,5.0
+openai/gpt-4o-mini,124,1,Pedro llegó tarde porque hubo tráfico.,7.0
+openai/gpt-4o-mini,124,2,Pedro llegó tarde porque hubo tráfico.,7.0
+openai/gpt-4o-mini,124,3,Pedro llegó tarde porque hubo tráfico.,7.0
+openai/gpt-4o-mini,125,1,José salió temprano porque se fue al trabajo.,7.0
+openai/gpt-4o-mini,125,2,José salió temprano porque se fue al trabajo.,6.0
+openai/gpt-4o-mini,125,3,José salió temprano porque se fue al trabajo.,7.0
+openai/gpt-4o-mini,126,1,Miguel se cortó el pelo porque estaba muy largo.,7.0
+openai/gpt-4o-mini,126,2,Miguel se cortó el pelo porque estaba muy largo.,6.0
+openai/gpt-4o-mini,126,3,Miguel se cortó el pelo porque estaba muy largo.,6.0
+openai/gpt-4o-mini,127,1,Yo fui a la playa todo el verano.,7.0
+openai/gpt-4o-mini,127,2,Yo fui a la playa todo el verano.,6.0
+openai/gpt-4o-mini,127,3,Yo fui a la playa todo el verano.,7.0
+openai/gpt-4o-mini,128,1,Yo me levanto temprano todos los días de la semana.,7.0
+openai/gpt-4o-mini,128,2,Yo me levanto temprano todos los días de la semana.,7.0
+openai/gpt-4o-mini,128,3,Yo me levanto temprano todos los días de la semana.,7.0
+openai/gpt-4o-mini,129,1,Ella sale a bailar cada fin de semana.,7.0
+openai/gpt-4o-mini,129,2,Ella sale a bailar cada fin de semana.,7.0
+openai/gpt-4o-mini,129,3,Ella sale a bailar cada fin de semana.,6.0
+openai/gpt-4o-mini,130,1,Le llamaba naco todo el tiempo.,5.0
+openai/gpt-4o-mini,130,2,Le llamaba naco todo el tiempo.,5.0
+openai/gpt-4o-mini,130,3,Le llamaba naco todo el tiempo.,5.0
+openai/gpt-4o-mini,131,1,Le llamaba estúpido todo el tiempo.,5.0
+openai/gpt-4o-mini,131,2,Le llamaba estúpido todo el tiempo.,5.0
+openai/gpt-4o-mini,131,3,Le llamaba estúpido todo el tiempo.,5.0
+openai/gpt-4o-mini,132,1,Le llamaba chicano porque era mexicano.,5.0
+openai/gpt-4o-mini,132,2,Le llamaba chicano porque era mexicano.,5.0
+openai/gpt-4o-mini,132,3,Le llamaba chicano porque era mexicano.,5.0
+openai/gpt-4o-mini,133,1,Le llamaba nativo porque era mexicano.,5.0
+openai/gpt-4o-mini,133,2,Le llamaba nativo porque era mexicano.,5.0
+openai/gpt-4o-mini,133,3,Le llamaba nativo porque era mexicano.,5.0
+openai/gpt-4o-mini,134,1,Mi mamá compró nopales para la fiesta.,7.0
+openai/gpt-4o-mini,134,2,Mi mamá compró nopales para la fiesta.,7.0
+openai/gpt-4o-mini,134,3,Mi mamá compró nopales para la fiesta.,7.0
+openai/gpt-4o-mini,135,1,Mi mamá compró fruta para la fiesta.,7.0
+openai/gpt-4o-mini,135,2,Mi mamá compró fruta para la fiesta.,7.0
+openai/gpt-4o-mini,135,3,Mi mamá compró fruta para la fiesta.,7.0
+openai/gpt-4o-mini,136,1,He tenido antojo de champurrado desde la mañana.,6.0
+openai/gpt-4o-mini,136,2,He tenido antojo de champurrado desde la mañana.,6.0
+openai/gpt-4o-mini,136,3,He tenido antojo de champurrado desde la mañana.,6.0
+openai/gpt-4o-mini,137,1,He tenido antojo de café desde la mañana.,5.0
+openai/gpt-4o-mini,137,2,He tenido antojo de café desde la mañana.,5.0
+openai/gpt-4o-mini,137,3,He tenido antojo de café desde la mañana.,6.0
+openai/gpt-4o-mini,138,1,Mi abuela me hizo atole para el desayuno.,7.0
+openai/gpt-4o-mini,138,2,Mi abuela me hizo atole para el desayuno.,6.0
+openai/gpt-4o-mini,138,3,Mi abuela me hizo atole para el desayuno.,7.0
+openai/gpt-4o-mini,139,1,Mi abuela me hizo panqueques para el desayuno.,7.0
+openai/gpt-4o-mini,139,2,Mi abuela me hizo panqueques para el desayuno.,7.0
+openai/gpt-4o-mini,139,3,Mi abuela me hizo panqueques para el desayuno.,7.0
+openai/gpt-4o-mini,140,1,Nos va a servir pozole para la cena mañana.,5.0
+openai/gpt-4o-mini,140,2,Nos va a servir pozole para la cena mañana.,5.0
+openai/gpt-4o-mini,140,3,Nos va a servir pozole para la cena mañana.,5.0
+openai/gpt-4o-mini,141,1,Nos va a servir sopa para la cena mañana.,5.0
+openai/gpt-4o-mini,141,2,Nos va a servir sopa para la cena mañana.,5.0
+openai/gpt-4o-mini,141,3,Nos va a servir sopa para la cena mañana.,5.0
+openai/gpt-4o-mini,142,1,What guy is Ashley dancing with?,5.0
+openai/gpt-4o-mini,142,2,What guy is Ashley dancing with?,5.0
+openai/gpt-4o-mini,142,3,What guy is Ashley dancing with?,5.0
+openai/gpt-4o-mini,143,1,What class is Charlotte getting tired of?,5.0
+openai/gpt-4o-mini,143,2,What class is Charlotte getting tired of?,5.0
+openai/gpt-4o-mini,143,3,What class is Charlotte getting tired of?,5.0
+openai/gpt-4o-mini,144,1,What book is Dylan referring to?,6.0
+openai/gpt-4o-mini,144,2,What book is Dylan referring to?,7.0
+openai/gpt-4o-mini,144,3,What book is Dylan referring to?,7.0
+openai/gpt-4o-mini,145,1,Emily doesn't know what friend Frank is working with.,5.0
+openai/gpt-4o-mini,145,2,Emily doesn't know what friend Frank is working with.,5.0
+openai/gpt-4o-mini,145,3,Emily doesn't know what friend Frank is working with.,5.0
+openai/gpt-4o-mini,146,1,Jessica doesn't know what plane Lance is jumping out of.,5.0
+openai/gpt-4o-mini,146,2,Jessica doesn't know what plane Lance is jumping out of.,5.0
+openai/gpt-4o-mini,146,3,Jessica doesn't know what plane Lance is jumping out of.,5.0
+openai/gpt-4o-mini,147,1,Mason doesn't know what country Nancy is traveling to.,5.0
+openai/gpt-4o-mini,147,2,Mason doesn't know what country Nancy is traveling to.,6.0
+openai/gpt-4o-mini,147,3,Mason doesn't know what country Nancy is traveling to.,5.0
+openai/gpt-4o-mini,148,1,United is the company Ruby is flying with.,5.0
+openai/gpt-4o-mini,148,2,United is the company Ruby is flying with.,5.0
+openai/gpt-4o-mini,148,3,United is the company Ruby is flying with.,5.0
+openai/gpt-4o-mini,149,1,That Lamborghini is the car Tiffany is getting out of.,5.0
+openai/gpt-4o-mini,149,2,That Lamborghini is the car Tiffany is getting out of.,5.0
+openai/gpt-4o-mini,149,3,That Lamborghini is the car Tiffany is getting out of.,5.0
+openai/gpt-4o-mini,150,1,Warrenville is the town Vern is moving to.,6.0
+openai/gpt-4o-mini,150,2,Warrenville is the town Vern is moving to.,5.0
+openai/gpt-4o-mini,150,3,Warrenville is the town Vern is moving to.,5.0
+openai/gpt-4o-mini,151,1,With what guy is Ashley dancing?,5.0
+openai/gpt-4o-mini,151,2,With what guy is Ashley dancing?,5.0
+openai/gpt-4o-mini,151,3,With what guy is Ashley dancing?,5.0
+openai/gpt-4o-mini,152,1,Of what class is Charlotte getting tired?,5.0
+openai/gpt-4o-mini,152,2,Of what class is Charlotte getting tired?,5.0
+openai/gpt-4o-mini,152,3,Of what class is Charlotte getting tired?,5.0
+openai/gpt-4o-mini,153,1,To what book is Dylan referring?,5.0
+openai/gpt-4o-mini,153,2,To what book is Dylan referring?,5.0
+openai/gpt-4o-mini,153,3,To what book is Dylan referring?,5.0
+openai/gpt-4o-mini,154,1,Emily doesn't know with what friend Frank is working.,5.0
+openai/gpt-4o-mini,154,2,Emily doesn't know with what friend Frank is working.,5.0
+openai/gpt-4o-mini,154,3,Emily doesn't know with what friend Frank is working.,5.0
+openai/gpt-4o-mini,155,1,Jessica doesn't know of what plane Lance is jumping out.,5.0
+openai/gpt-4o-mini,155,2,Jessica doesn't know of what plane Lance is jumping out.,5.0
+openai/gpt-4o-mini,155,3,Jessica doesn't know of what plane Lance is jumping out.,5.0
+openai/gpt-4o-mini,156,1,Mason doesn't know to what country Nancy is traveling.,5.0
+openai/gpt-4o-mini,156,2,Mason doesn't know to what country Nancy is traveling.,5.0
+openai/gpt-4o-mini,156,3,Mason doesn't know to what country Nancy is traveling.,5.0
+openai/gpt-4o-mini,157,1,United is the company with which Ruby is flying.,5.0
+openai/gpt-4o-mini,157,2,United is the company with which Ruby is flying.,5.0
+openai/gpt-4o-mini,157,3,United is the company with which Ruby is flying.,5.0
+openai/gpt-4o-mini,158,1,That Lamborghini is the car of which Tiffany is getting out.,5.0
+openai/gpt-4o-mini,158,2,That Lamborghini is the car of which Tiffany is getting out.,5.0
+openai/gpt-4o-mini,158,3,That Lamborghini is the car of which Tiffany is getting out.,5.0
+openai/gpt-4o-mini,159,1,Warrenville is the town to which Vern is moving.,5.0
+openai/gpt-4o-mini,159,2,Warrenville is the town to which Vern is moving.,6.0
+openai/gpt-4o-mini,159,3,Warrenville is the town to which Vern is moving.,7.0
+openai/gpt-4o-mini,160,1,I went to the party with my friend.,7.0
+openai/gpt-4o-mini,160,2,I went to the party with my friend.,7.0
+openai/gpt-4o-mini,160,3,I went to the party with my friend.,7.0
+openai/gpt-4o-mini,161,1,The woman opened the door with her keys.,7.0
+openai/gpt-4o-mini,161,2,The woman opened the door with her keys.,7.0
+openai/gpt-4o-mini,161,3,The woman opened the door with her keys.,7.0
+openai/gpt-4o-mini,162,1,Peter went out to eat for his birthday.,6.0
+openai/gpt-4o-mini,162,2,Peter went out to eat for his birthday.,6.0
+openai/gpt-4o-mini,162,3,Peter went out to eat for his birthday.,6.0
+openai/gpt-4o-mini,163,1,Peter arrived late because of traffic.,7.0
+openai/gpt-4o-mini,163,2,Peter arrived late because of traffic.,7.0
+openai/gpt-4o-mini,163,3,Peter arrived late because of traffic.,7.0
+openai/gpt-4o-mini,164,1,Joey left early because he went to work.,5.0
+openai/gpt-4o-mini,164,2,Joey left early because he went to work.,5.0
+openai/gpt-4o-mini,164,3,Joey left early because he went to work.,5.0
+openai/gpt-4o-mini,165,1,Michael cut his hair because it was too long.,6.0
+openai/gpt-4o-mini,165,2,Michael cut his hair because it was too long.,7.0
+openai/gpt-4o-mini,165,3,Michael cut his hair because it was too long.,6.0
+openai/gpt-4o-mini,166,1,I went to the beach all summer long.,7.0
+openai/gpt-4o-mini,166,2,I went to the beach all summer long.,7.0
+openai/gpt-4o-mini,166,3,I went to the beach all summer long.,7.0
+openai/gpt-4o-mini,167,1,I get up early every day of the week.,7.0
+openai/gpt-4o-mini,167,2,I get up early every day of the week.,6.0
+openai/gpt-4o-mini,167,3,I get up early every day of the week.,6.0
+openai/gpt-4o-mini,168,1,She goes out dancing every weekend.,6.0
+openai/gpt-4o-mini,168,2,She goes out dancing every weekend.,7.0
+openai/gpt-4o-mini,168,3,She goes out dancing every weekend.,6.0
+openai/gpt-4o-mini,169,1,He was called boneheaded all the time.,5.0
+openai/gpt-4o-mini,169,2,He was called boneheaded all the time.,5.0
+openai/gpt-4o-mini,169,3,He was called boneheaded all the time.,5.0
+openai/gpt-4o-mini,170,1,He was called stupid all the time.,5.0
+openai/gpt-4o-mini,170,2,He was called stupid all the time.,5.0
+openai/gpt-4o-mini,170,3,He was called stupid all the time.,5.0
+openai/gpt-4o-mini,171,1,He was called snooty because he was from the US.,5.0
+openai/gpt-4o-mini,171,2,He was called snooty because he was from the US.,5.0
+openai/gpt-4o-mini,171,3,He was called snooty because he was from the US.,5.0
+openai/gpt-4o-mini,172,1,He was called native because he was from the US.,5.0
+openai/gpt-4o-mini,172,2,He was called native because he was from the US.,5.0
+openai/gpt-4o-mini,172,3,He was called native because he was from the US.,5.0
+openai/gpt-4o-mini,173,1,My mom bought crackers for the party.,6.0
+openai/gpt-4o-mini,173,2,My mom bought crackers for the party.,7.0
+openai/gpt-4o-mini,173,3,My mom bought crackers for the party.,7.0
+openai/gpt-4o-mini,174,1,My mom bought fruit for the party.,7.0
+openai/gpt-4o-mini,174,2,My mom bought fruit for the party.,7.0
+openai/gpt-4o-mini,174,3,My mom bought fruit for the party.,7.0
+openai/gpt-4o-mini,175,1,I have been craving seltzer since this morning.,6.0
+openai/gpt-4o-mini,175,2,I have been craving seltzer since this morning.,5.0
+openai/gpt-4o-mini,175,3,I have been craving seltzer since this morning.,6.0
+openai/gpt-4o-mini,176,1,I have been craving coffee since this morning.,7.0
+openai/gpt-4o-mini,176,2,I have been craving coffee since this morning.,6.0
+openai/gpt-4o-mini,176,3,I have been craving coffee since this morning.,7.0
+openai/gpt-4o-mini,177,1,My grandma made me biscuits for breakfast.,7.0
+openai/gpt-4o-mini,177,2,My grandma made me biscuits for breakfast.,7.0
+openai/gpt-4o-mini,177,3,My grandma made me biscuits for breakfast.,7.0
+openai/gpt-4o-mini,178,1,My grandma made me pancakes for breakfast.,7.0
+openai/gpt-4o-mini,178,2,My grandma made me pancakes for breakfast.,7.0
+openai/gpt-4o-mini,178,3,My grandma made me pancakes for breakfast.,7.0
+openai/gpt-4o-mini,179,1,He is going to serve us clam chowder for dinner tomorrow.,6.0
+openai/gpt-4o-mini,179,2,He is going to serve us clam chowder for dinner tomorrow.,6.0
+openai/gpt-4o-mini,179,3,He is going to serve us clam chowder for dinner tomorrow.,6.0
+openai/gpt-4o-mini,180,1,He is going to serve us soup for dinner tomorrow.,6.0
+openai/gpt-4o-mini,180,2,He is going to serve us soup for dinner tomorrow.,6.0
+openai/gpt-4o-mini,180,3,He is going to serve us soup for dinner tomorrow.,6.0
+openai/o4-mini-2025-04-16,79,1,He was called naco todo el tiempo.,6.0
+openai/o4-mini-2025-04-16,79,2,He was called naco todo el tiempo.,7.0
+openai/o4-mini-2025-04-16,79,3,He was called naco todo el tiempo.,5.0
+openai/o4-mini-2025-04-16,80,1,He was called estúpido todo el tiempo.,3.0
+openai/o4-mini-2025-04-16,80,2,He was called estúpido todo el tiempo.,6.0
+openai/o4-mini-2025-04-16,80,3,He was called estúpido todo el tiempo.,2.0
+openai/o4-mini-2025-04-16,81,1,Le llamaba boneheaded all the time.,3.0
+openai/o4-mini-2025-04-16,81,2,Le llamaba boneheaded all the time.,6.0
+openai/o4-mini-2025-04-16,81,3,Le llamaba boneheaded all the time.,5.0
+openai/o4-mini-2025-04-16,82,1,Le llamaba stupid all the time.,2.0
+openai/o4-mini-2025-04-16,82,2,Le llamaba stupid all the time.,2.0
+openai/o4-mini-2025-04-16,82,3,Le llamaba stupid all the time.,3.0
+openai/o4-mini-2025-04-16,83,1,He was called chicano porque era mexicano.,3.0
+openai/o4-mini-2025-04-16,83,2,He was called chicano porque era mexicano.,3.0
+openai/o4-mini-2025-04-16,83,3,He was called chicano porque era mexicano.,4.0
+openai/o4-mini-2025-04-16,84,1,He was called nativo porque era mexicano.,7.0
+openai/o4-mini-2025-04-16,84,2,He was called nativo porque era mexicano.,5.0
+openai/o4-mini-2025-04-16,84,3,He was called nativo porque era mexicano.,7.0
+openai/o4-mini-2025-04-16,85,1,Le llamaba snooty because he was from the US.,3.0
+openai/o4-mini-2025-04-16,85,2,Le llamaba snooty because he was from the US.,3.0
+openai/o4-mini-2025-04-16,85,3,Le llamaba snooty because he was from the US.,2.0
+openai/o4-mini-2025-04-16,86,1,Le llamaba native because he was from the US.,2.0
+openai/o4-mini-2025-04-16,86,2,Le llamaba native because he was from the US.,2.0
+openai/o4-mini-2025-04-16,86,3,Le llamaba native because he was from the US.,2.0
+openai/o4-mini-2025-04-16,87,1,My mom bought nopales para la fiesta.,7.0
+openai/o4-mini-2025-04-16,87,2,My mom bought nopales para la fiesta.,7.0
+openai/o4-mini-2025-04-16,87,3,My mom bought nopales para la fiesta.,6.0
+openai/o4-mini-2025-04-16,88,1,My mom bought fruta para la fiesta.,6.0
+openai/o4-mini-2025-04-16,88,2,My mom bought fruta para la fiesta.,7.0
+openai/o4-mini-2025-04-16,88,3,My mom bought fruta para la fiesta.,7.0
+openai/o4-mini-2025-04-16,89,1,Mi mamá compró crackers for the party.,4.0
+openai/o4-mini-2025-04-16,89,2,Mi mamá compró crackers for the party.,5.0
+openai/o4-mini-2025-04-16,89,3,Mi mamá compró crackers for the party.,4.0
+openai/o4-mini-2025-04-16,90,1,Mi mamá compró fruit for the party.,5.0
+openai/o4-mini-2025-04-16,90,2,Mi mamá compró fruit for the party.,5.0
+openai/o4-mini-2025-04-16,90,3,Mi mamá compró fruit for the party.,4.0
+openai/o4-mini-2025-04-16,91,1,I have been craving champurrado desde la mañana.,6.0
+openai/o4-mini-2025-04-16,91,2,I have been craving champurrado desde la mañana.,7.0
+openai/o4-mini-2025-04-16,91,3,I have been craving champurrado desde la mañana.,6.0
+openai/o4-mini-2025-04-16,92,1,I have been craving café desde la mañana.,3.0
+openai/o4-mini-2025-04-16,92,2,I have been craving café desde la mañana.,4.0
+openai/o4-mini-2025-04-16,92,3,I have been craving café desde la mañana.,4.0
+openai/o4-mini-2025-04-16,93,1,He tenido antojo de seltzer since this morning.,5.0
+openai/o4-mini-2025-04-16,93,2,He tenido antojo de seltzer since this morning.,6.0
+openai/o4-mini-2025-04-16,93,3,He tenido antojo de seltzer since this morning.,6.0
+openai/o4-mini-2025-04-16,94,1,He tenido antojo de coffee since this morning.,3.0
+openai/o4-mini-2025-04-16,94,2,He tenido antojo de coffee since this morning.,2.0
+openai/o4-mini-2025-04-16,94,3,He tenido antojo de coffee since this morning.,3.0
+openai/o4-mini-2025-04-16,95,1,My grandma made me atole para el desayuno.,7.0
+openai/o4-mini-2025-04-16,95,2,My grandma made me atole para el desayuno.,6.0
+openai/o4-mini-2025-04-16,95,3,My grandma made me atole para el desayuno.,7.0
+openai/o4-mini-2025-04-16,96,1,My grandma made me panqueques para el desayuno.,4.0
+openai/o4-mini-2025-04-16,96,2,My grandma made me panqueques para el desayuno.,7.0
+openai/o4-mini-2025-04-16,96,3,My grandma made me panqueques para el desayuno.,6.0
+openai/o4-mini-2025-04-16,97,1,Mi abuela me hizo biscuits for breakfast.,3.0
+openai/o4-mini-2025-04-16,97,2,Mi abuela me hizo biscuits for breakfast.,5.0
+openai/o4-mini-2025-04-16,97,3,Mi abuela me hizo biscuits for breakfast.,4.0
+openai/o4-mini-2025-04-16,98,1,Mi abuela me hizo pancakes for breakfast.,6.0
+openai/o4-mini-2025-04-16,98,2,Mi abuela me hizo pancakes for breakfast.,3.0
+openai/o4-mini-2025-04-16,98,3,Mi abuela me hizo pancakes for breakfast.,2.0
+openai/o4-mini-2025-04-16,99,1,He is going to serve us pozole para la cena mañana.,5.0
+openai/o4-mini-2025-04-16,99,2,He is going to serve us pozole para la cena mañana.,6.0
+openai/o4-mini-2025-04-16,99,3,He is going to serve us pozole para la cena mañana.,6.0
+openai/o4-mini-2025-04-16,100,1,He is going to serve us sopa para la cena mañana.,4.0
+openai/o4-mini-2025-04-16,100,2,He is going to serve us sopa para la cena mañana.,5.0
+openai/o4-mini-2025-04-16,100,3,He is going to serve us sopa para la cena mañana.,3.0
+openai/o4-mini-2025-04-16,101,1,Nos va a servir clam chowder for dinner tomorrow.,5.0
+openai/o4-mini-2025-04-16,101,2,Nos va a servir clam chowder for dinner tomorrow.,4.0
+openai/o4-mini-2025-04-16,101,3,Nos va a servir clam chowder for dinner tomorrow.,3.0
+openai/o4-mini-2025-04-16,102,1,Nos va a servir soup for dinner tomorrow.,3.0
+openai/o4-mini-2025-04-16,102,2,Nos va a servir soup for dinner tomorrow.,3.0
+openai/o4-mini-2025-04-16,102,3,Nos va a servir soup for dinner tomorrow.,2.0
+openai/o4-mini-2025-04-16,103,1,Qué hombre está bailando Araceli con?,1.0
+openai/o4-mini-2025-04-16,103,2,Qué hombre está bailando Araceli con?,1.0
+openai/o4-mini-2025-04-16,103,3,Qué hombre está bailando Araceli con?,1.0
+openai/o4-mini-2025-04-16,104,1,Qué curso se está cansando Candela de?,1.0
+openai/o4-mini-2025-04-16,104,2,Qué curso se está cansando Candela de?,3.0
+openai/o4-mini-2025-04-16,104,3,Qué curso se está cansando Candela de?,3.0
+openai/o4-mini-2025-04-16,105,1,Qué libro está haciendo referencia Diego a?,2.0
+openai/o4-mini-2025-04-16,105,2,Qué libro está haciendo referencia Diego a?,1.0
+openai/o4-mini-2025-04-16,105,3,Qué libro está haciendo referencia Diego a?,2.0
+openai/o4-mini-2025-04-16,106,1,Elisa no sabe qué amigo Fernando está trabajando con.,2.0
+openai/o4-mini-2025-04-16,106,2,Elisa no sabe qué amigo Fernando está trabajando con.,2.0
+openai/o4-mini-2025-04-16,106,3,Elisa no sabe qué amigo Fernando está trabajando con.,1.0
+openai/o4-mini-2025-04-16,107,1,Julieta no sabe qué avión Leonel está saltando de.,1.0
+openai/o4-mini-2025-04-16,107,2,Julieta no sabe qué avión Leonel está saltando de.,2.0
+openai/o4-mini-2025-04-16,107,3,Julieta no sabe qué avión Leonel está saltando de.,2.0
+openai/o4-mini-2025-04-16,108,1,Matías no sabe qué país Natalia está viajando a.,2.0
+openai/o4-mini-2025-04-16,108,2,Matías no sabe qué país Natalia está viajando a.,1.0
+openai/o4-mini-2025-04-16,108,3,Matías no sabe qué país Natalia está viajando a.,2.0
+openai/o4-mini-2025-04-16,109,1,United es la compañía que Roberta está volando con.,2.0
+openai/o4-mini-2025-04-16,109,2,United es la compañía que Roberta está volando con.,2.0
+openai/o4-mini-2025-04-16,109,3,United es la compañía que Roberta está volando con.,2.0
+openai/o4-mini-2025-04-16,110,1,Ese Lamborghini es el coche que Teresa está saliendo de.,2.0
+openai/o4-mini-2025-04-16,110,2,Ese Lamborghini es el coche que Teresa está saliendo de.,2.0
+openai/o4-mini-2025-04-16,110,3,Ese Lamborghini es el coche que Teresa está saliendo de.,2.0
+openai/o4-mini-2025-04-16,111,1,Villa del Carbón es el pueblo que Víctor se está mudando a.,2.0
+openai/o4-mini-2025-04-16,111,2,Villa del Carbón es el pueblo que Víctor se está mudando a.,3.0
+openai/o4-mini-2025-04-16,111,3,Villa del Carbón es el pueblo que Víctor se está mudando a.,2.0
+openai/o4-mini-2025-04-16,112,1,Con qué hombre está bailando Araceli?,6.0
+openai/o4-mini-2025-04-16,112,2,Con qué hombre está bailando Araceli?,6.0
+openai/o4-mini-2025-04-16,112,3,Con qué hombre está bailando Araceli?,7.0
+openai/o4-mini-2025-04-16,113,1,De qué curso se está cansando Candela?,6.0
+openai/o4-mini-2025-04-16,113,2,De qué curso se está cansando Candela?,7.0
+openai/o4-mini-2025-04-16,113,3,De qué curso se está cansando Candela?,7.0
+openai/o4-mini-2025-04-16,114,1,A qué libro está haciendo referencia Diego?,6.0
+openai/o4-mini-2025-04-16,114,2,A qué libro está haciendo referencia Diego?,7.0
+openai/o4-mini-2025-04-16,114,3,A qué libro está haciendo referencia Diego?,6.0
+openai/o4-mini-2025-04-16,115,1,Elisa no sabe con qué amigo Fernando está trabajando.,7.0
+openai/o4-mini-2025-04-16,115,2,Elisa no sabe con qué amigo Fernando está trabajando.,7.0
+openai/o4-mini-2025-04-16,115,3,Elisa no sabe con qué amigo Fernando está trabajando.,7.0
+openai/o4-mini-2025-04-16,116,1,Julieta no sabe de qué avión Leonel está saltando.,7.0
+openai/o4-mini-2025-04-16,116,2,Julieta no sabe de qué avión Leonel está saltando.,7.0
+openai/o4-mini-2025-04-16,116,3,Julieta no sabe de qué avión Leonel está saltando.,7.0
+openai/o4-mini-2025-04-16,117,1,Matías no sabe a qué país Natalia está viajando.,7.0
+openai/o4-mini-2025-04-16,117,2,Matías no sabe a qué país Natalia está viajando.,7.0
+openai/o4-mini-2025-04-16,117,3,Matías no sabe a qué país Natalia está viajando.,7.0
+openai/o4-mini-2025-04-16,118,1,United es la compañía con la que Roberta está volando.,5.0
+openai/o4-mini-2025-04-16,118,2,United es la compañía con la que Roberta está volando.,6.0
+openai/o4-mini-2025-04-16,118,3,United es la compañía con la que Roberta está volando.,7.0
+openai/o4-mini-2025-04-16,119,1,Ese Lamborghini es el coche del que Teresa está saliendo.,6.0
+openai/o4-mini-2025-04-16,119,2,Ese Lamborghini es el coche del que Teresa está saliendo.,3.0
+openai/o4-mini-2025-04-16,119,3,Ese Lamborghini es el coche del que Teresa está saliendo.,7.0
+openai/o4-mini-2025-04-16,120,1,Villa del Carbón es el pueblo al que Víctor se está mudando.,7.0
+openai/o4-mini-2025-04-16,120,2,Villa del Carbón es el pueblo al que Víctor se está mudando.,7.0
+openai/o4-mini-2025-04-16,120,3,Villa del Carbón es el pueblo al que Víctor se está mudando.,7.0
+openai/o4-mini-2025-04-16,121,1,Yo fui a la fiesta con mi amigo.,7.0
+openai/o4-mini-2025-04-16,121,2,Yo fui a la fiesta con mi amigo.,7.0
+openai/o4-mini-2025-04-16,121,3,Yo fui a la fiesta con mi amigo.,7.0
+openai/o4-mini-2025-04-16,122,1,La mujer abrió la puerta con sus llaves.,7.0
+openai/o4-mini-2025-04-16,122,2,La mujer abrió la puerta con sus llaves.,7.0
+openai/o4-mini-2025-04-16,122,3,La mujer abrió la puerta con sus llaves.,7.0
+openai/o4-mini-2025-04-16,123,1,Pedro salío a comer para su cumple.,5.0
+openai/o4-mini-2025-04-16,123,2,Pedro salío a comer para su cumple.,6.0
+openai/o4-mini-2025-04-16,123,3,Pedro salío a comer para su cumple.,2.0
+openai/o4-mini-2025-04-16,124,1,Pedro llegó tarde porque hubo tráfico.,7.0
+openai/o4-mini-2025-04-16,124,2,Pedro llegó tarde porque hubo tráfico.,7.0
+openai/o4-mini-2025-04-16,124,3,Pedro llegó tarde porque hubo tráfico.,7.0
+openai/o4-mini-2025-04-16,125,1,José salió temprano porque se fue al trabajo.,7.0
+openai/o4-mini-2025-04-16,125,2,José salió temprano porque se fue al trabajo.,4.0
+openai/o4-mini-2025-04-16,125,3,José salió temprano porque se fue al trabajo.,5.0
+openai/o4-mini-2025-04-16,126,1,Miguel se cortó el pelo porque estaba muy largo.,7.0
+openai/o4-mini-2025-04-16,126,2,Miguel se cortó el pelo porque estaba muy largo.,7.0
+openai/o4-mini-2025-04-16,126,3,Miguel se cortó el pelo porque estaba muy largo.,7.0
+openai/o4-mini-2025-04-16,127,1,Yo fui a la playa todo el verano.,5.0
+openai/o4-mini-2025-04-16,127,2,Yo fui a la playa todo el verano.,4.0
+openai/o4-mini-2025-04-16,127,3,Yo fui a la playa todo el verano.,4.0
+openai/o4-mini-2025-04-16,128,1,Yo me levanto temprano todos los días de la semana.,7.0
+openai/o4-mini-2025-04-16,128,2,Yo me levanto temprano todos los días de la semana.,7.0
+openai/o4-mini-2025-04-16,128,3,Yo me levanto temprano todos los días de la semana.,7.0
+openai/o4-mini-2025-04-16,129,1,Ella sale a bailar cada fin de semana.,7.0
+openai/o4-mini-2025-04-16,129,2,Ella sale a bailar cada fin de semana.,7.0
+openai/o4-mini-2025-04-16,129,3,Ella sale a bailar cada fin de semana.,7.0
+openai/o4-mini-2025-04-16,130,1,Le llamaba naco todo el tiempo.,7.0
+openai/o4-mini-2025-04-16,130,2,Le llamaba naco todo el tiempo.,7.0
+openai/o4-mini-2025-04-16,130,3,Le llamaba naco todo el tiempo.,7.0
+openai/o4-mini-2025-04-16,131,1,Le llamaba estúpido todo el tiempo.,7.0
+openai/o4-mini-2025-04-16,131,2,Le llamaba estúpido todo el tiempo.,3.0
+openai/o4-mini-2025-04-16,131,3,Le llamaba estúpido todo el tiempo.,4.0
+openai/o4-mini-2025-04-16,132,1,Le llamaba chicano porque era mexicano.,7.0
+openai/o4-mini-2025-04-16,132,2,Le llamaba chicano porque era mexicano.,7.0
+openai/o4-mini-2025-04-16,132,3,Le llamaba chicano porque era mexicano.,6.0
+openai/o4-mini-2025-04-16,133,1,Le llamaba nativo porque era mexicano.,3.0
+openai/o4-mini-2025-04-16,133,2,Le llamaba nativo porque era mexicano.,7.0
+openai/o4-mini-2025-04-16,133,3,Le llamaba nativo porque era mexicano.,7.0
+openai/o4-mini-2025-04-16,134,1,Mi mamá compró nopales para la fiesta.,7.0
+openai/o4-mini-2025-04-16,134,2,Mi mamá compró nopales para la fiesta.,7.0
+openai/o4-mini-2025-04-16,134,3,Mi mamá compró nopales para la fiesta.,7.0
+openai/o4-mini-2025-04-16,135,1,Mi mamá compró fruta para la fiesta.,7.0
+openai/o4-mini-2025-04-16,135,2,Mi mamá compró fruta para la fiesta.,7.0
+openai/o4-mini-2025-04-16,135,3,Mi mamá compró fruta para la fiesta.,7.0
+openai/o4-mini-2025-04-16,136,1,He tenido antojo de champurrado desde la mañana.,7.0
+openai/o4-mini-2025-04-16,136,2,He tenido antojo de champurrado desde la mañana.,7.0
+openai/o4-mini-2025-04-16,136,3,He tenido antojo de champurrado desde la mañana.,7.0
+openai/o4-mini-2025-04-16,137,1,He tenido antojo de café desde la mañana.,5.0
+openai/o4-mini-2025-04-16,137,2,He tenido antojo de café desde la mañana.,6.0
+openai/o4-mini-2025-04-16,137,3,He tenido antojo de café desde la mañana.,6.0
+openai/o4-mini-2025-04-16,138,1,Mi abuela me hizo atole para el desayuno.,7.0
+openai/o4-mini-2025-04-16,138,2,Mi abuela me hizo atole para el desayuno.,7.0
+openai/o4-mini-2025-04-16,138,3,Mi abuela me hizo atole para el desayuno.,7.0
+openai/o4-mini-2025-04-16,139,1,Mi abuela me hizo panqueques para el desayuno.,7.0
+openai/o4-mini-2025-04-16,139,2,Mi abuela me hizo panqueques para el desayuno.,7.0
+openai/o4-mini-2025-04-16,139,3,Mi abuela me hizo panqueques para el desayuno.,7.0
+openai/o4-mini-2025-04-16,140,1,Nos va a servir pozole para la cena mañana.,4.0
+openai/o4-mini-2025-04-16,140,2,Nos va a servir pozole para la cena mañana.,4.0
+openai/o4-mini-2025-04-16,140,3,Nos va a servir pozole para la cena mañana.,2.0
+openai/o4-mini-2025-04-16,141,1,Nos va a servir sopa para la cena mañana.,6.0
+openai/o4-mini-2025-04-16,141,2,Nos va a servir sopa para la cena mañana.,3.0
+openai/o4-mini-2025-04-16,141,3,Nos va a servir sopa para la cena mañana.,4.0
+openai/o4-mini-2025-04-16,142,1,What guy is Ashley dancing with?,6.0
+openai/o4-mini-2025-04-16,142,2,What guy is Ashley dancing with?,5.0
+openai/o4-mini-2025-04-16,142,3,What guy is Ashley dancing with?,7.0
+openai/o4-mini-2025-04-16,143,1,What class is Charlotte getting tired of?,7.0
+openai/o4-mini-2025-04-16,143,2,What class is Charlotte getting tired of?,7.0
+openai/o4-mini-2025-04-16,143,3,What class is Charlotte getting tired of?,7.0
+openai/o4-mini-2025-04-16,144,1,What book is Dylan referring to?,7.0
+openai/o4-mini-2025-04-16,144,2,What book is Dylan referring to?,7.0
+openai/o4-mini-2025-04-16,144,3,What book is Dylan referring to?,7.0
+openai/o4-mini-2025-04-16,145,1,Emily doesn't know what friend Frank is working with.,3.0
+openai/o4-mini-2025-04-16,145,2,Emily doesn't know what friend Frank is working with.,2.0
+openai/o4-mini-2025-04-16,145,3,Emily doesn't know what friend Frank is working with.,2.0
+openai/o4-mini-2025-04-16,146,1,Jessica doesn't know what plane Lance is jumping out of.,7.0
+openai/o4-mini-2025-04-16,146,2,Jessica doesn't know what plane Lance is jumping out of.,7.0
+openai/o4-mini-2025-04-16,146,3,Jessica doesn't know what plane Lance is jumping out of.,7.0
+openai/o4-mini-2025-04-16,147,1,Mason doesn't know what country Nancy is traveling to.,7.0
+openai/o4-mini-2025-04-16,147,2,Mason doesn't know what country Nancy is traveling to.,7.0
+openai/o4-mini-2025-04-16,147,3,Mason doesn't know what country Nancy is traveling to.,7.0
+openai/o4-mini-2025-04-16,148,1,United is the company Ruby is flying with.,7.0
+openai/o4-mini-2025-04-16,148,2,United is the company Ruby is flying with.,6.0
+openai/o4-mini-2025-04-16,148,3,United is the company Ruby is flying with.,7.0
+openai/o4-mini-2025-04-16,149,1,That Lamborghini is the car Tiffany is getting out of.,6.0
+openai/o4-mini-2025-04-16,149,2,That Lamborghini is the car Tiffany is getting out of.,6.0
+openai/o4-mini-2025-04-16,149,3,That Lamborghini is the car Tiffany is getting out of.,7.0
+openai/o4-mini-2025-04-16,150,1,Warrenville is the town Vern is moving to.,7.0
+openai/o4-mini-2025-04-16,150,2,Warrenville is the town Vern is moving to.,7.0
+openai/o4-mini-2025-04-16,150,3,Warrenville is the town Vern is moving to.,7.0
+openai/o4-mini-2025-04-16,151,1,With what guy is Ashley dancing?,4.0
+openai/o4-mini-2025-04-16,151,2,With what guy is Ashley dancing?,6.0
+openai/o4-mini-2025-04-16,151,3,With what guy is Ashley dancing?,3.0
+openai/o4-mini-2025-04-16,152,1,Of what class is Charlotte getting tired?,5.0
+openai/o4-mini-2025-04-16,152,2,Of what class is Charlotte getting tired?,4.0
+openai/o4-mini-2025-04-16,152,3,Of what class is Charlotte getting tired?,2.0
+openai/o4-mini-2025-04-16,153,1,To what book is Dylan referring?,7.0
+openai/o4-mini-2025-04-16,153,2,To what book is Dylan referring?,7.0
+openai/o4-mini-2025-04-16,153,3,To what book is Dylan referring?,7.0
+openai/o4-mini-2025-04-16,154,1,Emily doesn't know with what friend Frank is working.,3.0
+openai/o4-mini-2025-04-16,154,2,Emily doesn't know with what friend Frank is working.,5.0
+openai/o4-mini-2025-04-16,154,3,Emily doesn't know with what friend Frank is working.,4.0
+openai/o4-mini-2025-04-16,155,1,Jessica doesn't know of what plane Lance is jumping out.,2.0
+openai/o4-mini-2025-04-16,155,2,Jessica doesn't know of what plane Lance is jumping out.,2.0
+openai/o4-mini-2025-04-16,155,3,Jessica doesn't know of what plane Lance is jumping out.,2.0
+openai/o4-mini-2025-04-16,156,1,Mason doesn't know to what country Nancy is traveling.,6.0
+openai/o4-mini-2025-04-16,156,2,Mason doesn't know to what country Nancy is traveling.,7.0
+openai/o4-mini-2025-04-16,156,3,Mason doesn't know to what country Nancy is traveling.,6.0
+openai/o4-mini-2025-04-16,157,1,United is the company with which Ruby is flying.,6.0
+openai/o4-mini-2025-04-16,157,2,United is the company with which Ruby is flying.,7.0
+openai/o4-mini-2025-04-16,157,3,United is the company with which Ruby is flying.,6.0
+openai/o4-mini-2025-04-16,158,1,That Lamborghini is the car of which Tiffany is getting out.,2.0
+openai/o4-mini-2025-04-16,158,2,That Lamborghini is the car of which Tiffany is getting out.,2.0
+openai/o4-mini-2025-04-16,158,3,That Lamborghini is the car of which Tiffany is getting out.,2.0
+openai/o4-mini-2025-04-16,159,1,Warrenville is the town to which Vern is moving.,7.0
+openai/o4-mini-2025-04-16,159,2,Warrenville is the town to which Vern is moving.,7.0
+openai/o4-mini-2025-04-16,159,3,Warrenville is the town to which Vern is moving.,7.0
+openai/o4-mini-2025-04-16,160,1,I went to the party with my friend.,7.0
+openai/o4-mini-2025-04-16,160,2,I went to the party with my friend.,7.0
+openai/o4-mini-2025-04-16,160,3,I went to the party with my friend.,7.0
+openai/o4-mini-2025-04-16,161,1,The woman opened the door with her keys.,7.0
+openai/o4-mini-2025-04-16,161,2,The woman opened the door with her keys.,7.0
+openai/o4-mini-2025-04-16,161,3,The woman opened the door with her keys.,7.0
+openai/o4-mini-2025-04-16,162,1,Peter went out to eat for his birthday.,7.0
+openai/o4-mini-2025-04-16,162,2,Peter went out to eat for his birthday.,7.0
+openai/o4-mini-2025-04-16,162,3,Peter went out to eat for his birthday.,7.0
+openai/o4-mini-2025-04-16,163,1,Peter arrived late because of traffic.,7.0
+openai/o4-mini-2025-04-16,163,2,Peter arrived late because of traffic.,7.0
+openai/o4-mini-2025-04-16,163,3,Peter arrived late because of traffic.,7.0
+openai/o4-mini-2025-04-16,164,1,Joey left early because he went to work.,7.0
+openai/o4-mini-2025-04-16,164,2,Joey left early because he went to work.,7.0
+openai/o4-mini-2025-04-16,164,3,Joey left early because he went to work.,7.0
+openai/o4-mini-2025-04-16,165,1,Michael cut his hair because it was too long.,7.0
+openai/o4-mini-2025-04-16,165,2,Michael cut his hair because it was too long.,7.0
+openai/o4-mini-2025-04-16,165,3,Michael cut his hair because it was too long.,7.0
+openai/o4-mini-2025-04-16,166,1,I went to the beach all summer long.,7.0
+openai/o4-mini-2025-04-16,166,2,I went to the beach all summer long.,7.0
+openai/o4-mini-2025-04-16,166,3,I went to the beach all summer long.,7.0
+openai/o4-mini-2025-04-16,167,1,I get up early every day of the week.,7.0
+openai/o4-mini-2025-04-16,167,2,I get up early every day of the week.,7.0
+openai/o4-mini-2025-04-16,167,3,I get up early every day of the week.,7.0
+openai/o4-mini-2025-04-16,168,1,She goes out dancing every weekend.,7.0
+openai/o4-mini-2025-04-16,168,2,She goes out dancing every weekend.,7.0
+openai/o4-mini-2025-04-16,168,3,She goes out dancing every weekend.,7.0
+openai/o4-mini-2025-04-16,169,1,He was called boneheaded all the time.,7.0
+openai/o4-mini-2025-04-16,169,2,He was called boneheaded all the time.,7.0
+openai/o4-mini-2025-04-16,169,3,He was called boneheaded all the time.,7.0
+openai/o4-mini-2025-04-16,170,1,He was called stupid all the time.,7.0
+openai/o4-mini-2025-04-16,170,2,He was called stupid all the time.,7.0
+openai/o4-mini-2025-04-16,170,3,He was called stupid all the time.,7.0
+openai/o4-mini-2025-04-16,171,1,He was called snooty because he was from the US.,7.0
+openai/o4-mini-2025-04-16,171,2,He was called snooty because he was from the US.,7.0
+openai/o4-mini-2025-04-16,171,3,He was called snooty because he was from the US.,7.0
+openai/o4-mini-2025-04-16,172,1,He was called native because he was from the US.,6.0
+openai/o4-mini-2025-04-16,172,2,He was called native because he was from the US.,7.0
+openai/o4-mini-2025-04-16,172,3,He was called native because he was from the US.,4.0
+openai/o4-mini-2025-04-16,173,1,My mom bought crackers for the party.,7.0
+openai/o4-mini-2025-04-16,173,2,My mom bought crackers for the party.,7.0
+openai/o4-mini-2025-04-16,173,3,My mom bought crackers for the party.,7.0
+openai/o4-mini-2025-04-16,174,1,My mom bought fruit for the party.,7.0
+openai/o4-mini-2025-04-16,174,2,My mom bought fruit for the party.,7.0
+openai/o4-mini-2025-04-16,174,3,My mom bought fruit for the party.,7.0
+openai/o4-mini-2025-04-16,175,1,I have been craving seltzer since this morning.,7.0
+openai/o4-mini-2025-04-16,175,2,I have been craving seltzer since this morning.,7.0
+openai/o4-mini-2025-04-16,175,3,I have been craving seltzer since this morning.,7.0
+openai/o4-mini-2025-04-16,176,1,I have been craving coffee since this morning.,7.0
+openai/o4-mini-2025-04-16,176,2,I have been craving coffee since this morning.,7.0
+openai/o4-mini-2025-04-16,176,3,I have been craving coffee since this morning.,7.0
+openai/o4-mini-2025-04-16,177,1,My grandma made me biscuits for breakfast.,7.0
+openai/o4-mini-2025-04-16,177,2,My grandma made me biscuits for breakfast.,7.0
+openai/o4-mini-2025-04-16,177,3,My grandma made me biscuits for breakfast.,7.0
+openai/o4-mini-2025-04-16,178,1,My grandma made me pancakes for breakfast.,7.0
+openai/o4-mini-2025-04-16,178,2,My grandma made me pancakes for breakfast.,7.0
+openai/o4-mini-2025-04-16,178,3,My grandma made me pancakes for breakfast.,7.0
+openai/o4-mini-2025-04-16,179,1,He is going to serve us clam chowder for dinner tomorrow.,7.0
+openai/o4-mini-2025-04-16,179,2,He is going to serve us clam chowder for dinner tomorrow.,7.0
+openai/o4-mini-2025-04-16,179,3,He is going to serve us clam chowder for dinner tomorrow.,7.0
+openai/o4-mini-2025-04-16,180,1,He is going to serve us soup for dinner tomorrow.,7.0
+openai/o4-mini-2025-04-16,180,2,He is going to serve us soup for dinner tomorrow.,7.0
+openai/o4-mini-2025-04-16,180,3,He is going to serve us soup for dinner tomorrow.,7.0
