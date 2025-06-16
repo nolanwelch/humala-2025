@@ -63,7 +63,9 @@ def main():
     all_models = [
         # OpenAI
         "openai/gpt-4.1-2025-04-14",
-        "openai/gpt-3.5-turbo-0125",
+        "openai/gpt-4o-mini",
+        "openai/o4-mini-2025-04-16",
+        "openai/o4-mini-high-2025-04-16",
         # Google
         "google/gemini-2.5-flash-preview-05-20",
         "google/gemma-3-27b-it",
