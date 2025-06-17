@@ -1,0 +1,1009 @@
+"participant","age","gender","education","aoa_english","aoa_spanish","cultural_id","blp","blp_history_english","blp_history_spanish","blp_use_english","blp_use_spanish","blp_proficiency_english","blp_proficiency_spanish","blp_attitudes_english","blp_attitudes_spanish","proficiency_english","proficiency_spanish","lextale_english","lextale_spanish","section","language","stimulus_number","structure","condition","lexicalization","rating"
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en.sp","79","adj","spec","stupid.estúpido",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en.sp","79","adj","spec","stupid.estúpido",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en.sp","79","adj","spec","stupid.estúpido",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en.sp","79","adj","spec","stupid.estúpido",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en.sp","79","adj","spec","stupid.estúpido",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en.sp","79","adj","spec","stupid.estúpido",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en.sp","79","adj","spec","stupid.estúpido",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en.sp","79","adj","spec","stupid.estúpido",1
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en.sp","79","adj","spec","stupid.estúpido",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en.sp","79","adj","spec","stupid.estúpido",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en.sp","79","adj","spec","stupid.estúpido",6
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en.sp","79","adj","spec","stupid.estúpido",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en.sp","79","adj","spec","stupid.estúpido",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en.sp","79","adj","spec","stupid.estúpido",6
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en.sp","79","adj","spec","stupid.estúpido",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en.sp","79","adj","spec","stupid.estúpido",5
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en.sp","79","adj","spec","stupid.estúpido",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en.sp","79","adj","spec","stupid.estúpido",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en.sp","79","adj","spec","stupid.estúpido",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en.sp","79","adj","spec","stupid.estúpido",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en.sp","79","adj","spec","stupid.estúpido",6
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en.sp","80","adj","cog","stupid.estúpido",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en.sp","80","adj","cog","stupid.estúpido",6
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en.sp","80","adj","cog","stupid.estúpido",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en.sp","80","adj","cog","stupid.estúpido",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en.sp","80","adj","cog","stupid.estúpido",5
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en.sp","80","adj","cog","stupid.estúpido",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en.sp","80","adj","cog","stupid.estúpido",1
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en.sp","80","adj","cog","stupid.estúpido",1
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en.sp","80","adj","cog","stupid.estúpido",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en.sp","80","adj","cog","stupid.estúpido",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en.sp","80","adj","cog","stupid.estúpido",1
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en.sp","80","adj","cog","stupid.estúpido",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en.sp","80","adj","cog","stupid.estúpido",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en.sp","80","adj","cog","stupid.estúpido",6
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en.sp","80","adj","cog","stupid.estúpido",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en.sp","80","adj","cog","stupid.estúpido",5
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en.sp","80","adj","cog","stupid.estúpido",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en.sp","80","adj","cog","stupid.estúpido",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en.sp","80","adj","cog","stupid.estúpido",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en.sp","80","adj","cog","stupid.estúpido",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en.sp","80","adj","cog","stupid.estúpido",6
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp.en","81","adj","spec","stupid.estúpido",2
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp.en","81","adj","spec","stupid.estúpido",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp.en","81","adj","spec","stupid.estúpido",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp.en","81","adj","spec","stupid.estúpido",4
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp.en","81","adj","spec","stupid.estúpido",3
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp.en","81","adj","spec","stupid.estúpido",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp.en","81","adj","spec","stupid.estúpido",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp.en","81","adj","spec","stupid.estúpido",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp.en","81","adj","spec","stupid.estúpido",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp.en","81","adj","spec","stupid.estúpido",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp.en","81","adj","spec","stupid.estúpido",1
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp.en","81","adj","spec","stupid.estúpido",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp.en","81","adj","spec","stupid.estúpido",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp.en","81","adj","spec","stupid.estúpido",3
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp.en","81","adj","spec","stupid.estúpido",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp.en","81","adj","spec","stupid.estúpido",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp.en","81","adj","spec","stupid.estúpido",1
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp.en","81","adj","spec","stupid.estúpido",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp.en","81","adj","spec","stupid.estúpido",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp.en","81","adj","spec","stupid.estúpido",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp.en","81","adj","spec","stupid.estúpido",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp.en","82","adj","cog","stupid.estúpido",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp.en","82","adj","cog","stupid.estúpido",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp.en","82","adj","cog","stupid.estúpido",1
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp.en","82","adj","cog","stupid.estúpido",1
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp.en","82","adj","cog","stupid.estúpido",6
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp.en","82","adj","cog","stupid.estúpido",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp.en","82","adj","cog","stupid.estúpido",1
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp.en","82","adj","cog","stupid.estúpido",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp.en","82","adj","cog","stupid.estúpido",1
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp.en","82","adj","cog","stupid.estúpido",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp.en","82","adj","cog","stupid.estúpido",1
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp.en","82","adj","cog","stupid.estúpido",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp.en","82","adj","cog","stupid.estúpido",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp.en","82","adj","cog","stupid.estúpido",5
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp.en","82","adj","cog","stupid.estúpido",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp.en","82","adj","cog","stupid.estúpido",1
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp.en","82","adj","cog","stupid.estúpido",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp.en","82","adj","cog","stupid.estúpido",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp.en","82","adj","cog","stupid.estúpido",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp.en","82","adj","cog","stupid.estúpido",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp.en","82","adj","cog","stupid.estúpido",6
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en.sp","83","adj","spec","native.nativo",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en.sp","83","adj","spec","native.nativo",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en.sp","83","adj","spec","native.nativo",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en.sp","83","adj","spec","native.nativo",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en.sp","83","adj","spec","native.nativo",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en.sp","83","adj","spec","native.nativo",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en.sp","83","adj","spec","native.nativo",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en.sp","83","adj","spec","native.nativo",1
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en.sp","83","adj","spec","native.nativo",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en.sp","83","adj","spec","native.nativo",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en.sp","83","adj","spec","native.nativo",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en.sp","83","adj","spec","native.nativo",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en.sp","83","adj","spec","native.nativo",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en.sp","83","adj","spec","native.nativo",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en.sp","83","adj","spec","native.nativo",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en.sp","83","adj","spec","native.nativo",5
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en.sp","83","adj","spec","native.nativo",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en.sp","83","adj","spec","native.nativo",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en.sp","83","adj","spec","native.nativo",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en.sp","83","adj","spec","native.nativo",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en.sp","83","adj","spec","native.nativo",6
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en.sp","84","adj","cog","native.nativo",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en.sp","84","adj","cog","native.nativo",5
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en.sp","84","adj","cog","native.nativo",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en.sp","84","adj","cog","native.nativo",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en.sp","84","adj","cog","native.nativo",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en.sp","84","adj","cog","native.nativo",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en.sp","84","adj","cog","native.nativo",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en.sp","84","adj","cog","native.nativo",1
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en.sp","84","adj","cog","native.nativo",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en.sp","84","adj","cog","native.nativo",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en.sp","84","adj","cog","native.nativo",6
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en.sp","84","adj","cog","native.nativo",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en.sp","84","adj","cog","native.nativo",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en.sp","84","adj","cog","native.nativo",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en.sp","84","adj","cog","native.nativo",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en.sp","84","adj","cog","native.nativo",5
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en.sp","84","adj","cog","native.nativo",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en.sp","84","adj","cog","native.nativo",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en.sp","84","adj","cog","native.nativo",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en.sp","84","adj","cog","native.nativo",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en.sp","84","adj","cog","native.nativo",5
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp.en","85","adj","spec","native.nativo",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp.en","85","adj","spec","native.nativo",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp.en","85","adj","spec","native.nativo",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp.en","85","adj","spec","native.nativo",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp.en","85","adj","spec","native.nativo",3
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp.en","85","adj","spec","native.nativo",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp.en","85","adj","spec","native.nativo",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp.en","85","adj","spec","native.nativo",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp.en","85","adj","spec","native.nativo",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp.en","85","adj","spec","native.nativo",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp.en","85","adj","spec","native.nativo",1
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp.en","85","adj","spec","native.nativo",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp.en","85","adj","spec","native.nativo",5
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp.en","85","adj","spec","native.nativo",6
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp.en","85","adj","spec","native.nativo",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp.en","85","adj","spec","native.nativo",5
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp.en","85","adj","spec","native.nativo",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp.en","85","adj","spec","native.nativo",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp.en","85","adj","spec","native.nativo",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp.en","85","adj","spec","native.nativo",6
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp.en","85","adj","spec","native.nativo",6
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp.en","86","adj","cog","native.nativo",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp.en","86","adj","cog","native.nativo",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp.en","86","adj","cog","native.nativo",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp.en","86","adj","cog","native.nativo",1
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp.en","86","adj","cog","native.nativo",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp.en","86","adj","cog","native.nativo",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp.en","86","adj","cog","native.nativo",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp.en","86","adj","cog","native.nativo",1
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp.en","86","adj","cog","native.nativo",6
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp.en","86","adj","cog","native.nativo",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp.en","86","adj","cog","native.nativo",1
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp.en","86","adj","cog","native.nativo",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp.en","86","adj","cog","native.nativo",6
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp.en","86","adj","cog","native.nativo",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp.en","86","adj","cog","native.nativo",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp.en","86","adj","cog","native.nativo",6
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp.en","86","adj","cog","native.nativo",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp.en","86","adj","cog","native.nativo",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp.en","86","adj","cog","native.nativo",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp.en","86","adj","cog","native.nativo",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp.en","86","adj","cog","native.nativo",6
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en.sp","87","do","spec","fruit.fruta",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en.sp","87","do","spec","fruit.fruta",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en.sp","87","do","spec","fruit.fruta",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en.sp","87","do","spec","fruit.fruta",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en.sp","87","do","spec","fruit.fruta",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en.sp","87","do","spec","fruit.fruta",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en.sp","87","do","spec","fruit.fruta",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en.sp","87","do","spec","fruit.fruta",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en.sp","87","do","spec","fruit.fruta",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en.sp","87","do","spec","fruit.fruta",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en.sp","87","do","spec","fruit.fruta",6
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en.sp","87","do","spec","fruit.fruta",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en.sp","87","do","spec","fruit.fruta",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en.sp","87","do","spec","fruit.fruta",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en.sp","87","do","spec","fruit.fruta",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en.sp","87","do","spec","fruit.fruta",4
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en.sp","87","do","spec","fruit.fruta",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en.sp","87","do","spec","fruit.fruta",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en.sp","87","do","spec","fruit.fruta",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en.sp","87","do","spec","fruit.fruta",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en.sp","87","do","spec","fruit.fruta",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en.sp","88","do","cog","fruit.fruta",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en.sp","88","do","cog","fruit.fruta",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en.sp","88","do","cog","fruit.fruta",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en.sp","88","do","cog","fruit.fruta",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en.sp","88","do","cog","fruit.fruta",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en.sp","88","do","cog","fruit.fruta",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en.sp","88","do","cog","fruit.fruta",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en.sp","88","do","cog","fruit.fruta",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en.sp","88","do","cog","fruit.fruta",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en.sp","88","do","cog","fruit.fruta",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en.sp","88","do","cog","fruit.fruta",6
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en.sp","88","do","cog","fruit.fruta",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en.sp","88","do","cog","fruit.fruta",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en.sp","88","do","cog","fruit.fruta",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en.sp","88","do","cog","fruit.fruta",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en.sp","88","do","cog","fruit.fruta",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en.sp","88","do","cog","fruit.fruta",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en.sp","88","do","cog","fruit.fruta",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en.sp","88","do","cog","fruit.fruta",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en.sp","88","do","cog","fruit.fruta",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en.sp","88","do","cog","fruit.fruta",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp.en","89","do","spec","fruit.fruta",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp.en","89","do","spec","fruit.fruta",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp.en","89","do","spec","fruit.fruta",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp.en","89","do","spec","fruit.fruta",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp.en","89","do","spec","fruit.fruta",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp.en","89","do","spec","fruit.fruta",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp.en","89","do","spec","fruit.fruta",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp.en","89","do","spec","fruit.fruta",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp.en","89","do","spec","fruit.fruta",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp.en","89","do","spec","fruit.fruta",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp.en","89","do","spec","fruit.fruta",6
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp.en","89","do","spec","fruit.fruta",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp.en","89","do","spec","fruit.fruta",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp.en","89","do","spec","fruit.fruta",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp.en","89","do","spec","fruit.fruta",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp.en","89","do","spec","fruit.fruta",6
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp.en","89","do","spec","fruit.fruta",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp.en","89","do","spec","fruit.fruta",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp.en","89","do","spec","fruit.fruta",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp.en","89","do","spec","fruit.fruta",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp.en","89","do","spec","fruit.fruta",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp.en","90","do","cog","fruit.fruta",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp.en","90","do","cog","fruit.fruta",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp.en","90","do","cog","fruit.fruta",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp.en","90","do","cog","fruit.fruta",1
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp.en","90","do","cog","fruit.fruta",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp.en","90","do","cog","fruit.fruta",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp.en","90","do","cog","fruit.fruta",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp.en","90","do","cog","fruit.fruta",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp.en","90","do","cog","fruit.fruta",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp.en","90","do","cog","fruit.fruta",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp.en","90","do","cog","fruit.fruta",2
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp.en","90","do","cog","fruit.fruta",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp.en","90","do","cog","fruit.fruta",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp.en","90","do","cog","fruit.fruta",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp.en","90","do","cog","fruit.fruta",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp.en","90","do","cog","fruit.fruta",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp.en","90","do","cog","fruit.fruta",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp.en","90","do","cog","fruit.fruta",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp.en","90","do","cog","fruit.fruta",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp.en","90","do","cog","fruit.fruta",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp.en","90","do","cog","fruit.fruta",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en.sp","91","do","spec","coffee.café",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en.sp","91","do","spec","coffee.café",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en.sp","91","do","spec","coffee.café",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en.sp","91","do","spec","coffee.café",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en.sp","91","do","spec","coffee.café",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en.sp","91","do","spec","coffee.café",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en.sp","91","do","spec","coffee.café",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en.sp","91","do","spec","coffee.café",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en.sp","91","do","spec","coffee.café",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en.sp","91","do","spec","coffee.café",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en.sp","91","do","spec","coffee.café",2
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en.sp","91","do","spec","coffee.café",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en.sp","91","do","spec","coffee.café",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en.sp","91","do","spec","coffee.café",5
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en.sp","91","do","spec","coffee.café",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en.sp","91","do","spec","coffee.café",6
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en.sp","91","do","spec","coffee.café",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en.sp","91","do","spec","coffee.café",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en.sp","91","do","spec","coffee.café",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en.sp","91","do","spec","coffee.café",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en.sp","91","do","spec","coffee.café",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en.sp","92","do","cog","coffee.café",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en.sp","92","do","cog","coffee.café",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en.sp","92","do","cog","coffee.café",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en.sp","92","do","cog","coffee.café",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en.sp","92","do","cog","coffee.café",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en.sp","92","do","cog","coffee.café",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en.sp","92","do","cog","coffee.café",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en.sp","92","do","cog","coffee.café",1
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en.sp","92","do","cog","coffee.café",1
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en.sp","92","do","cog","coffee.café",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en.sp","92","do","cog","coffee.café",6
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en.sp","92","do","cog","coffee.café",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en.sp","92","do","cog","coffee.café",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en.sp","92","do","cog","coffee.café",5
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en.sp","92","do","cog","coffee.café",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en.sp","92","do","cog","coffee.café",6
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en.sp","92","do","cog","coffee.café",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en.sp","92","do","cog","coffee.café",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en.sp","92","do","cog","coffee.café",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en.sp","92","do","cog","coffee.café",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en.sp","92","do","cog","coffee.café",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp.en","93","do","spec","coffee.café",2
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp.en","93","do","spec","coffee.café",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp.en","93","do","spec","coffee.café",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp.en","93","do","spec","coffee.café",4
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp.en","93","do","spec","coffee.café",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp.en","93","do","spec","coffee.café",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp.en","93","do","spec","coffee.café",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp.en","93","do","spec","coffee.café",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp.en","93","do","spec","coffee.café",6
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp.en","93","do","spec","coffee.café",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp.en","93","do","spec","coffee.café",2
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp.en","93","do","spec","coffee.café",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp.en","93","do","spec","coffee.café",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp.en","93","do","spec","coffee.café",2
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp.en","93","do","spec","coffee.café",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp.en","93","do","spec","coffee.café",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp.en","93","do","spec","coffee.café",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp.en","93","do","spec","coffee.café",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp.en","93","do","spec","coffee.café",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp.en","93","do","spec","coffee.café",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp.en","93","do","spec","coffee.café",6
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp.en","94","do","cog","coffee.café",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp.en","94","do","cog","coffee.café",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp.en","94","do","cog","coffee.café",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp.en","94","do","cog","coffee.café",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp.en","94","do","cog","coffee.café",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp.en","94","do","cog","coffee.café",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp.en","94","do","cog","coffee.café",1
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp.en","94","do","cog","coffee.café",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp.en","94","do","cog","coffee.café",6
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp.en","94","do","cog","coffee.café",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp.en","94","do","cog","coffee.café",2
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp.en","94","do","cog","coffee.café",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp.en","94","do","cog","coffee.café",6
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp.en","94","do","cog","coffee.café",3
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp.en","94","do","cog","coffee.café",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp.en","94","do","cog","coffee.café",3
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp.en","94","do","cog","coffee.café",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp.en","94","do","cog","coffee.café",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp.en","94","do","cog","coffee.café",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp.en","94","do","cog","coffee.café",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp.en","94","do","cog","coffee.café",6
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en.sp","95","doio","spec","pancakes.panqueques",2
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en.sp","95","doio","spec","pancakes.panqueques",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en.sp","95","doio","spec","pancakes.panqueques",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en.sp","95","doio","spec","pancakes.panqueques",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en.sp","95","doio","spec","pancakes.panqueques",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en.sp","95","doio","spec","pancakes.panqueques",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en.sp","95","doio","spec","pancakes.panqueques",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en.sp","95","doio","spec","pancakes.panqueques",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en.sp","95","doio","spec","pancakes.panqueques",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en.sp","95","doio","spec","pancakes.panqueques",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en.sp","95","doio","spec","pancakes.panqueques",6
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en.sp","95","doio","spec","pancakes.panqueques",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en.sp","95","doio","spec","pancakes.panqueques",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en.sp","95","doio","spec","pancakes.panqueques",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en.sp","95","doio","spec","pancakes.panqueques",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en.sp","95","doio","spec","pancakes.panqueques",6
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en.sp","95","doio","spec","pancakes.panqueques",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en.sp","95","doio","spec","pancakes.panqueques",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en.sp","95","doio","spec","pancakes.panqueques",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en.sp","95","doio","spec","pancakes.panqueques",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en.sp","95","doio","spec","pancakes.panqueques",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en.sp","96","doio","cog","pancakes.panqueques",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en.sp","96","doio","cog","pancakes.panqueques",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en.sp","96","doio","cog","pancakes.panqueques",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en.sp","96","doio","cog","pancakes.panqueques",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en.sp","96","doio","cog","pancakes.panqueques",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en.sp","96","doio","cog","pancakes.panqueques",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en.sp","96","doio","cog","pancakes.panqueques",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en.sp","96","doio","cog","pancakes.panqueques",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en.sp","96","doio","cog","pancakes.panqueques",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en.sp","96","doio","cog","pancakes.panqueques",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en.sp","96","doio","cog","pancakes.panqueques",6
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en.sp","96","doio","cog","pancakes.panqueques",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en.sp","96","doio","cog","pancakes.panqueques",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en.sp","96","doio","cog","pancakes.panqueques",6
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en.sp","96","doio","cog","pancakes.panqueques",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en.sp","96","doio","cog","pancakes.panqueques",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en.sp","96","doio","cog","pancakes.panqueques",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en.sp","96","doio","cog","pancakes.panqueques",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en.sp","96","doio","cog","pancakes.panqueques",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en.sp","96","doio","cog","pancakes.panqueques",6
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en.sp","96","doio","cog","pancakes.panqueques",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp.en","97","doio","spec","pancakes.panqueques",5
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp.en","97","doio","spec","pancakes.panqueques",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp.en","97","doio","spec","pancakes.panqueques",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp.en","97","doio","spec","pancakes.panqueques",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp.en","97","doio","spec","pancakes.panqueques",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp.en","97","doio","spec","pancakes.panqueques",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp.en","97","doio","spec","pancakes.panqueques",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp.en","97","doio","spec","pancakes.panqueques",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp.en","97","doio","spec","pancakes.panqueques",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp.en","97","doio","spec","pancakes.panqueques",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp.en","97","doio","spec","pancakes.panqueques",6
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp.en","97","doio","spec","pancakes.panqueques",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp.en","97","doio","spec","pancakes.panqueques",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp.en","97","doio","spec","pancakes.panqueques",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp.en","97","doio","spec","pancakes.panqueques",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp.en","97","doio","spec","pancakes.panqueques",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp.en","97","doio","spec","pancakes.panqueques",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp.en","97","doio","spec","pancakes.panqueques",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp.en","97","doio","spec","pancakes.panqueques",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp.en","97","doio","spec","pancakes.panqueques",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp.en","97","doio","spec","pancakes.panqueques",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp.en","98","doio","cog","pancakes.panqueques",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp.en","98","doio","cog","pancakes.panqueques",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp.en","98","doio","cog","pancakes.panqueques",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp.en","98","doio","cog","pancakes.panqueques",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp.en","98","doio","cog","pancakes.panqueques",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp.en","98","doio","cog","pancakes.panqueques",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp.en","98","doio","cog","pancakes.panqueques",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp.en","98","doio","cog","pancakes.panqueques",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp.en","98","doio","cog","pancakes.panqueques",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp.en","98","doio","cog","pancakes.panqueques",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp.en","98","doio","cog","pancakes.panqueques",6
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp.en","98","doio","cog","pancakes.panqueques",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp.en","98","doio","cog","pancakes.panqueques",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp.en","98","doio","cog","pancakes.panqueques",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp.en","98","doio","cog","pancakes.panqueques",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp.en","98","doio","cog","pancakes.panqueques",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp.en","98","doio","cog","pancakes.panqueques",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp.en","98","doio","cog","pancakes.panqueques",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp.en","98","doio","cog","pancakes.panqueques",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp.en","98","doio","cog","pancakes.panqueques",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp.en","98","doio","cog","pancakes.panqueques",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en.sp","99","doio","spec","soup.sopa",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en.sp","99","doio","spec","soup.sopa",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en.sp","99","doio","spec","soup.sopa",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en.sp","99","doio","spec","soup.sopa",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en.sp","99","doio","spec","soup.sopa",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en.sp","99","doio","spec","soup.sopa",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en.sp","99","doio","spec","soup.sopa",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en.sp","99","doio","spec","soup.sopa",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en.sp","99","doio","spec","soup.sopa",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en.sp","99","doio","spec","soup.sopa",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en.sp","99","doio","spec","soup.sopa",1
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en.sp","99","doio","spec","soup.sopa",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en.sp","99","doio","spec","soup.sopa",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en.sp","99","doio","spec","soup.sopa",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en.sp","99","doio","spec","soup.sopa",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en.sp","99","doio","spec","soup.sopa",4
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en.sp","99","doio","spec","soup.sopa",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en.sp","99","doio","spec","soup.sopa",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en.sp","99","doio","spec","soup.sopa",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en.sp","99","doio","spec","soup.sopa",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en.sp","99","doio","spec","soup.sopa",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en.sp","100","doio","cog","soup.sopa",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en.sp","100","doio","cog","soup.sopa",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en.sp","100","doio","cog","soup.sopa",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en.sp","100","doio","cog","soup.sopa",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en.sp","100","doio","cog","soup.sopa",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en.sp","100","doio","cog","soup.sopa",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en.sp","100","doio","cog","soup.sopa",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en.sp","100","doio","cog","soup.sopa",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en.sp","100","doio","cog","soup.sopa",6
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en.sp","100","doio","cog","soup.sopa",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en.sp","100","doio","cog","soup.sopa",1
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en.sp","100","doio","cog","soup.sopa",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en.sp","100","doio","cog","soup.sopa",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en.sp","100","doio","cog","soup.sopa",6
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en.sp","100","doio","cog","soup.sopa",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en.sp","100","doio","cog","soup.sopa",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en.sp","100","doio","cog","soup.sopa",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en.sp","100","doio","cog","soup.sopa",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en.sp","100","doio","cog","soup.sopa",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en.sp","100","doio","cog","soup.sopa",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en.sp","100","doio","cog","soup.sopa",5
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp.en","101","doio","spec","soup.sopa",2
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp.en","101","doio","spec","soup.sopa",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp.en","101","doio","spec","soup.sopa",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp.en","101","doio","spec","soup.sopa",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp.en","101","doio","spec","soup.sopa",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp.en","101","doio","spec","soup.sopa",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp.en","101","doio","spec","soup.sopa",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp.en","101","doio","spec","soup.sopa",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp.en","101","doio","spec","soup.sopa",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp.en","101","doio","spec","soup.sopa",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp.en","101","doio","spec","soup.sopa",1
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp.en","101","doio","spec","soup.sopa",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp.en","101","doio","spec","soup.sopa",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp.en","101","doio","spec","soup.sopa",5
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp.en","101","doio","spec","soup.sopa",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp.en","101","doio","spec","soup.sopa",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp.en","101","doio","spec","soup.sopa",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp.en","101","doio","spec","soup.sopa",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp.en","101","doio","spec","soup.sopa",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp.en","101","doio","spec","soup.sopa",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp.en","101","doio","spec","soup.sopa",6
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp.en","102","doio","cog","soup.sopa",2
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp.en","102","doio","cog","soup.sopa",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp.en","102","doio","cog","soup.sopa",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp.en","102","doio","cog","soup.sopa",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp.en","102","doio","cog","soup.sopa",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp.en","102","doio","cog","soup.sopa",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp.en","102","doio","cog","soup.sopa",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp.en","102","doio","cog","soup.sopa",1
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp.en","102","doio","cog","soup.sopa",5
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp.en","102","doio","cog","soup.sopa",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp.en","102","doio","cog","soup.sopa",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp.en","102","doio","cog","soup.sopa",6
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp.en","102","doio","cog","soup.sopa",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp.en","102","doio","cog","soup.sopa",5
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp.en","102","doio","cog","soup.sopa",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp.en","102","doio","cog","soup.sopa",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp.en","102","doio","cog","soup.sopa",3
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp.en","102","doio","cog","soup.sopa",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp.en","102","doio","cog","soup.sopa",6
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp.en","102","doio","cog","soup.sopa",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp.en","102","doio","cog","soup.sopa",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp","130","adj","spec","stupid.estúpido",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp","130","adj","spec","stupid.estúpido",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp","130","adj","spec","stupid.estúpido",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp","130","adj","spec","stupid.estúpido",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp","130","adj","spec","stupid.estúpido",3
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp","130","adj","spec","stupid.estúpido",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp","130","adj","spec","stupid.estúpido",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp","130","adj","spec","stupid.estúpido",5
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp","130","adj","spec","stupid.estúpido",1
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp","130","adj","spec","stupid.estúpido",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp","130","adj","spec","stupid.estúpido",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp","130","adj","spec","stupid.estúpido",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp","130","adj","spec","stupid.estúpido",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp","130","adj","spec","stupid.estúpido",4
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp","130","adj","spec","stupid.estúpido",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp","130","adj","spec","stupid.estúpido",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp","130","adj","spec","stupid.estúpido",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp","130","adj","spec","stupid.estúpido",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp","130","adj","spec","stupid.estúpido",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp","130","adj","spec","stupid.estúpido",1
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp","130","adj","spec","stupid.estúpido",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp","131","adj","cog","stupid.estúpido",5
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp","131","adj","cog","stupid.estúpido",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp","131","adj","cog","stupid.estúpido",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp","131","adj","cog","stupid.estúpido",4
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp","131","adj","cog","stupid.estúpido",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp","131","adj","cog","stupid.estúpido",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp","131","adj","cog","stupid.estúpido",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp","131","adj","cog","stupid.estúpido",1
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp","131","adj","cog","stupid.estúpido",1
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp","131","adj","cog","stupid.estúpido",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp","131","adj","cog","stupid.estúpido",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp","131","adj","cog","stupid.estúpido",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp","131","adj","cog","stupid.estúpido",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp","131","adj","cog","stupid.estúpido",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp","131","adj","cog","stupid.estúpido",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp","131","adj","cog","stupid.estúpido",3
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp","131","adj","cog","stupid.estúpido",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp","131","adj","cog","stupid.estúpido",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp","131","adj","cog","stupid.estúpido",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp","131","adj","cog","stupid.estúpido",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp","131","adj","cog","stupid.estúpido",6
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp","132","adj","spec","native.nativo",2
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp","132","adj","spec","native.nativo",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp","132","adj","spec","native.nativo",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp","132","adj","spec","native.nativo",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp","132","adj","spec","native.nativo",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp","132","adj","spec","native.nativo",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp","132","adj","spec","native.nativo",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp","132","adj","spec","native.nativo",1
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp","132","adj","spec","native.nativo",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp","132","adj","spec","native.nativo",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp","132","adj","spec","native.nativo",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp","132","adj","spec","native.nativo",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp","132","adj","spec","native.nativo",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp","132","adj","spec","native.nativo",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp","132","adj","spec","native.nativo",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp","132","adj","spec","native.nativo",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp","132","adj","spec","native.nativo",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp","132","adj","spec","native.nativo",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp","132","adj","spec","native.nativo",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp","132","adj","spec","native.nativo",1
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp","132","adj","spec","native.nativo",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp","133","adj","cog","native.nativo",3
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp","133","adj","cog","native.nativo",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp","133","adj","cog","native.nativo",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp","133","adj","cog","native.nativo",3
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp","133","adj","cog","native.nativo",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp","133","adj","cog","native.nativo",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp","133","adj","cog","native.nativo",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp","133","adj","cog","native.nativo",4
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp","133","adj","cog","native.nativo",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp","133","adj","cog","native.nativo",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp","133","adj","cog","native.nativo",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp","133","adj","cog","native.nativo",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp","133","adj","cog","native.nativo",6
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp","133","adj","cog","native.nativo",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp","133","adj","cog","native.nativo",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp","133","adj","cog","native.nativo",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp","133","adj","cog","native.nativo",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp","133","adj","cog","native.nativo",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp","133","adj","cog","native.nativo",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp","133","adj","cog","native.nativo",1
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp","133","adj","cog","native.nativo",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp","134","do","spec","fruit.fruta",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp","134","do","spec","fruit.fruta",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp","134","do","spec","fruit.fruta",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp","134","do","spec","fruit.fruta",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp","134","do","spec","fruit.fruta",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp","134","do","spec","fruit.fruta",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp","134","do","spec","fruit.fruta",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp","134","do","spec","fruit.fruta",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp","134","do","spec","fruit.fruta",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp","134","do","spec","fruit.fruta",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp","134","do","spec","fruit.fruta",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp","134","do","spec","fruit.fruta",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp","134","do","spec","fruit.fruta",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp","134","do","spec","fruit.fruta",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp","134","do","spec","fruit.fruta",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp","134","do","spec","fruit.fruta",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp","134","do","spec","fruit.fruta",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp","134","do","spec","fruit.fruta",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp","134","do","spec","fruit.fruta",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp","134","do","spec","fruit.fruta",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp","134","do","spec","fruit.fruta",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp","135","do","cog","fruit.fruta",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp","135","do","cog","fruit.fruta",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp","135","do","cog","fruit.fruta",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp","135","do","cog","fruit.fruta",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp","135","do","cog","fruit.fruta",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp","135","do","cog","fruit.fruta",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp","135","do","cog","fruit.fruta",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp","135","do","cog","fruit.fruta",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp","135","do","cog","fruit.fruta",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp","135","do","cog","fruit.fruta",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp","135","do","cog","fruit.fruta",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp","135","do","cog","fruit.fruta",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp","135","do","cog","fruit.fruta",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp","135","do","cog","fruit.fruta",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp","135","do","cog","fruit.fruta",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp","135","do","cog","fruit.fruta",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp","135","do","cog","fruit.fruta",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp","135","do","cog","fruit.fruta",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp","135","do","cog","fruit.fruta",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp","135","do","cog","fruit.fruta",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp","135","do","cog","fruit.fruta",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp","136","do","spec","coffee.café",3
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp","136","do","spec","coffee.café",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp","136","do","spec","coffee.café",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp","136","do","spec","coffee.café",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp","136","do","spec","coffee.café",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp","136","do","spec","coffee.café",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp","136","do","spec","coffee.café",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp","136","do","spec","coffee.café",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp","136","do","spec","coffee.café",1
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp","136","do","spec","coffee.café",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp","136","do","spec","coffee.café",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp","136","do","spec","coffee.café",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp","136","do","spec","coffee.café",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp","136","do","spec","coffee.café",2
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp","136","do","spec","coffee.café",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp","136","do","spec","coffee.café",6
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp","136","do","spec","coffee.café",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp","136","do","spec","coffee.café",5
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp","136","do","spec","coffee.café",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp","136","do","spec","coffee.café",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp","136","do","spec","coffee.café",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp","137","do","cog","coffee.café",3
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp","137","do","cog","coffee.café",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp","137","do","cog","coffee.café",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp","137","do","cog","coffee.café",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp","137","do","cog","coffee.café",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp","137","do","cog","coffee.café",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp","137","do","cog","coffee.café",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp","137","do","cog","coffee.café",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp","137","do","cog","coffee.café",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp","137","do","cog","coffee.café",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp","137","do","cog","coffee.café",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp","137","do","cog","coffee.café",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp","137","do","cog","coffee.café",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp","137","do","cog","coffee.café",3
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp","137","do","cog","coffee.café",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp","137","do","cog","coffee.café",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp","137","do","cog","coffee.café",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp","137","do","cog","coffee.café",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp","137","do","cog","coffee.café",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp","137","do","cog","coffee.café",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp","137","do","cog","coffee.café",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp","138","doio","spec","pancakes.panqueques",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp","138","doio","spec","pancakes.panqueques",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp","138","doio","spec","pancakes.panqueques",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp","138","doio","spec","pancakes.panqueques",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp","138","doio","spec","pancakes.panqueques",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp","138","doio","spec","pancakes.panqueques",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp","138","doio","spec","pancakes.panqueques",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp","138","doio","spec","pancakes.panqueques",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp","138","doio","spec","pancakes.panqueques",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp","138","doio","spec","pancakes.panqueques",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp","138","doio","spec","pancakes.panqueques",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp","138","doio","spec","pancakes.panqueques",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp","138","doio","spec","pancakes.panqueques",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp","138","doio","spec","pancakes.panqueques",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp","138","doio","spec","pancakes.panqueques",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp","138","doio","spec","pancakes.panqueques",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp","138","doio","spec","pancakes.panqueques",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp","138","doio","spec","pancakes.panqueques",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp","138","doio","spec","pancakes.panqueques",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp","138","doio","spec","pancakes.panqueques",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp","138","doio","spec","pancakes.panqueques",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp","139","doio","cog","pancakes.panqueques",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp","139","doio","cog","pancakes.panqueques",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp","139","doio","cog","pancakes.panqueques",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp","139","doio","cog","pancakes.panqueques",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp","139","doio","cog","pancakes.panqueques",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp","139","doio","cog","pancakes.panqueques",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp","139","doio","cog","pancakes.panqueques",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp","139","doio","cog","pancakes.panqueques",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp","139","doio","cog","pancakes.panqueques",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp","139","doio","cog","pancakes.panqueques",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp","139","doio","cog","pancakes.panqueques",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp","139","doio","cog","pancakes.panqueques",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp","139","doio","cog","pancakes.panqueques",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp","139","doio","cog","pancakes.panqueques",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp","139","doio","cog","pancakes.panqueques",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp","139","doio","cog","pancakes.panqueques",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp","139","doio","cog","pancakes.panqueques",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp","139","doio","cog","pancakes.panqueques",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp","139","doio","cog","pancakes.panqueques",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp","139","doio","cog","pancakes.panqueques",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp","139","doio","cog","pancakes.panqueques",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp","140","doio","spec","soup.sopa",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp","140","doio","spec","soup.sopa",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp","140","doio","spec","soup.sopa",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp","140","doio","spec","soup.sopa",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp","140","doio","spec","soup.sopa",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp","140","doio","spec","soup.sopa",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp","140","doio","spec","soup.sopa",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp","140","doio","spec","soup.sopa",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp","140","doio","spec","soup.sopa",1
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp","140","doio","spec","soup.sopa",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp","140","doio","spec","soup.sopa",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp","140","doio","spec","soup.sopa",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp","140","doio","spec","soup.sopa",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp","140","doio","spec","soup.sopa",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp","140","doio","spec","soup.sopa",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp","140","doio","spec","soup.sopa",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp","140","doio","spec","soup.sopa",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp","140","doio","spec","soup.sopa",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp","140","doio","spec","soup.sopa",6
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp","140","doio","spec","soup.sopa",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp","140","doio","spec","soup.sopa",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","sp","141","doio","cog","soup.sopa",7
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","sp","141","doio","cog","soup.sopa",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","sp","141","doio","cog","soup.sopa",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","sp","141","doio","cog","soup.sopa",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","sp","141","doio","cog","soup.sopa",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","sp","141","doio","cog","soup.sopa",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","sp","141","doio","cog","soup.sopa",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","sp","141","doio","cog","soup.sopa",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","sp","141","doio","cog","soup.sopa",1
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","sp","141","doio","cog","soup.sopa",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","sp","141","doio","cog","soup.sopa",6
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","sp","141","doio","cog","soup.sopa",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","sp","141","doio","cog","soup.sopa",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","sp","141","doio","cog","soup.sopa",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","sp","141","doio","cog","soup.sopa",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","sp","141","doio","cog","soup.sopa",6
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","sp","141","doio","cog","soup.sopa",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","sp","141","doio","cog","soup.sopa",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","sp","141","doio","cog","soup.sopa",6
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","sp","141","doio","cog","soup.sopa",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","sp","141","doio","cog","soup.sopa",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en","169","adj","spec","stupid.estúpido",7
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en","169","adj","spec","stupid.estúpido",6
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en","169","adj","spec","stupid.estúpido",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en","169","adj","spec","stupid.estúpido",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en","169","adj","spec","stupid.estúpido",6
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en","169","adj","spec","stupid.estúpido",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en","169","adj","spec","stupid.estúpido",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en","169","adj","spec","stupid.estúpido",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en","169","adj","spec","stupid.estúpido",1
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en","169","adj","spec","stupid.estúpido",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en","169","adj","spec","stupid.estúpido",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en","169","adj","spec","stupid.estúpido",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en","169","adj","spec","stupid.estúpido",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en","169","adj","spec","stupid.estúpido",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en","169","adj","spec","stupid.estúpido",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en","169","adj","spec","stupid.estúpido",6
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en","169","adj","spec","stupid.estúpido",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en","169","adj","spec","stupid.estúpido",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en","169","adj","spec","stupid.estúpido",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en","169","adj","spec","stupid.estúpido",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en","169","adj","spec","stupid.estúpido",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en","170","adj","cog","stupid.estúpido",7
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en","170","adj","cog","stupid.estúpido",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en","170","adj","cog","stupid.estúpido",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en","170","adj","cog","stupid.estúpido",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en","170","adj","cog","stupid.estúpido",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en","170","adj","cog","stupid.estúpido",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en","170","adj","cog","stupid.estúpido",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en","170","adj","cog","stupid.estúpido",5
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en","170","adj","cog","stupid.estúpido",3
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en","170","adj","cog","stupid.estúpido",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en","170","adj","cog","stupid.estúpido",6
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en","170","adj","cog","stupid.estúpido",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en","170","adj","cog","stupid.estúpido",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en","170","adj","cog","stupid.estúpido",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en","170","adj","cog","stupid.estúpido",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en","170","adj","cog","stupid.estúpido",6
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en","170","adj","cog","stupid.estúpido",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en","170","adj","cog","stupid.estúpido",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en","170","adj","cog","stupid.estúpido",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en","170","adj","cog","stupid.estúpido",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en","170","adj","cog","stupid.estúpido",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en","171","adj","spec","native.nativo",7
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en","171","adj","spec","native.nativo",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en","171","adj","spec","native.nativo",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en","171","adj","spec","native.nativo",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en","171","adj","spec","native.nativo",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en","171","adj","spec","native.nativo",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en","171","adj","spec","native.nativo",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en","171","adj","spec","native.nativo",5
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en","171","adj","spec","native.nativo",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en","171","adj","spec","native.nativo",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en","171","adj","spec","native.nativo",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en","171","adj","spec","native.nativo",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en","171","adj","spec","native.nativo",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en","171","adj","spec","native.nativo",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en","171","adj","spec","native.nativo",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en","171","adj","spec","native.nativo",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en","171","adj","spec","native.nativo",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en","171","adj","spec","native.nativo",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en","171","adj","spec","native.nativo",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en","171","adj","spec","native.nativo",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en","171","adj","spec","native.nativo",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en","172","adj","cog","native.nativo",7
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en","172","adj","cog","native.nativo",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en","172","adj","cog","native.nativo",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en","172","adj","cog","native.nativo",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en","172","adj","cog","native.nativo",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en","172","adj","cog","native.nativo",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en","172","adj","cog","native.nativo",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en","172","adj","cog","native.nativo",5
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en","172","adj","cog","native.nativo",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en","172","adj","cog","native.nativo",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en","172","adj","cog","native.nativo",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en","172","adj","cog","native.nativo",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en","172","adj","cog","native.nativo",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en","172","adj","cog","native.nativo",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en","172","adj","cog","native.nativo",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en","172","adj","cog","native.nativo",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en","172","adj","cog","native.nativo",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en","172","adj","cog","native.nativo",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en","172","adj","cog","native.nativo",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en","172","adj","cog","native.nativo",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en","172","adj","cog","native.nativo",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en","173","do","spec","fruit.fruta",7
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en","173","do","spec","fruit.fruta",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en","173","do","spec","fruit.fruta",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en","173","do","spec","fruit.fruta",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en","173","do","spec","fruit.fruta",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en","173","do","spec","fruit.fruta",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en","173","do","spec","fruit.fruta",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en","173","do","spec","fruit.fruta",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en","173","do","spec","fruit.fruta",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en","173","do","spec","fruit.fruta",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en","173","do","spec","fruit.fruta",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en","173","do","spec","fruit.fruta",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en","173","do","spec","fruit.fruta",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en","173","do","spec","fruit.fruta",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en","173","do","spec","fruit.fruta",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en","173","do","spec","fruit.fruta",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en","173","do","spec","fruit.fruta",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en","173","do","spec","fruit.fruta",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en","173","do","spec","fruit.fruta",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en","173","do","spec","fruit.fruta",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en","173","do","spec","fruit.fruta",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en","174","do","cog","fruit.fruta",7
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en","174","do","cog","fruit.fruta",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en","174","do","cog","fruit.fruta",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en","174","do","cog","fruit.fruta",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en","174","do","cog","fruit.fruta",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en","174","do","cog","fruit.fruta",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en","174","do","cog","fruit.fruta",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en","174","do","cog","fruit.fruta",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en","174","do","cog","fruit.fruta",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en","174","do","cog","fruit.fruta",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en","174","do","cog","fruit.fruta",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en","174","do","cog","fruit.fruta",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en","174","do","cog","fruit.fruta",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en","174","do","cog","fruit.fruta",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en","174","do","cog","fruit.fruta",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en","174","do","cog","fruit.fruta",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en","174","do","cog","fruit.fruta",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en","174","do","cog","fruit.fruta",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en","174","do","cog","fruit.fruta",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en","174","do","cog","fruit.fruta",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en","174","do","cog","fruit.fruta",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en","175","do","spec","coffee.café",7
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en","175","do","spec","coffee.café",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en","175","do","spec","coffee.café",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en","175","do","spec","coffee.café",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en","175","do","spec","coffee.café",3
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en","175","do","spec","coffee.café",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en","175","do","spec","coffee.café",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en","175","do","spec","coffee.café",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en","175","do","spec","coffee.café",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en","175","do","spec","coffee.café",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en","175","do","spec","coffee.café",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en","175","do","spec","coffee.café",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en","175","do","spec","coffee.café",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en","175","do","spec","coffee.café",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en","175","do","spec","coffee.café",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en","175","do","spec","coffee.café",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en","175","do","spec","coffee.café",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en","175","do","spec","coffee.café",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en","175","do","spec","coffee.café",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en","175","do","spec","coffee.café",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en","175","do","spec","coffee.café",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en","176","do","cog","coffee.café",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en","176","do","cog","coffee.café",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en","176","do","cog","coffee.café",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en","176","do","cog","coffee.café",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en","176","do","cog","coffee.café",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en","176","do","cog","coffee.café",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en","176","do","cog","coffee.café",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en","176","do","cog","coffee.café",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en","176","do","cog","coffee.café",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en","176","do","cog","coffee.café",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en","176","do","cog","coffee.café",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en","176","do","cog","coffee.café",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en","176","do","cog","coffee.café",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en","176","do","cog","coffee.café",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en","176","do","cog","coffee.café",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en","176","do","cog","coffee.café",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en","176","do","cog","coffee.café",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en","176","do","cog","coffee.café",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en","176","do","cog","coffee.café",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en","176","do","cog","coffee.café",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en","176","do","cog","coffee.café",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en","177","doio","spec","pancakes.panqueques",7
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en","177","doio","spec","pancakes.panqueques",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en","177","doio","spec","pancakes.panqueques",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en","177","doio","spec","pancakes.panqueques",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en","177","doio","spec","pancakes.panqueques",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en","177","doio","spec","pancakes.panqueques",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en","177","doio","spec","pancakes.panqueques",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en","177","doio","spec","pancakes.panqueques",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en","177","doio","spec","pancakes.panqueques",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en","177","doio","spec","pancakes.panqueques",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en","177","doio","spec","pancakes.panqueques",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en","177","doio","spec","pancakes.panqueques",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en","177","doio","spec","pancakes.panqueques",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en","177","doio","spec","pancakes.panqueques",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en","177","doio","spec","pancakes.panqueques",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en","177","doio","spec","pancakes.panqueques",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en","177","doio","spec","pancakes.panqueques",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en","177","doio","spec","pancakes.panqueques",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en","177","doio","spec","pancakes.panqueques",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en","177","doio","spec","pancakes.panqueques",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en","177","doio","spec","pancakes.panqueques",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en","178","doio","cog","pancakes.panqueques",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en","178","doio","cog","pancakes.panqueques",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en","178","doio","cog","pancakes.panqueques",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en","178","doio","cog","pancakes.panqueques",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en","178","doio","cog","pancakes.panqueques",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en","178","doio","cog","pancakes.panqueques",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en","178","doio","cog","pancakes.panqueques",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en","178","doio","cog","pancakes.panqueques",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en","178","doio","cog","pancakes.panqueques",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en","178","doio","cog","pancakes.panqueques",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en","178","doio","cog","pancakes.panqueques",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en","178","doio","cog","pancakes.panqueques",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en","178","doio","cog","pancakes.panqueques",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en","178","doio","cog","pancakes.panqueques",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en","178","doio","cog","pancakes.panqueques",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en","178","doio","cog","pancakes.panqueques",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en","178","doio","cog","pancakes.panqueques",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en","178","doio","cog","pancakes.panqueques",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en","178","doio","cog","pancakes.panqueques",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en","178","doio","cog","pancakes.panqueques",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en","178","doio","cog","pancakes.panqueques",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en","179","doio","spec","soup.sopa",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en","179","doio","spec","soup.sopa",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en","179","doio","spec","soup.sopa",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en","179","doio","spec","soup.sopa",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en","179","doio","spec","soup.sopa",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en","179","doio","spec","soup.sopa",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en","179","doio","spec","soup.sopa",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en","179","doio","spec","soup.sopa",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en","179","doio","spec","soup.sopa",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en","179","doio","spec","soup.sopa",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en","179","doio","spec","soup.sopa",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en","179","doio","spec","soup.sopa",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en","179","doio","spec","soup.sopa",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en","179","doio","spec","soup.sopa",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en","179","doio","spec","soup.sopa",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en","179","doio","spec","soup.sopa",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en","179","doio","spec","soup.sopa",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en","179","doio","spec","soup.sopa",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en","179","doio","spec","soup.sopa",7
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en","179","doio","spec","soup.sopa",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en","179","doio","spec","soup.sopa",7
+2943,26,"Female","Some college",4,1,"Hispanic",73.744,91,65,43,7,22,14,24,22,30,22,88.75,10,"main","en","180","doio","cog","soup.sopa",6
+5614,27,"Woman","Masters",7,0,"Mexican, Latinx",-8.9,89,74,24,28,22,24,21,24,38,45,96.25,42,"main","en","180","doio","cog","soup.sopa",7
+1522,30,"Female ","Some college",6,2,"Hispanic ",42.864,88,82,34,18,23,13,24,24,38,36,87.5,4,"main","en","180","doio","cog","soup.sopa",7
+2562,33,"female","Masters",0,0,"mexican puerto rican",47.312,103,70,31,18,20,12,23,23,35,41,91.25,11,"main","en","180","doio","cog","soup.sopa",7
+6176,34,"Male","College",0,0,"Mexican-American",78.462,112,49,37,10,22,13,24,24,37,37,98.75,24,"main","en","180","doio","cog","soup.sopa",7
+2742,31,"Male","Masters",0,0,"Latino/Mexicano",41.502,110,72,36,20,23,21,22,21,37,47,100,47,"main","en","180","doio","cog","soup.sopa",7
+8514,23,"Cis male ","College",3,0,"Mexican American ",23.248,94,77,30,22,24,19,19,21,36,43,75,12,"main","en","180","doio","cog","soup.sopa",7
+2487,38,"Female","Some college",0,0,"Mexican/American",102.574,118,44.5,40,1.5,24,16,24,20,36,37,91.25,44,"main","en","180","doio","cog","soup.sopa",7
+4323,33,"Male","College",0,0,"Mexican/Indian ",61.028,111,79,37,11,21,13,24,24,37,37,96.25,17,"main","en","180","doio","cog","soup.sopa",7
+4577,34,"Female","PhD/MD/JD",5,0,"Mexican",57.44,108,65.5,35,12.5,24,18,24,24,39,45,98.75,41,"main","en","180","doio","cog","soup.sopa",7
+4623,19,"Male","Some college",5,0,"Latino",-3.992,87,90,31,23,24,21,16,24,34,37,80,0,"main","en","180","doio","cog","soup.sopa",7
+2594,21,"Female","Some college",6,0,"mexican ",25.432,64,61,36,16,24,21,22,24,37,32,86.25,-1,"main","en","180","doio","cog","soup.sopa",7
+9915,34,"Male","Masters",2,1,"Latino",40.506,108,94,38,15,24,20,24,24,35,41,75,12,"main","en","180","doio","cog","soup.sopa",7
+7975,22,"Female","College",0,5,"hispanic/mexican",128.043,116,54,40,2.5,24,12,24,10,39,22,75,12,"main","en","180","doio","cog","soup.sopa",7
+5064,25,"Hispanic","Some graduate school",5,0,"",7.448,81,79,30,24,20,20,21,21,37,45,83.75,35,"main","en","180","doio","cog","soup.sopa",7
+9291,21,"Female","College",0,0,"hispanic- venezuelan",69.384,109,63,38,6,24,21,24,21,38,35,75,12,"main","en","180","doio","cog","soup.sopa",7
+5539,32,"Female ","High school",0,0,"Mexican ",19.978,106,94,30,25,24,20,22,22,36,31,93.75,5,"main","en","180","doio","cog","soup.sopa",7
+3932,32,"Male ","College",4,0,"Latino/Hispanic",-62.567,78,101,21,35.5,21,23,10,24,37,47,96.25,52,"main","en","180","doio","cog","soup.sopa",7
+5884,32,"Female","Masters",3,0,"Mexican",32.236,89,45,30,25,21,18,19,19,31,38,77.5,32,"main","en","180","doio","cog","soup.sopa",6
+3210,29,"Woman","Masters",3,0,"Mexican ",37.417,99,86,32,13.5,21,14,18,20,37,45,0,0,"main","en","180","doio","cog","soup.sopa",7
+7790,32,"Male","Masters",0,0,"Chicano",29.97,113,98,37,22,24,21,18,18,37,41,75,12,"main","en","180","doio","cog","soup.sopa",7
